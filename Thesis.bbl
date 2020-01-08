@@ -1,33 +1,104 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{18}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 
-\bibitem[{Bjorvatn \& Eckel(2006)}]{Bjorvatn2006}
-\textsc{Bjorvatn}, K. \& C.~\textsc{Eckel} (2006): \enquote{{Policy Competition
-  for Foreign Direct Investment Between Asymmetric Countries}.}
-\newblock \emph{European Economic Review} \textbf{50(7)}: pp. 1891--1907.
+\bibitem[{Arcand \emph{et~al.}(2015)Arcand, Berkes, \&
+  Panizza}]{Arcandetal2012}
+\textsc{Arcand}, J., E.~\textsc{Berkes}, \& U.~\textsc{Panizza} (2015):
+  \enquote{Too much finance?}
+\newblock \emph{Journal of Economic Growth} \textbf{20(2)}: pp. 105--148.
 
-\bibitem[{Blomstrom \& Kokko(2003)}]{Blomstrom2003}
-\textsc{Blomstrom}, M. \& A.~\textsc{Kokko} (2003): \enquote{{The Economics of
-  Foreign Direct Investment Incentives}.}
-\newblock \emph{NBER Working Papers 9489}, National Bureau of Economic
-  Research, Inc.
+\bibitem[{Atje \& Jovanovic(1993)}]{AtjeJovanovich1993}
+\textsc{Atje}, R. \& B.~\textsc{Jovanovic} (1993): \enquote{Stock markets and
+  development.}
+\newblock \emph{European Economic Review} \textbf{37}: pp. 632--640.
 
-\bibitem[{Haaparanta(1996)}]{Haaparanta1996}
-\textsc{Haaparanta}, P. (1996): \enquote{{Competition for Foreign Direct
-  Investment}.}
-\newblock \emph{Journal of Public Economics} \textbf{63(1)}: pp. 141--53.
+\bibitem[{Bolton \emph{et~al.}(2011)Bolton, Santos, \&
+  Scheinkman}]{Boltonetal2011}
+\textsc{Bolton}, P., T.~\textsc{Santos}, \& J.~\textsc{Scheinkman} (2011):
+  \enquote{Cream skimming in financial markets.}
+\newblock \emph{Working Paper 16804}, National Bureau of Economic Research.
 
-\bibitem[{Haufler \& Wooton(2006)}]{Haufler2006}
-\textsc{Haufler}, A. \& I.~\textsc{Wooton} (2006): \enquote{{The Effects of
-  Regional Tax and Subsidy Coordination on Foreign Direct Investment}.}
-\newblock \emph{European Economic Review} \textbf{50(2)}: pp. 285--305.
+\bibitem[{Cecchetti \& Kharroubi(2012)}]{CecchettiKharroubi2012}
+\textsc{Cecchetti}, S.~G. \& E.~\textsc{Kharroubi} (2012): \enquote{Reassessing
+  the impact of finance on growth.}
+\newblock \emph{Working paper 381}, Bank for International Settlements.
 
-\bibitem[{Wells \emph{et~al.}(2001)Wells, Allen, Morisset, \&
-  Pirnia}]{Wells2001}
-\textsc{Wells}, L.~T., N.~\textsc{Allen}, J.~\textsc{Morisset}, \&
-  N.~\textsc{Pirnia} (2001): \emph{{Using Tax Incentives to Compete for Foreign
-  Investment: Are They Worth the Cost}?}
-\newblock Washington, DC: {FIAS}.
+\bibitem[{Cihak \emph{et~al.}(2013)Cihak, Demirguc-Kunt, Feyen, \&
+  Levine}]{Cihaketal2013}
+\textsc{Cihak}, M., A.~\textsc{Demirguc-Kunt}, E.~\textsc{Feyen}, \&
+  R.~\textsc{Levine} (2013): \enquote{Financial development in 205 economies,
+  1960 to 2010.}
+\newblock \emph{Working Paper 18946}, NBER.
+
+\bibitem[{Durlauf \emph{et~al.}(2008)Durlauf, Kourtellos, \&
+  Tan}]{Durlaufetal2008}
+\textsc{Durlauf}, S.~N., A.~\textsc{Kourtellos}, \& C.~M. \textsc{Tan} (2008):
+  \enquote{Are any growth theories robust?}
+\newblock \emph{The Economic Journal} \textbf{118}: pp. 329--346.
+
+\bibitem[{Fernandez \emph{et~al.}(2001)Fernandez, Ley, \&
+  Steel}]{Fernandezetal2001}
+\textsc{Fernandez}, C., E.~\textsc{Ley}, \& M.~F. \textsc{Steel} (2001):
+  \enquote{Model uncertainty in cross-country growth regressions.}
+\newblock \emph{Journal of Applied Econometrics} \textbf{16(5)}: pp. 563--576.
+
+\bibitem[{Kindelberger(1978)}]{Kindelberger1978}
+\textsc{Kindelberger}, C.~P. (1978): \emph{Manias, Panics and Crashes}.
+\newblock New York: Basic Books.
+
+\bibitem[{King \& Levine(1993)}]{KingLevine1993a}
+\textsc{King}, R.~G. \& R.~\textsc{Levine} (1993): \enquote{Finance,
+  entrepreneurship and growth: Schumpeter might be right.}
+\newblock \emph{Quarterly Journal of Economics} \textbf{108}: pp. 717--737.
+
+\bibitem[{Law \& Singh(2014)}]{LawSingh2014}
+\textsc{Law}, S.~H. \& N.~\textsc{Singh} (2014): \enquote{Does too much finance
+  harm economic growth?}
+\newblock \emph{Journal of Banking and Finance} \textbf{41}: pp. 36--44.
+
+\bibitem[{Levine \& Zervos(1998)}]{LevineZervos1998}
+\textsc{Levine}, R. \& S.~\textsc{Zervos} (1998): \enquote{Stock markets,
+  banks, and economic growth.}
+\newblock \emph{American Economic Review} \textbf{88(3)}: pp. 537--558.
+
+\bibitem[{Minsky(1991)}]{Minsky1991}
+\textsc{Minsky}, H. (1991): \emph{The Risk of Economic Crisis}, chapter The
+  Financial Instability Hypothesis: A Clarification, pp. 158--166.
+\newblock Chicago, IL: University of Chicago Press.
+
+\bibitem[{Pagano(1993)}]{Pagano1993}
+\textsc{Pagano}, M. (1993): \enquote{Financial markets and growth: An
+  overview.}
+\newblock \emph{European Economic Review} \textbf{37(2 -3)}: pp. 613 -- 622.
+
+\bibitem[{Raftery \emph{et~al.}(1997)Raftery, Madigan, \&
+  Hoeting}]{Rafteryetal1997}
+\textsc{Raftery}, A.~E., D.~\textsc{Madigan}, \& J.~A. \textsc{Hoeting} (1997):
+  \enquote{Bayesian model averaging for linear regression models.}
+\newblock \emph{Journal of the American Statistical Association}
+  \textbf{92(437)}: pp. 179--191.
+
+\bibitem[{Sala-I-Martin \emph{et~al.}(2004)Sala-I-Martin, Doppelhofer, \&
+  Miller}]{SalaiMartinetal2004}
+\textsc{Sala-I-Martin}, X., G.~\textsc{Doppelhofer}, \& R.~I. \textsc{Miller}
+  (2004): \enquote{{Determinants of long-term growth: A Bayesian averaging of
+  classical estimates (BACE) approach}.}
+\newblock \emph{American Economic Review} \textbf{94(4)}: pp. 813--835.
+
+\bibitem[{Stiglitz(2000)}]{Stiglitz2000}
+\textsc{Stiglitz}, J.~E. (2000): \enquote{Capital market liberalization,
+  economic growth, and instability.}
+\newblock \emph{World Development} \textbf{28}: pp. 1075--1086.
+
+\bibitem[{Tobin(1984)}]{Tobin1984}
+\textsc{Tobin}, J. (1984): \emph{On the Efficiency of Financial System}.
+\newblock Lloyds Bank Review.
+
+\bibitem[{Valickova \emph{et~al.}(2015)Valickova, Havranek, \&
+  Horvath}]{Valickovaetal2014}
+\textsc{Valickova}, P., T.~\textsc{Havranek}, \& R.~\textsc{Horvath} (2015):
+  \enquote{Financial development and economic growth: A meta-analysis.}
+\newblock \emph{Journal of Economic Surveys} p. forthcoming.
 
 \end{thebibliography}
