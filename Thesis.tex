@@ -60,8 +60,23 @@
 %-----<<<<<<<<<<<< STYLES >>>>>>>>>>>>-----      														
 \usepackage{Styles/Head}
 \usepackage{Styles/Mystyle}
+%-----<<< --------------------------------- >>>-----
+
+%-----<<<<<<<<<<<< BIBLIOGRAPHY with biblatex >>>>>>>>>>>>-----      														
 \usepackage[style=apa]{biblatex}
-\addbibresource{Styles/literature.bib}	
+\DeclareSourcemap{
+  \maps[datatype=bibtex]{
+    \map{ % set fields in .bib file to ignore
+      \step[fieldset=issn, null]
+      \step[fieldset=isbn, null]
+      \step[fieldset=abstract, null]
+      \step[fieldset=doi, null]
+      \step[fieldset=url, null]
+    }
+  }
+}
+%
+\addbibresource{Styles/literature.bib}	% bib file
 %-----<<< --------------------------------- >>>-----
 
 %-----<<<<<<<<<<<< DOCUMENT >>>>>>>>>>>>-----
@@ -142,7 +157,7 @@
 \end{refsection}
 \input{02_Mainmatter/02.tex}
 \input{02_Mainmatter/03.tex}
-% \input{02_Mainmatter/04.tex}
+\input{02_Mainmatter/04.tex}
 % \input{02_Mainmatter/05.tex}
 % \input{02_Mainmatter/06.tex}
 % \input{02_Mainmatter/99_Concl.tex}

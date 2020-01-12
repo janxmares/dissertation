@@ -50,7 +50,7 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {2.6}Conclusions}{33}{section.2.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{Bibliography}{40}{chapter*.42}%
+\contentsline {section}{Bibliography}{39}{chapter*.42}%
 \defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {2.A}Description of the Dataset}{40}{section.1.2.A}%
 \defcounter {refsection}{2}\relax 
@@ -95,3 +95,19 @@
 \contentsline {section}{\numberline {3.G}Dataset description}{89}{section.2.3.G}%
 \defcounter {refsection}{3}\relax 
 \contentsline {section}{\numberline {3.H}Bayesian Model Averaging}{92}{section.2.3.H}%
+\defcounter {refsection}{4}\relax 
+\contentsline {chapter}{\numberline {4}Finance and Inequality - panel BMA approach}{98}{chapter.4}%
+\defcounter {refsection}{4}\relax 
+\contentsline {section}{\numberline {4.1}Introduction}{99}{section.4.1}%
+\defcounter {refsection}{4}\relax 
+\contentsline {section}{\numberline {4.2}Related literature}{99}{section.4.2}%
+\defcounter {refsection}{4}\relax 
+\contentsline {section}{\numberline {4.3}Data}{102}{section.4.3}%
+\defcounter {refsection}{4}\relax 
+\contentsline {section}{\numberline {4.4}Methodology}{106}{section.4.4}%
+\defcounter {refsection}{4}\relax 
+\contentsline {section}{\numberline {4.5}Results}{106}{section.4.5}%
+\defcounter {refsection}{4}\relax 
+\contentsline {section}{\numberline {4.6}Conclusion}{106}{section.4.6}%
+\defcounter {refsection}{4}\relax 
+\contentsline {section}{Bibliography}{109}{chapter*.107}%

@@ -894,6 +894,15 @@
   </bcf:datafieldset>
   <!-- SOURCEMAP -->
   <bcf:sourcemap>
+    <bcf:maps datatype="bibtex" level="user">
+      <bcf:map>
+        <bcf:map_step map_field_set="issn" map_null="1"/>
+        <bcf:map_step map_field_set="isbn" map_null="1"/>
+        <bcf:map_step map_field_set="abstract" map_null="1"/>
+        <bcf:map_step map_field_set="doi" map_null="1"/>
+        <bcf:map_step map_field_set="url" map_null="1"/>
+      </bcf:map>
+    </bcf:maps>
     <bcf:maps datatype="bibtex" level="style">
       <bcf:map>
         <bcf:map_step map_type_source="reference" map_type_target="book"/>
@@ -2886,6 +2895,68 @@
     <bcf:datasource type="file" datatype="bibtex">Styles/literature.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="4">
+    <bcf:citekey order="1">demirgucc2009finance</bcf:citekey>
+    <bcf:citekey order="2">claessens2007finance</bcf:citekey>
+    <bcf:citekey order="3">oecd2013crisis</bcf:citekey>
+    <bcf:citekey order="4">demirgucc2009finance</bcf:citekey>
+    <bcf:citekey order="5">claessens2007finance</bcf:citekey>
+    <bcf:citekey order="6">de2017finance</bcf:citekey>
+    <bcf:citekey order="7">demirgucc2009finance</bcf:citekey>
+    <bcf:citekey order="8">galorzeira1993income</bcf:citekey>
+    <bcf:citekey order="8">galormoav2004</bcf:citekey>
+    <bcf:citekey order="8">braunetal2019</bcf:citekey>
+    <bcf:citekey order="9">evans1989estimated</bcf:citekey>
+    <bcf:citekey order="9">banerjeenewman1990</bcf:citekey>
+    <bcf:citekey order="10">GreenwoodJovanovic1990</bcf:citekey>
+    <bcf:citekey order="11">perotti2007investor</bcf:citekey>
+    <bcf:citekey order="12">townsendeueda2006</bcf:citekey>
+    <bcf:citekey order="13">beck2010big</bcf:citekey>
+    <bcf:citekey order="14">delis2014</bcf:citekey>
+    <bcf:citekey order="15">van2018inequality</bcf:citekey>
+    <bcf:citekey order="16">gilens_page_2014</bcf:citekey>
+    <bcf:citekey order="17">beck2007finance</bcf:citekey>
+    <bcf:citekey order="17">hamori2012</bcf:citekey>
+    <bcf:citekey order="17">gimet2011closer</bcf:citekey>
+    <bcf:citekey order="17">kunieda2014finance</bcf:citekey>
+    <bcf:citekey order="18">de2017finance</bcf:citekey>
+    <bcf:citekey order="19">Jaumotte2013</bcf:citekey>
+    <bcf:citekey order="19">jauch2016financial</bcf:citekey>
+    <bcf:citekey order="19">de2017finance</bcf:citekey>
+    <bcf:citekey order="20">kim2011nonlinearity</bcf:citekey>
+    <bcf:citekey order="20">tan2012nonlinear</bcf:citekey>
+    <bcf:citekey order="21">LawSingh2014</bcf:citekey>
+    <bcf:citekey order="21">delis2014</bcf:citekey>
+    <bcf:citekey order="22">de2017finance</bcf:citekey>
+    <bcf:citekey order="23">naceurzhang2016</bcf:citekey>
+    <bcf:citekey order="24">furceri2019robust</bcf:citekey>
+    <bcf:citekey order="25">Solt2019</bcf:citekey>
+    <bcf:citekey order="26">alvaredo2016distributional</bcf:citekey>
+    <bcf:citekey order="27">dabla2015causes</bcf:citekey>
+    <bcf:citekey order="27">de2017finance</bcf:citekey>
+    <bcf:citekey order="28">delis2014</bcf:citekey>
+    <bcf:citekey order="29">svirydzenka2016introducing</bcf:citekey>
+    <bcf:citekey order="30">svirydzenka2016introducing</bcf:citekey>
+    <bcf:citekey order="31">roineetal2009</bcf:citekey>
+    <bcf:citekey order="31">nolan2019drivers</bcf:citekey>
+    <bcf:citekey order="32">de2017finance</bcf:citekey>
+    <bcf:citekey order="33">furceri2019robust</bcf:citekey>
+    <bcf:citekey order="34">das2003income</bcf:citekey>
+    <bcf:citekey order="35">kroszneretal2007</bcf:citekey>
+    <bcf:citekey order="36">svirydzenka2016introducing</bcf:citekey>
+    <bcf:citekey order="37">svirydzenka2016introducing</bcf:citekey>
+    <bcf:citekey order="38">svirydzenka2016introducing</bcf:citekey>
+    <bcf:citekey order="39">svirydzenka2016introducing</bcf:citekey>
+    <bcf:citekey order="40">svirydzenka2016introducing</bcf:citekey>
+    <bcf:citekey order="41">gwartney2017</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 5 -->
+  <bcf:bibdata section="5">
+    <bcf:datasource type="file" datatype="bibtex">Styles/literature.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="5">
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2934,6 +3005,15 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="3"
+                name="apa/global//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="4"
                 name="apa/global//global/global"
                 type="entry"
                 sortingtemplatename="apa"
