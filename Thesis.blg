@@ -1,0 +1,35 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[1] Config.pm:307> INFO - Logfile is 'Thesis.blg'
+[230] biber-MSWIN64:322> INFO - === 
+[284] Biber.pm:415> INFO - Reading 'Thesis.bcf'
+[747] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[748] Biber.pm:943> INFO - Found 0 citekeys in bib section 1
+[748] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[801] Biber.pm:943> INFO - Found 65 citekeys in bib section 2
+[802] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[851] Biber.pm:943> INFO - Found 76 citekeys in bib section 3
+[852] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[852] Biber.pm:943> INFO - Found 0 citekeys in bib section 4
+[852] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[1023] Biber.pm:4256> INFO - Processing section 2
+[1024] Utils.pm:75> INFO - Globbing data source 'Styles/literature.bib'
+[1051] Utils.pm:91> INFO - Globbed data source 'Styles/literature.bib' to Styles/literature.bib
+[1093] Biber.pm:4455> INFO - Looking for bibtex format file 'Styles/literature.bib' for section 2
+[1144] bibtex.pm:1653> INFO - LaTeX decoding ...
+[2754] bibtex.pm:1471> INFO - Found BibTeX data source 'Styles/literature.bib'
+[4217] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4217] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4217] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[4217] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[4524] Biber.pm:4256> INFO - Processing section 3
+[4525] Utils.pm:75> INFO - Globbing data source 'Styles/literature.bib'
+[4526] Utils.pm:91> INFO - Globbed data source 'Styles/literature.bib' to Styles/literature.bib
+[4526] Biber.pm:4455> INFO - Looking for bibtex format file 'Styles/literature.bib' for section 3
+[6196] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[6197] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[6197] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[6197] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[6552] bbl.pm:652> INFO - Writing 'Thesis.bbl' with encoding 'cp1250'
+[6754] Utils.pm:304> WARN - The entry 'castaneda2003' has characters which cannot be encoded in 'cp1250'. Recoding problematic characters into macros.
+[6902] bbl.pm:755> INFO - Output to Thesis.bbl
+[6914] Biber.pm:128> INFO - WARNINGS: 1
