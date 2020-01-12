@@ -4,12 +4,13 @@
 \usepackage{latexsym}
 \usepackage{graphicx}
 \usepackage{textcomp}										%provides \texteuro, \textcelsius etc.
-\usepackage[smaller]{acronym}
+\usepackage[smaller,printonlyused]{acronym}
 \usepackage{float}
 \usepackage{picins}                     %text beside figure
 \usepackage[width=.90\textwidth,hang,sf]{caption}		% captions in sans serif
 \usepackage{subfigure}                  %text beside figure
 \usepackage{natbib}											%style of literature (citations in hyperlinks)
+\usepackage{chapterbib}  
 \bibpunct{(}{)}{;}{a}{}{;}							%see http://merkel.zoneo.net/Latex/natbib.php
 \usepackage{sectsty}
 \usepackage{boxedminipage}
@@ -21,6 +22,15 @@
 \usepackage{setspace}
 \usepackage{lscape}											%enables landscape environment (for big tables)
 \usepackage{totpages}
+\usepackage{rotating}         % sideway tables
+\usepackage{appendix}         % subappendicies
+\usepackage{multirow}         % multirows in tables
+\usepackage{colortbl}         % colored cells in tables
+\usepackage{threeparttable}   % to use tables with 3 parts (particularly talbe footnotes)
+\usepackage{floatrow}         % alternative to threeparttable
+\usepackage{longtable}        % table across multiple pages
+\usepackage{tabularx}         % extra table features
+
 %\usepackage[colorlinks=false, unicode, tex, pdfauthor={\AuthorDP},
 %            pdftitle={\Bookname},
 %            pdfsubject={\Subject},
@@ -157,4 +167,3 @@
   \endgroup
 }
 %-----<<< ------ >>>-----
-

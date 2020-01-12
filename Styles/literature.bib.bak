@@ -1634,17 +1634,16 @@
 }
 
 @Article{Valickovaetal2014,
-  author      = {Petra Valickova and Tomas Havranek and Roman Horvath},
-  title       = {Financial Development and Economic Growth: A Meta-Analysis},
-  journal     = {Journal of Economic Surveys},
-  year        = {2015},
-  volume      = {29},
-  number      = {3},
-  pages       = {506--526},
-  institution = {Journal of Economic Surveys},
-  owner       = {jxm},
-  timestamp   = {2014.05.03},
-  type        = {Working Paper},
+  Title                    = {Financial Development and Economic Growth: A Meta-Analysis},
+  Author                   = {Petra Valickova and Tomas Havranek and Roman Horvath},
+  Journal                  = {Journal of Economic Surveys},
+  Year                     = {2015},
+  Pages                    = {forthcoming},
+
+  Institution              = {Journal of Economic Surveys},
+  Owner                    = {jxm},
+  Timestamp                = {2014.05.03},
+  Type                     = {Working Paper}
 }
 
 @Article{Williamson1986,

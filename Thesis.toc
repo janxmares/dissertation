@@ -1,6 +1,48 @@
 \contentsline {chapter}{List of Tables}{vi}{section*.10}%
 \contentsline {chapter}{List of Figures}{vii}{section*.12}%
 \contentsline {chapter}{Acronyms}{viii}{section*.14}%
-\contentsline {chapter}{\numberline {1}What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}%
-\contentsline {chapter}{Bibliography}{7}{chapter*.16}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Empirical Literature on Finance and Growth}{6}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Empirical Evidence}{6}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Measurement of Financial Development}{8}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Data}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Bayesian Model Averaging}{11}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Posterior Model Probability}{12}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Posterior Mean}{13}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Posterior Variance}{14}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Marginal Likelihood}{14}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Posterior Inclusion Probability}{15}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Priors}{15}{subsection.2.4.6}%
+\contentsline {subsubsection}{Parameter Priors}{15}{section*.24}%
+\contentsline {subsubsection}{Model Priors}{16}{section*.27}%
+\contentsline {subsection}{\numberline {2.4.7}\ac {MCMC} Sampler}{18}{subsection.2.4.7}%
+\contentsline {section}{\numberline {2.5}Results}{19}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Private Credit}{20}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}New Financial Development Indicators}{24}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Non--linearities in Finance and Growth Nexus}{30}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}Conclusions}{32}{section.2.6}%
+\contentsline {section}{Bibliography}{33}{section.2.6}%
+\contentsline {section}{\numberline {2.A}Description of the Dataset}{34}{section.1.2.A}%
+\contentsline {section}{\numberline {2.B}Jointness of financial indicators}{36}{section.1.2.B}%
+\contentsline {chapter}{\numberline {3}Finance and Wealth Inequality}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{40}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Related literature}{42}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Data}{44}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}\ac {CSWD}}{46}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3.4}Bayesian Model Averaging}{48}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Results}{52}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Baseline estimation}{52}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}High vs. low-income countries}{59}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Endogeneity issues}{61}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}Concluding Remarks}{63}{section.3.6}%
+\contentsline {section}{Bibliography}{65}{section.3.6}%
+\contentsline {section}{\numberline {3.A}Additional robustness checks}{66}{section.2.3.A}%
+\contentsline {section}{\numberline {3.B}List of countries}{70}{section.2.3.B}%
+\contentsline {section}{\numberline {3.C}Grouping of explanatory variables}{71}{section.2.3.C}%
+\contentsline {section}{\numberline {3.D}Descriptive statistics, correlation matrix, expected effects}{72}{section.2.3.D}%
+\contentsline {section}{\numberline {3.E}Top models by their posterior model probability, group \acp {PIP}}{75}{section.2.3.E}%
+\contentsline {section}{\numberline {3.F}\ac {OLS} estimates of the restricted models}{76}{section.2.3.F}%
+\contentsline {section}{\numberline {3.G}Dataset description}{77}{section.2.3.G}%
+\contentsline {section}{\numberline {3.H}Bayesian Model Averaging}{80}{section.2.3.H}%
