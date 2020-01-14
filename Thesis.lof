@@ -4,28 +4,16 @@
 \defcounter {refsection}{2}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{2}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Private credit and growth, 1960-2011\relax }}{21}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Gini Coefficient and top shares\relax }}{8}{figure.caption.29}%
 \defcounter {refsection}{2}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Model comparison with private credit, Model 1=hyper-g,birth-death; Model 2=hyper-g,reverse-jump; Model 3=\ac {UIP},birth-death; Model 4=\ac {UIP},reverse-jump\relax }}{24}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Gini Coefficient and Financial Development Indicators\relax }}{10}{figure.caption.31}%
 \defcounter {refsection}{2}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Financial indicators and growth\relax }}{26}{figure.caption.35}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Robustness checks with alternative model priors, Gini coefficient\relax }}{11}{figure.caption.32}%
 \defcounter {refsection}{2}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Model comparison with all financial indicators 1960-2011, priors Model 1=hyper-g, uniform model prior; Model 2=\ac {UIP}, uniform model prior, Model 3=hyper-g, dilution model prior\relax }}{30}{figure.caption.39}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Robustness checks with alternative model priors, Top 10 \% share\relax }}{11}{figure.caption.33}%
 \defcounter {refsection}{2}\relax 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Model comparison with private credit, Model 1=hyper-g, random model prior; Model 2=\ac {UIP}, random model prior\relax }}{43}{figure.caption.45}%
-\defcounter {refsection}{3}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{3}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Finance and Wealth Inequality\relax }}{60}{figure.caption.65}%
-\defcounter {refsection}{3}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Robustness Check: Different Prior Structure\relax }}{64}{figure.caption.69}%
-\defcounter {refsection}{3}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Effects of individual financial development components on inequality\relax }}{66}{figure.caption.70}%
-\defcounter {refsection}{3}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Top 10\% wealth and income shares in \ac {OECD} countries\relax }}{92}{figure.caption.91}%
-\defcounter {refsection}{4}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{4}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Gini Coefficient and Financial Development Indicators\relax }}{104}{figure.caption.105}%
-\defcounter {refsection}{4}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Gini Coefficient and Financial Development Indicators\relax }}{105}{figure.caption.106}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Robustness checks with alternative model priors, Top 1\% share\relax }}{15}{figure.caption.34}%
+\defcounter {refsection}{2}\relax 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces \acp {PIP} with different inequality measures\relax }}{16}{figure.caption.35}%
+\defcounter {refsection}{2}\relax 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces \acp {PIP} for different top income shares with baseline priors\relax }}{17}{figure.caption.36}%

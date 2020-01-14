@@ -55,41 +55,79 @@ To explore the relationship in the top part of the distribution, we choose top i
 
 The data spans from 2000 to 2014. We follow the literature \parencite{dabla2015causes,de2017finance} and average both the inequality measure (dependent variable) and the potential determinants (independent variables) across three year intervals. There are important reasons for looking at the averages than observation in individual years. Annual macroeconomic data are subject to fluctuations and the data on income inequality is noisy \textcite{delis2014}. Averaging should diminish the level of noise. On the top of that, the variables at the center of our analysis, e.g. stock market capitalization or credit to \ac{GDP}, are likely to be affected by the business cycles and volatile on the yearly basis. Similar argument holds for top income shares, as they depend, among other things, on the bonuses paid out each year and capital income. We want to explore the long-term rather than the short-term relationship and that guides the choice of averaged data. Faced against the trade-off between length of the averaging periods and available observations in the time dimension, we take a compromise of three years in contrast to the literature, where generally the 5-year intervals apply. The availability of financial development indicators limits the analysis to a period from 2000 onward and we prefer to keep at least 5 unique time periods to just three under the case of 5-year average\footnote{Nevertheless, we run the estimation with 5-year averages of data as a robustness check and find no critical qualitative differences compared to the baseline.}.
 
-Table \ref{ch4tab:ineq} report the summary statistics and correlations between the income inequality variables.
+Table \ref{ch4tab:sum} report the summary statistics of the income inequality variables and financial development indicators.
+
+% \begin{table}[ht!]
+%     \small
+%     \caption{Summary statistics of inequality variables}
+%     \label{ch4tab:ineq}
+%     \centering
+%        \begin{tabular}{lrrrr}
+%         \toprule
+%         Variable & Mean & St. Dev. & Min & Max \\
+%         \midrule
+%         After-tax Gini index  & & & & \\
+%         Top 10\% income share & & & & \\
+%         Top 1\% income share & & & & \\
+%         \bottomrule
+%     \end{tabular}
+% \end{table}
 
 \begin{table}[ht!]
-    \small
-    \caption{Summary statistics of inequality variables}
-    \label{ch4tab:ineq}
-    \centering
-       \begin{tabular}{lrrrr}
-        \toprule
-        Variable & Mean & St. Dev. & Min & Max \\
-        \midrule
-        After-tax Gini index  & & & & \\
-        Top 10\% income share & & & & \\
-        Top 1\% income share & & & & \\
-        \bottomrule
-    \end{tabular}
+  \small
+  \caption{Summary statistics of selected variables}
+  \label{ch4tab:sum}
+  \centering
+     \begin{tabular}{lrrrr}
+      \toprule
+      Variable & Mean & St. Dev. & Min & Max \\
+      \midrule
+      After-tax Gini index  & 36.38 & 8.12 & 22.88 & 61.16 \\
+      Top 10\% income share & 0.42 & 0.12 & 0.24 & 0.71 \\
+      Top 1\% income share & 0.14 & 0.06 & 0.05 & 0.38 \\
+      FIA & 0.42 & 0.32 & 0.01 & 1.00 \\
+      FIE & 0.60 & 0.13 & 0.11 & 0.81 \\
+      FID & 0.37 & 0.30 & 0.01 & 1.00 \\      
+      FMD & 0.33 & 0.32 & 0.00 & 0.99 \\
+      \bottomrule
+  \end{tabular}
 \end{table}
+%
+%
+%
+%
+%
+
+\begin{table}[htbp!]
+  \small
+  \caption{Correlation matrix of selected variables}
+  \label{ch4tab:corr}
+  \centering
+  \begin{tabular}{lrrrrrrr}
+    \toprule
+  %  & GiniNet & Top10share & Top1share & FIA & FIE & FID & FMD \\
+    % \midrule
+    After-tax Gini index  & . &  &  &  &  &  &  \\
+    Top 10\% income share & 0.47 & . &  &  &  &  &  \\ 
+    Top 1\% income share & 0.39 & 0.84 & . &  &  &  &  \\
+    FIA & -0.14 & -0.09 & -0.12 & . &  &  &  \\
+    FIE & -0.14 & -0.10 & -0.06 & 0.28 & . &  &  \\ 
+    FID & -0.07 & 0.12 & 0.06 & 0.60 & 0.24 & . &  \\
+    FMD & 0.03 & 0.2 & 0.13 & 0.36 & 0.1 & 0.40 & . \\ 
+     \bottomrule
+  \end{tabular}
+  \end{table}
 
 We obtain the financial development indicators from \ac{GFDD}. The database offers detailed indicators along four dimensions of financial systems and allows to estimate the affect of changes in access, size, efficiency, and stability of financial markets. Furthermore, we can distinguish between banking sector and financial markets in all these dimensions. The data in for access and stability of stock markets remains sparse in the concerned period we must leave them out of analysis. We use the version of financial indicators from \cite{svirydzenka2016introducing}. The authors make use of principal component analysis in order to construct aggregate indicators in each characteristic of financial sector. In summary, we have indicators of financial institutions depth (FID), financial markets depth (FMD), access to financial institutions (FIA), efficiency of financial markets (FME), and institutions (FIE)\footnote{\textcite{svirydzenka2016introducing} extrapolate the indicators from top to bottom if the original variables are unavailable, we make sure that that at least one variable is available for the construction of the index and no artificial correlation introduced to the data.}. We report the composition of each indicator in Table \ref{ch4tab:finind}. 
 
 \begin{figure}
-    \caption{Gini Coefficient and Financial Development Indicators}
-    \label{ch4fig:gini_findev}
-    \includegraphics[width=\textwidth, keepaspectratio]{figures/ch4/plots_findev_gini}
+  \caption{Gini Coefficient and top shares}
+  \label{ch4fig:gini_topshares}
+  \includegraphics[width=\textwidth, keepaspectratio]{figures/ch4/plots_ineq}
 \end{figure}
 
-\begin{figure}
-    \caption{Gini Coefficient and Financial Development Indicators}
-    \label{ch4fig:gini_findev_dm}
-    \includegraphics[width=\textwidth, keepaspectratio]{figures/ch4/plots_findev_gini_dm}
-\end{figure}
+% Figure \ref{ch4fig:gini_findev} shows the scatter plots of all the available observations after averaging between Gini coefficient and selected financial indicators. Although the data is noisy, it suggest negative correlation between the variables. Figure \ref{ch4fig:gini_findev_dm} then shows the corresponding scatter plots of the data which was demeaned using the within country averages over time. %The relationship between Gini and financial indicators appears considerably weaker following the transformation, with the exception of access to financial institutions where visual inspection allows pointing to a negative correlation.
 
-Figure \ref{ch4fig:gini_findev} shows the scatter plots of all the available observations after averaging between Gini coefficient and selected financial indicators. Although the data is noisy, it suggest negative correlation between the variables. Figure \ref{ch4fig:gini_findev_dm} then shows the corresponding scatter plots of the data which was demeaned using the within country averages over time. The relationship between Gini and financial indicators appears considerably weaker following the transformation, with the exception of access to financial institutions where visual inspection allows pointing to a negative correlation.
-
- 
 We build the choice of other explanatory variables on a reviews of income inequality drivers \parencite{roineetal2009,nolan2019drivers}, related study of finance-inequality nexus \parencite{de2017finance}, and a more general inquiry into the robust determinants of income inequality \parencite{furceri2019robust}. The potential regressors could be categorized in several groups. They control for economic and financial development, demographics, globalization, and institutional background. Table \ref{ch4app:exog} reports all the control variables and their sources. 
 
 % \textcite{nolan2019drivers} bring a survey of the literature on determinants of inequality, summarizing the complexity of the inequality dynamics. They stress that many of the determinants are interlinked which implies difficulty in assigning precise effects to individual drivers of inequality. Additionally, they encourage complementary individual country case studies to support the finding of the general cross-country estimates.
@@ -98,11 +136,229 @@ We build the choice of other explanatory variables on a reviews of income inequa
 %
 %
 \section{Methodology}
-\label{ch4sec:methogology}
+\label{ch4sec:methodology}
 
 \section{Results}
 \label{ch4sec:results}
+We examine the determinants of inequality in the panel \ac{BMA} framework and present the results in the following sections. We start with a model where we capture the overall inequality by Gini index in \ref{ch4subsec:gini}. We then continue to estimations where we consider the shares of income going to the top 10\% and top 1\% of the income distribution as our dependent variable. We check the robustness of our estimates by employing alternative model and parameter priors throughout the analysis.
+
+\subsection{Gini index of inequality}\label{ch4subsec:gini}
+We focus the analysis on the relationship between the indicators representing various aspects of financial development and income inequality. Figure \ref{ch4fig:gini_findev_dm} outlines the expected link after we have demeaned the variables using the cross-sectional averages. The relationship is not particularly strong, but we observe negative correlation between Gini index and indicators of access and efficiency of financial institutions, as suggested by a linear estimate. For size indicators of financial market and institutions, the link appears much weaker. 
+
+\begin{figure}
+  \caption{Gini Coefficient and Financial Development Indicators}
+  \label{ch4fig:gini_findev_dm}
+  \includegraphics[width=\textwidth, keepaspectratio]{figures/ch4/plots_findev_gini_dm}
+\end{figure}
+% \begin{figure}
+%   \caption{Gini Coefficient and Financial Development Indicators}
+%   \label{ch4fig:gini_findev}
+%   \includegraphics[width=\textwidth, keepaspectratio]{figures/ch4/plots_findev_gini}
+% \end{figure}
+
+
 The benefits of capital markets liberalization seem to be concentrated to the top of the income distribution. Top quintile of the distribution accrues nearly all of the income growth following the liberalization while the share of middle three quantiles decreases and the bottom remains unaffected \parencite{das2003income}.
+
+\begin{figure}
+  \caption{Robustness checks with alternative model priors, Gini coefficient}
+  \label{ch4fig:gini_comp}
+  \centering
+  \includegraphics[width=\textwidth, keepaspectratio]{figures/ch4/model_priors_comparison_gini}
+\end{figure}
+
+\begin{figure}
+  \caption{Robustness checks with alternative model priors, Top 10
+  \% share}
+  \label{ch4fig:top10_comp}
+  \centering
+  \includegraphics[width=\textwidth, keepaspectratio]{figures/ch4/model_priors_comparison_top10}
+\end{figure}
+
+\begin{figure}
+  \caption{Robustness checks with alternative model priors, Top 1\% share}
+  \label{ch4fig:top1_comp}
+  \centering
+  \includegraphics[width=\textwidth, keepaspectratio]{figures/ch4/model_priors_comparison_top1}
+\end{figure}
+
+\begin{figure}
+  \caption{\acp{PIP} with different inequality measures}
+  \label{ch4fig:comp_ineq_sel}
+  \centering
+  \includegraphics[width=0.8\textwidth, keepaspectratio]{figures/ch4/comp_baseline_pip_sel}
+
+  \begin{minipage}{0.8\textwidth}
+    \footnotesize
+    \emph{Note: The comparison only shows variables which show \ac{PIP} $> 0.9$ in at least one of the models.}
+    \end{minipage}
+\end{figure}
+
+\begin{figure}
+  \caption{\acp{PIP} for different top income shares with baseline priors}
+  \label{ch4fig:comp_topshares}
+  \centering
+  \includegraphics[width=\textwidth, keepaspectratio]{figures/ch4/topsh_comparison_all}
+  \begin{minipage}{0.8\textwidth}
+    \footnotesize
+    \emph{Note: Random note. This figure might not be included in the end.}
+    \end{minipage}
+\end{figure}
+
+\begin{table}[htbp!]
+  \caption{BMA, baseline results. Dependent variable after-tax Gini index, 394 observations.}\label{ch4res:baseline_gini}
+  \footnotesize
+  \centering
+  \begin{tabular}{lrrr}
+    \toprule
+                           & PIP & Post Mean & Post SD \\
+    \midrule
+    Education expenditures & 1.00 & -0.14506 & 0.05042 \\
+  GDP per capita & 1.00 & 1.62811 & 0.56870 \\
+  Unemployment & 1.00 & 0.23629 & 0.05907 \\
+  Non-equipment investment & 1.00 & 0.14977 & 0.05285 \\ 
+  Access to financial institutions & 1.00 & -0.24629 & 0.06342 \\
+  Education index (UN) & 1.00 & -0.58853 & 0.23865 \\ 
+  Redistribution & 1.00 & -0.22055 & 0.05051 \\
+  Education index sq. & 1.00 & 0.82252 & 0.22008 \\
+  GDP per capita sq. & 1.00 & -1.44906 & 0.57565 \\
+  Life expectancy & 0.99 & -0.22879 & 0.09750 \\ 
+  Economic freedom & 0.99 & 0.18518 & 0.06941 \\
+  Value added in agriculture & 0.97 & -0.12361 & 0.05947 \\
+  Government expenditures & 0.95 & 0.12259 & 0.05743 \\ 
+  Total population & 0.95 & -0.15378 & 0.08478 \\
+  Financial institutions efficiency & 0.88 & -0.08374 & 0.05599 \\
+  Inflation & 0.86 & 0.16879 & 0.12487 \\
+  \midrule
+  Inflation sq. & 0.66 & -0.11127 & 0.11201 \\ 
+  Value added in industry & 0.62 & -0.05825 & 0.06407 \\
+  Equipment investment & 0.44 & -0.03383 & 0.05359 \\ 
+  Financial markets depth & 0.27 & 0.01554 & 0.03673 \\ 
+  Gross domestic savings & 0.27 & -0.02022 & 0.04597 \\
+  % Period 4 & 0.25 & 0.01282 & 0.03330 \\ 
+  Social globalization & 0.23 & 0.02365 & 0.06279 \\
+  Restrictions on globalization & 0.15 & 0.00874 & 0.03214 \\
+  Trade openness & 0.13 & 0.00615 & 0.02589 \\
+  Left-wing orientation & 0.11 & 0.00339 & 0.01720 \\ 
+  Rule of law & 0.10 & -0.00333 & 0.01812 \\ 
+  Net FDI (\% GDP) & 0.10 & -0.00283 & 0.01575 \\ 
+  Natural resources rents & 0.08 & -0.00223 & 0.01583 \\ 
+  Chinn-Ito index & 0.07 & -0.00205 & 0.01780 \\ 
+  % Period 5 & 0.07 & 0.00025 & 0.02188 \\ 
+  % Period 2 & 0.07 & 0.00133 & 0.01321 \\
+  % Period 3 & 0.06 & -0.00027 & 0.01423 \\
+  Financial globalization & 0.06 & -0.00134 & 0.01466 \\
+  Civil liberties \& political rights & 0.06 & 0.00075 & 0.01131 \\ 
+  Financial institutions depth & 0.05 & 0.00060 & 0.01316 \\ 
+  GDP growth & 0.05 & 0.00016 & 0.01255 \\
+  Population growth & 0.05 & 0.00055 & 0.01052 \\ 
+  Political globalization & 0.05 & 0.00000 & 0.01432 \\  
+    \bottomrule
+  \end{tabular}
+  \end{table}
+
+\begin{table}[htbp!]
+  \caption{BMA, baseline results. Dependent variable Top 10\% share, 394 observations.}\label{ch4res:baseline_top10}
+    \footnotesize
+    \centering
+  \begin{tabular}{lrrr}
+      \toprule
+                              & PIP & Post Mean & Post SD \\
+      \midrule
+  Natural resources rents & 1.00 & -0.15595 & 0.04773 \\
+  GDP per capita & 1.00 & 2.13915 & 0.54791 \\
+  Life expectancy & 1.00 & -0.53327 & 0.09806 \\
+  Financial institutions depth & 1.00 & 0.20288 & 0.05638 \\
+  Access to financial institutions & 1.00 & -0.25218 & 0.06712 \\
+  Financial markets depth & 1.00 & 0.19376 & 0.04976 \\
+  GDP per capita sq. & 1.00 & -1.80042 & 0.55408 \\ 
+  Government expenditures & 1.00 & 0.15638 & 0.05565 \\ 
+  Rule of law & 1.00 & -0.12607 & 0.04665 \\
+  Education index (UN) & 1.00 & -0.49573 & 0.22152 \\ 
+  Education index sq. & 1.00 & 0.58180 & 0.20423 \\
+  Equipment investment & 1.00 & -0.13953 & 0.05578 \\ 
+  Trade openness & 0.98 & 0.12632 & 0.05604 \\
+  Inflation & 0.80 & 0.06758 & 0.05407 \\ 
+  \midrule
+  Gross domestic savings & 0.65 & 0.06566 & 0.06764 \\
+  Left-wing orientation & 0.63 & 0.04567 & 0.04858 \\ 
+  Total population & 0.57 & 0.07224 & 0.08621 \\ 
+  Financial institutions efficiency & 0.55 & -0.04309 & 0.05278 \\
+  Non-equipment investment & 0.49 & 0.03864 & 0.05320 \\ 
+  Value added in industry & 0.31 & -0.02652 & 0.05253 \\
+  Financial globalization & 0.22 & -0.01390 & 0.03673 \\ 
+  Value added in agriculture & 0.18 & -0.01163 & 0.03405 \\ 
+  Unemployment & 0.18 & -0.01019 & 0.03113 \\
+  Restrictions on globalization & 0.13 & 0.00637 & 0.02398 \\ 
+  Civil liberties \& political rights & 0.12 & 0.00529 & 0.02137 \\
+  GDP growth & 0.12 & 0.00608 & 0.02464 \\ 
+  Net FDI (\% GDP) & 0.07 & -0.00217 & 0.01377 \\ 
+  Redistribution & 0.07 & -0.00243 & 0.01571 \\
+  Chinn-Ito index & 0.06 & 0.00170 & 0.01373 \\ 
+  % Period 2 & 0.06 & -0.00160 & 0.01267 \\
+  % Period 5 & 0.05 & 0.00158 & 0.01431 \\ 
+  Population growth & 0.05 & 0.00097 & 0.01043 \\
+  Economic freedom & 0.04 & 0.00055 & 0.01416 \\ 
+  Education expenditures & 0.04 & -0.00062 & 0.01030 \\
+  Social globalization & 0.04 & -0.00004 & 0.01918 \\ 
+  Political globalization & 0.04 & 0.00060 & 0.01279 \\
+  % Period 3 & 0.03 & -0.00007 & 0.00873 \\ 
+  % Period 4 & 0.03 & -0.00017 & 0.00827 \\
+  Inflation sq. & 0.03 & -0.00045 & 0.01581 \\
+  \bottomrule
+  \end{tabular}
+\end{table}
+
+\begin{table}[htbp!]
+  \caption{BMA, baseline results. Dependent variable Top 1\% share, 394 observations.}\label{ch4res:baseline_top10}
+    \footnotesize
+    \centering
+  \begin{tabular}{lrrr}
+    \toprule
+                                 & PIP & Post Mean & Post SD \\
+    \midrule
+  Rule of law & 1.00 & -0.17039 & 0.04688 \\
+  GDP per capita & 1.00 & 0.48163 & 0.29090 \\
+  Life expectancy & 1.00 & -0.45605 & 0.06980 \\
+  Equipment investment & 1.00 & -0.19727 & 0.05526 \\
+  Financial institutions depth & 1.00 & 0.16380 & 0.05689 \\ 
+  Access to financial institutions & 1.00 & -0.25945 & 0.06419 \\
+  Financial markets depth & 1.00 & 0.15454 & 0.04989 \\ 
+  Government expenditures & 0.99 & 0.11633 & 0.04718 \\ 
+  Inflation & 0.99 & 0.11773 & 0.04922 \\
+  Trade openness & 0.93 & 0.10374 & 0.05711 \\ 
+  \midrule
+  Restrictions on globalization & 0.47 & 0.03804 & 0.05418 \\ 
+  Non-equipment investment & 0.42 & 0.03197 & 0.05001 \\ 
+  Natural resources rents & 0.34 & -0.02182 & 0.04037 \\ 
+  Financial globalization & 0.28 & -0.02001 & 0.04269 \\
+  Value added in industry & 0.21 & -0.01389 & 0.03634 \\
+  Value added in agriculture & 0.17 & -0.00969 & 0.03053 \\ 
+  Net FDI (\% GDP) & 0.16 & -0.00730 & 0.02401 \\
+  Chinn-Ito index & 0.15 & 0.00828 & 0.02797 \\
+  GDP per capita sq. & 0.15 & -0.08401 & 0.28484 \\
+  Economic freedom & 0.12 & -0.00945 & 0.03762 \\ 
+  Gross domestic savings & 0.11 & 0.00634 & 0.02688 \\
+  Redistribution & 0.11 & 0.00495 & 0.02085 \\
+  GDP growth & 0.11 & -0.00504 & 0.02208 \\
+  Social globalization & 0.09 & -0.00626 & 0.03233 \\
+  Education index (UN) & 0.09 & -0.01003 & 0.07309 \\ 
+  % Period 3 & 0.07 & -0.00214 & 0.01452 \\
+  % Period 2 & 0.06 & -0.00146 & 0.01249 \\
+  Unemployment & 0.05 & 0.00131 & 0.01287 \\ 
+  % Period 5 & 0.05 & 0.00140 & 0.01362 \\
+  Political globalization & 0.05 & 0.00137 & 0.01473 \\ 
+  Financial institutions efficiency & 0.04 & -0.00070 & 0.01024 \\ 
+  Education index sq. & 0.04 & 0.01380 & 0.07857 \\ 
+  Total population & 0.04 & -0.00060 & 0.01484 \\ 
+  Inflation sq. & 0.04 & 0.00053 & 0.01828 \\ 
+  Population growth & 0.04 & 0.00020 & 0.00844 \\
+  % Period 4 & 0.04 & 0.00019 & 0.00892 \\ 
+  Education expenditures & 0.04 & -0.00002 & 0.00935 \\ 
+  Left-wing orientation & 0.04 & -0.00028 & 0.00843 \\ 
+  Civil liberties \& political rights & 0.04 & 0.00009 & 0.00846 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
 
 \textcite{kroszneretal2007} show that financial crises have relative more severe impact on the sectors which depend more on external financing. The consequences of crises on firms relate to institutional environment and materialize through lower production capacity and competition.
 
@@ -128,12 +384,7 @@ The benefits of capital markets liberalization seem to be concentrated to the to
 \section*{Appendix}
 \label{ch4sec:appch2}
 \begin{subappendices}
-\renewcommand{\thesection}{A\arabic{section}}%
-\renewcommand{\thetable}{A\arabic{table}}%
-\renewcommand{\thefigure}{A\arabic{figure}}%
-\renewcommand{\theequation}{A\arabic{eq}} 
-
-\subsection*{The composition of financial indicators}
+\subsection{The composition of financial indicators}
 \label{ch4subsec:finind_comp}
 \begin{table}[ht!]
     \small
@@ -176,7 +427,7 @@ The benefits of capital markets liberalization seem to be concentrated to the to
 \end{table}
 
 \clearpage
-\subsection*{Dataset description}
+\subsection{Dataset description}
 \begin{center}
 \footnotesize
 \begin{longtable}{l p{0.50\linewidth} p{0.3\linewidth}}
