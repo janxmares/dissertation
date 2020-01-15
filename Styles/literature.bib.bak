@@ -51,15 +51,14 @@
 }
 
 @Article{AghionBolton1997,
-  Title                    = {A trickle-down theory of growth and development with debt overhang},
-  Author                   = {P. Aghion and P. Bolton},
-  Journal                  = {Review of Economic Studies},
-  Year                     = {1997},
-  Pages                    = {151-172},
-  Volume                   = {64},
-
-  Owner                    = {jxm},
-  Timestamp                = {2013.12.31}
+  author    = {P. Aghion and P. Bolton},
+  title     = {A trickle-down theory of growth and development with debt overhang},
+  journal   = {Review of Economic Studies},
+  year      = {1997},
+  volume    = {64},
+  pages     = {151--172},
+  owner     = {jxm},
+  timestamp = {2013.12.31},
 }
 
 @Article{Aghionetal2005,
@@ -1159,16 +1158,15 @@
 }
 
 @Article{LeySteel2009,
-  Title                    = {On the Effects of Prior Assumptions in Bayesian Model Averaging with AApplication to Growth Regression},
-  Author                   = {Ley, Eduardo and Steel, Mark F.J.},
-  Journal                  = {Journal of Applied Econometrics},
-  Year                     = {2009},
-  Pages                    = {651-674},
-  Volume                   = {24},
-
-  Abstract                 = {This paper examines the issue of variable selection in linear regression modeling, where there is a potentially large amount of possible covariates and economic theory offers insufficient guidance on how to select the appropriate subset. In this context, Bayesian Model Averaging presents a formal Bayesian solution to dealing with model uncertainty. The main interest here is the effect of the prior on the results, such as posterior inclusion probabilities of regressors and predictive performance. The authors combine a Binomial-Beta prior on model size with a g-prior on the coefficients of each model. In addition, they assign a hyperprior to g, as the choice of g has been found to have a large impact on the results. For the prior on g, they examine the Zellner-Siow prior and a class of Beta shrinkage priors, which covers most choices in the recent literature. The authors propose a benchmark Beta prior, inspired by earlier findings with fixed g, and show it leads to consistent model selection. Inference is conducted through a Markov chain Monte Carlo sampler over model space and g. The authors examine the performance of the various priors in the context of simulated and real data. For the latter, they consider two important applications in economics, namely cross-country growth regression and returns to schooling. Recommendations for applied users are provided.},
-  Institution              = {The World Bank},
-  Type                     = {Policy Research Working Paper Series}
+  author      = {Ley, Eduardo and Steel, Mark F.J.},
+  title       = {On the Effects of Prior Assumptions in Bayesian Model Averaging with Application to Growth Regression},
+  journal     = {Journal of Applied Econometrics},
+  year        = {2009},
+  volume      = {24},
+  pages       = {651-674},
+  abstract    = {This paper examines the issue of variable selection in linear regression modeling, where there is a potentially large amount of possible covariates and economic theory offers insufficient guidance on how to select the appropriate subset. In this context, Bayesian Model Averaging presents a formal Bayesian solution to dealing with model uncertainty. The main interest here is the effect of the prior on the results, such as posterior inclusion probabilities of regressors and predictive performance. The authors combine a Binomial-Beta prior on model size with a g-prior on the coefficients of each model. In addition, they assign a hyperprior to g, as the choice of g has been found to have a large impact on the results. For the prior on g, they examine the Zellner-Siow prior and a class of Beta shrinkage priors, which covers most choices in the recent literature. The authors propose a benchmark Beta prior, inspired by earlier findings with fixed g, and show it leads to consistent model selection. Inference is conducted through a Markov chain Monte Carlo sampler over model space and g. The authors examine the performance of the various priors in the context of simulated and real data. For the latter, they consider two important applications in economics, namely cross-country growth regression and returns to schooling. Recommendations for applied users are provided.},
+  institution = {The World Bank},
+  type        = {Policy Research Working Paper Series},
 }
 
 @Article{leysteel2009b,
@@ -2941,6 +2939,50 @@ This paper develops a meta-analysis of the empirical literature that estimates t
   eprint    = {https://science.sciencemag.org/content/344/6186/851.full.pdf},
   publisher = {American Association for the Advancement of Science},
   url       = {https://science.sciencemag.org/content/344/6186/851},
+}
+
+@Article{zeugner2015bayesian,
+  author    = {Zeugner, Stefan and Feldkircher, Martin},
+  title     = {Bayesian model averaging employing fixed and flexible priors: The BMS package for R},
+  journal   = {Journal of Statistical Software},
+  year      = {2015},
+  volume    = {68},
+  number    = {4},
+  pages     = {1--37},
+  publisher = {Foundation for Open Access Statistics},
+}
+
+@Article{feldkircher2012impact,
+  author    = {Feldkircher, Martin and Zeugner, Stefan},
+  title     = {The impact of data revisions on the robustness of growth determinants -- "A note on Determinants of Economic Growth: Will Data Tell?"},
+  journal   = {Journal of Applied Econometrics},
+  year      = {2012},
+  volume    = {27},
+  number    = {4},
+  pages     = {686--694},
+  publisher = {Wiley Online Library},
+}
+
+@Book{deaton2013great,
+  title     = {The great escape: health, wealth, and the origins of inequality},
+  publisher = {Princeton University Press},
+  year      = {2013},
+  author    = {Deaton, Angus},
+}
+
+@Book{goldin2009race,
+  title     = {The race between education and technology},
+  publisher = {Harvard University Press},
+  year      = {2009},
+  author    = {Goldin, Claudia Dale and Katz, Lawrence F},
+}
+
+@Article{hasan2020finance,
+  author  = {Hasan, Iftekhar and Horvath, Roman and Mares, Jan},
+  title   = {Finance and wealth inequality},
+  journal = {Journal of International Money and Finance},
+  year    = {2020},
+  pages   = {forthcoming},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

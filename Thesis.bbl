@@ -382,6 +382,34 @@
       \field{pages}{217\bibrangedash 248}
       \range{pages}{32}
     \endentry
+    \entry{deaton2013great}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=49e860b4f71d798fa4f5cf1c90103fc4}{%
+           family={Deaton},
+           familyi={D\bibinitperiod},
+           given={Angus},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{fullhash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{bibnamehash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{authorbibnamehash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{authornamehash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \strng{authorfullhash}{49e860b4f71d798fa4f5cf1c90103fc4}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The great escape: health, wealth, and the origins of inequality}
+      \field{year}{2013}
+    \endentry
     \entry{de2017finance}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b6f418ba40c73a62cd1e9c47beb33f60}{%
@@ -539,6 +567,45 @@
       \field{year}{1989}
       \field{pages}{808\bibrangedash 827}
       \range{pages}{20}
+    \endentry
+    \entry{feldkircher2012impact}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c71804159af8e21e39e6f29c50313fc6}{%
+           family={Feldkircher},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c64742218df0e746cbcadd4d1b022a8c}{%
+           family={Zeugner},
+           familyi={Z\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{4cba89309ffde94ed1861c0a3b2ce7da}
+      \strng{fullhash}{4cba89309ffde94ed1861c0a3b2ce7da}
+      \strng{bibnamehash}{4cba89309ffde94ed1861c0a3b2ce7da}
+      \strng{authorbibnamehash}{4cba89309ffde94ed1861c0a3b2ce7da}
+      \strng{authornamehash}{4cba89309ffde94ed1861c0a3b2ce7da}
+      \strng{authorfullhash}{4cba89309ffde94ed1861c0a3b2ce7da}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Econometrics}
+      \field{number}{4}
+      \field{title}{The impact of data revisions on the robustness of growth determinants -- "A note on Determinants of Economic Growth: Will Data Tell?"}
+      \field{volume}{27}
+      \field{year}{2012}
+      \field{pages}{686\bibrangedash 694}
+      \range{pages}{9}
     \endentry
     \entry{furceri2019robust}{article}{}
       \name{author}{2}{}{%
@@ -731,6 +798,40 @@
       \field{pages}{1698\bibrangedash 1713}
       \range{pages}{16}
     \endentry
+    \entry{goldin2009race}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a98299e43a58c483fd5907cfd9e0f5b1}{%
+           family={Goldin},
+           familyi={G\bibinitperiod},
+           given={Claudia\bibnamedelima Dale},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=571c7bf71524e7f1a01a182010ad3b77}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Lawrence\bibnamedelima F},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{d5c942cca37561a2727216d79d2eb92b}
+      \strng{fullhash}{d5c942cca37561a2727216d79d2eb92b}
+      \strng{bibnamehash}{d5c942cca37561a2727216d79d2eb92b}
+      \strng{authorbibnamehash}{d5c942cca37561a2727216d79d2eb92b}
+      \strng{authornamehash}{d5c942cca37561a2727216d79d2eb92b}
+      \strng{authorfullhash}{d5c942cca37561a2727216d79d2eb92b}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The race between education and technology}
+      \field{year}{2009}
+    \endentry
     \entry{GreenwoodJovanovic1990}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9ee04f532a097f459b0aeb78b9cb3c38}{%
@@ -843,6 +944,46 @@
       \field{pages}{353\bibrangedash 359}
       \range{pages}{7}
       \keyw{Financial deepening,Inequality,Equalizing effect,Dynamic GMM}
+    \endentry
+    \entry{hasan2020finance}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=de767a71dfc159d3b7a059b0b540b05f}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Iftekhar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef6181b91e313bdb0fd74087b28b9fe0}{%
+           family={Horvath},
+           familyi={H\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edc0443a5a2c4b1a4050bb3712194121}{%
+           family={Mares},
+           familyi={M\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8578af34909b053a799234cb4a8152d7}
+      \strng{fullhash}{9fe95c60fea076c1dee932bc5d9e4f43}
+      \strng{bibnamehash}{9fe95c60fea076c1dee932bc5d9e4f43}
+      \strng{authorbibnamehash}{9fe95c60fea076c1dee932bc5d9e4f43}
+      \strng{authornamehash}{8578af34909b053a799234cb4a8152d7}
+      \strng{authorfullhash}{9fe95c60fea076c1dee932bc5d9e4f43}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of International Money and Finance}
+      \field{title}{Finance and wealth inequality}
+      \field{year}{2020}
+      \field{pages}{forthcoming}
+      \range{pages}{-1}
     \endentry
     \entry{jauch2016financial}{article}{}
       \name{author}{2}{}{%
@@ -1087,6 +1228,45 @@
       \field{year}{2014}
       \field{pages}{36\bibrangedash 44}
       \range{pages}{9}
+    \endentry
+    \entry{LeySteel2009}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7022ce2d2b4a88cb7af387711a80e32f}{%
+           family={Ley},
+           familyi={L\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e35ad536aa7a18e056f6d3c9a644e3d3}{%
+           family={Steel},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima F.J.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The World Bank}%
+      }
+      \strng{namehash}{9894936f8932080be87187000bca5e09}
+      \strng{fullhash}{9894936f8932080be87187000bca5e09}
+      \strng{bibnamehash}{9894936f8932080be87187000bca5e09}
+      \strng{authorbibnamehash}{9894936f8932080be87187000bca5e09}
+      \strng{authornamehash}{9894936f8932080be87187000bca5e09}
+      \strng{authorfullhash}{9894936f8932080be87187000bca5e09}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Econometrics}
+      \field{title}{On the Effects of Prior Assumptions in Bayesian Model Averaging with Application to Growth Regression}
+      \field{type}{Policy Research Working Paper Series}
+      \field{volume}{24}
+      \field{year}{2009}
+      \field{pages}{651\bibrangedash 674}
+      \range{pages}{24}
     \endentry
     \entry{naceurzhang2016}{report}{}
       \name{author}{2}{}{%
