@@ -138,8 +138,8 @@ Table \ref{ch3tab:descstat} presents the descriptive statistics for the wealth i
   \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\small
-\item Note: FI - financial institutions, FM - financial markets.
+\footnotesize
+\item \textit{Note: FI - financial institutions, FM - financial markets.}
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
@@ -154,17 +154,17 @@ Table \ref{ch3tab:descstat} presents the descriptive statistics for the wealth i
 \begin{threeparttable}
 \begin{tabular}{lcccccc}
   \toprule
-  Wealth inequality & 1.00 &  & & & & \\
-  Access (FI)  & -0.20 & 1.00 &  & & &    \\ 
-  Efficiency (FI) & -0.18 & 0.29 & 1.00 & & &  \\ 
-  Depth (FI)  & 0.08 & 0.73 & 0.48 & 1.00 &  &   \\ 
-  Depth (FM)  & 0.19 & 0.62 & 0.45 & 0.91 & 1.00 &   \\ 
-  Efficiency (FM)  & 0.02 & 0.47 & 0.12 & 0.51 & 0.58 & 1.00   \\ 
+  Wealth inequality & . &  & & & & \\
+  Access (FI)  & -0.20 & . &  & & &    \\ 
+  Efficiency (FI) & -0.18 & 0.29 & . & & &  \\ 
+  Depth (FI)  & 0.08 & 0.73 & 0.48 & . &  &   \\ 
+  Depth (FM)  & 0.19 & 0.62 & 0.45 & 0.91 & . &   \\ 
+  Efficiency (FM)  & 0.02 & 0.47 & 0.12 & 0.51 & 0.58 & .   \\ 
   \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\small
-\item Note: FI - financial institutions, FM - financial markets.
+\footnotesize
+\item \textit{Note: FI - financial institutions, FM - financial markets.}
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
@@ -276,13 +276,14 @@ In this section, we first present several scatter plots to visualize the relatio
 Figure \ref{ch3fig:findev} offers an initial insight into the relationship between financial indexes and wealth inequality. The scatter plots show an expected pattern.  We observe efficiency of intermediation and access to financial services to be negatively correlated with inequality. On the other hand, Figure \ref{ch3fig:findev} suggests that the depth of financial markets is higher in countries with higher wealth inequality. The depth of financial institutions exhibits a slightly weaker but still positive relationship. Overall, the scatter plots suggest that there is some relation between financial development indicators and wealth inequality and that this relation is complex, i.e., some aspects of financial development may contribute to greater wealth inequality, whereas other aspects exert an opposite effect.
 
 \begin{figure}[ht]
-	\caption{Finance and Wealth Inequality}
-    \label{ch3fig:findev}
-    \begin{measuredfigure}
-    \centering
+  \centering
+  \caption{Finance and Wealth Inequality}
+  \label{ch3fig:findev}
 	\includegraphics[width=0.85\textwidth, keepaspectratio]{figures/ch3/plots_findev.eps}
-%	\floatfoot{\hspace{4em}Note: Selected financial development indicators.}
-	\end{measuredfigure}
+  \begin{minipage}{0.8\textwidth}
+    \footnotesize
+    \emph{Note:  Selected financial development indicators.}
+    \end{minipage}
 \end{figure}
 
 Table \ref{ch3table:res1} presents our \ac{BMA} results regarding the determinants of wealth inequality. We present the explanatory variables sorted by their \ac{PIP} values and interpret the results in accordance with \textcite{kass1995bayes}, who present a conventional rule of thumb to evaluate the \ac{PIP}. When the \ac{PIP} is lower than 50\%, there is evidence against the effect, \ac{PIP} between 50\% and 75\% suggest a weak evidence for the effect, \ac{PIP} over 75\%, but less than 95\% means a “positive” evidence for the effect, in case of \ac{PIP} higher than 95\%, but less than 99\% there is strong evidence for the effect, and \ac{PIP} over 99\% provides decisive evidence for the effect.
@@ -352,7 +353,9 @@ Although the variable `number of war years' exhibits an inclusion probability of
   \bottomrule
 \end{tabular}
 \begin{tablenotes}
-\item Note: Dependent variable - average Gini index (wealth) 2010-2016, 73 observations, baseline (hyper-g parameter prior) 
+\item 
+\footnotesize
+\textit{Note: Dependent variable - average Gini index (wealth) 2010-2016, 73 observations, baseline (hyper-g parameter prior)}
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
@@ -362,8 +365,11 @@ Although the variable `number of war years' exhibits an inclusion probability of
 	\caption{Robustness Check: Different Prior Structure}
 	\centering
 	\includegraphics[width=0.9\textwidth]{figures/ch3/priors_comparison_compound.eps}
-	\label{ch3fig:comp_compound}
-%\floatfoot*{Note: Parameter and model prior comparison - compound indicators. Model 1: hyper-g, uniform; Model 2: \ac{UIP}, uniform; Model 3: hyper-g, dilution; Model 4: \ac{UIP}, dilution.}
+  \label{ch3fig:comp_compound}
+  \begin{minipage}{0.8\textwidth}
+    \footnotesize
+    \emph{Note: Parameter and model prior comparison - compound indicators. Model 1: hyper-g, uniform; Model 2: \ac{UIP}, uniform; Model 3: hyper-g, dilution; Model 4: \ac{UIP}, dilution.}
+  \end{minipage}
 \end{figure}
 
 We report the baseline results, in which we employ the uniform model prior and hyper-g parameter prior, as described in section \ref{ch3sec:BMA}. To provide robustness checks, we also use alternative parameter and model priors. Figure \ref{ch3fig:comp_compound} presents a graphical illustration of our robustness checks. We estimate alternative specifications of the model using \ac{UIP} and the dilution model prior described earlier. Overall, the results are similar. The optional priors slightly decrease \ac{PIP} across the set of regressors, with the combined effect of \ac{UIP} and dilution model prior having the largest effect. This slight overall decrease in inclusion probabilities is related to the smaller models dictated by the alternative prior structures, but the ordering of the variables in terms of \ac{PIP} remains quite stable. The only exception to marginal decreases in the \ac{PIP} is the effect of education, which decreases to less than 0.5 when we apply the dilution model prior in the estimation. This result could be partially explained by the design of this particular prior, which should down-weight variables that are highly correlated with others. We also tried other specifications with quadratic terms of financial indexes, interactions between the rule of law and financial indexes, and others.\footnote{For example, we investigate cases where we drop groups of variables as defined in Table \ref{ch3tab:groups}. Interestingly, when we drop a group of low \ac{PIP} variables, the results are stable. On the other hand, if we drop a group which contains variables with high \acp{PIP}, the results deviate from the baseline estimates. This could be due to the introduction of omitted variable bias in the latter case as dropping important regressors may severely affect coefficients on the remaining variables.} None of these additional regressors exhibited significant relevance in our model.\footnote{These additional estimation results are available upon request.}
@@ -470,7 +476,8 @@ Table \ref{ch3table:res_endo} presents the results of the \ac{IVBMA} estimation.
 		\bottomrule
 	\end{tabular}
 \begin{tablenotes}
-\item Note: Dependent variable - average Gini index (wealth) 2010-2016, 73 observations. Financial depth of and access to financial institutions as endogenous. Instruments: genetic distance, financial development index from Economic Freedom of the World.
+\footnotesize
+\item \textit{Note: Dependent variable - average Gini index (wealth) 2010-2016, 73 observations. Financial depth of and access to financial institutions as endogenous. Instruments: genetic distance, financial development index from Economic Freedom of the World.}
 \end{tablenotes}
 \end{threeparttable}
 \end{table}
@@ -498,11 +505,11 @@ In addition, our results show that more education and greater income redistribut
 %
 %
 \newpage
-\fancyhead[LO]{\sffamily Bibliography}		%headers in sans serif and not in uppercase
+% \fancyhead[LO]{\sffamily Bibliography}		%headers in sans serif and not in uppercase
 % \bibliographystyle{Styles/Stylebib}			%style of literature, you can use e.g. newapa	instead of Styles/Stylebib
 % \bibliography{Styles/literature}
-\printbibliography
-\addcontentsline{toc}{section}{Bibliography}
+\printbibliography[heading=subbibliography]
+\addcontentsline{toc}{section}{References}
 %
 %
 \newpage
@@ -556,7 +563,6 @@ In addition, our results show that more education and greater income redistribut
       Public education expenditures & 0.03 & 0.00113 & 0.01817 \\ 
       Business conditions & 0.03 & -0.00000 & 0.01732 \\ 
       Labor force participation & 0.02 & 0.00028 & 0.01376 \\  
-      \midrule
       \bottomrule
     \end{tabular}
     \end{table}
@@ -609,7 +615,6 @@ In addition, our results show that more education and greater income redistribut
       Technological progress & 0.00 & -0.00099 & 0.02030 \\ 
       GDP level in 1990 & 0.00 & -0.00102 & 0.02294 \\ 
       Rule of law & 0.00 & -0.00013 & 0.00744 \\
-      \midrule
       \bottomrule
     \end{tabular}
     \end{table}
@@ -716,7 +721,6 @@ In addition, our results show that more education and greater income redistribut
       Bank capital regulations & 0.08 & -0.00113 & 0.02484 \\ 
       Population density & 0.07 & 0.00112 & 0.02579 \\ 
       Labor force participation & 0.07 & -0.00105 & 0.02323 \\ 
-      \midrule
       \bottomrule
     \end{tabular}
     \end{table}
@@ -824,7 +828,7 @@ In addition, our results show that more education and greater income redistribut
     \end{table}
     \clearpage
     
-    \section{Descriptive statistics, correlation matrix, expected effects}
+    \section{Descriptive statistics, correlation matrix}
     \begin{table}[!ht]
     \caption{Descriptive statistics}\label{ch3tab:desc_stat}
     \centering
@@ -941,38 +945,38 @@ In addition, our results show that more education and greater income redistribut
     %
     %
     
-    \begin{landscape}
-    \centering
-    \setlength\tabcolsep{6pt}
-    \newgeometry{left=0cm, top=3.5cm, bottom=4cm, right=0cm}
-    \begin{table}	
-    \footnotesize
-    \caption{Expected effects of the explanatory variables}
-    \label{ch3tab:exp_eff}
-    \begin{tabular}{lc|lc|lc}
-      \toprule
-      Access to financial institutions & + / - & Financial markets efficiency 	& - 	& Number of war years & +			\\ 
-      Active banking restrictions 	   & + / - & Financial openness (Chinn-Ito) & + / - & Outward orientation & + 			\\ 
-      Average GDP growth 			   & + / - & GDP level in 1990 				& + / - & Population density & - 			\\ 
-      Bank capital regulations 		   & + / - & Government expenditures 		& + / - & Population growth & -  			\\ 
-      Banking diversification 		   & + / - & Inflation 						& + / - & Public education expenditures & - \\ 
-      Business conditions 			   & - 	   & Labour force participation 	& - 	& Redistribution & - 				\\ 
-      Civ. liberties and Pol. rights   & + 	   & Labour market regulations 		& + / - & Revolutions and coups & + / - 	\\ 
-      Economic freedom index (adjusted) & -    & Latin America dummy			& + / - & Rule of law & + / - 				\\ 
-      Education index (UN) 			   & - 	   & Leftwing orientation			& - 	& Technological progress & + / - 	\\ 
-      Financial institutions depth 	   & + / - & Life expectancy 				& - 	& Value added in agriculture & - 	\\ 
-      Financial institutions efficiency & -    & Natural resources rents 		& + / - & Value added in industry & - 		\\ 
-      Financial liberalization (EFW)   & + / - & Net foreign direct investment  & + / - & 									\\ 
-      Financial market depth 		   & + / - & Net national savings 			& + 	& 									\\ 
-       \bottomrule
-    \end{tabular}
-    \end{table}
-    \end{landscape}
-    \clearpage
+    % \begin{landscape}
+    % \centering
+    % \setlength\tabcolsep{6pt}
+    % \newgeometry{left=0cm, top=3.5cm, bottom=4cm, right=0cm}
+    % \begin{table}	
+    % \footnotesize
+    % \caption{Expected effects of the explanatory variables}
+    % \label{ch3tab:exp_eff}
+    % \begin{tabular}{lc|lc|lc}
+    %   \toprule
+    %   Access to financial institutions & + / - & Financial markets efficiency 	& - 	& Number of war years & +			\\ 
+    %   Active banking restrictions 	   & + / - & Financial openness (Chinn-Ito) & + / - & Outward orientation & + 			\\ 
+    %   Average GDP growth 			   & + / - & GDP level in 1990 				& + / - & Population density & - 			\\ 
+    %   Bank capital regulations 		   & + / - & Government expenditures 		& + / - & Population growth & -  			\\ 
+    %   Banking diversification 		   & + / - & Inflation 						& + / - & Public education expenditures & - \\ 
+    %   Business conditions 			   & - 	   & Labour force participation 	& - 	& Redistribution & - 				\\ 
+    %   Civ. liberties and Pol. rights   & + 	   & Labour market regulations 		& + / - & Revolutions and coups & + / - 	\\ 
+    %   Economic freedom index (adjusted) & -    & Latin America dummy			& + / - & Rule of law & + / - 				\\ 
+    %   Education index (UN) 			   & - 	   & Leftwing orientation			& - 	& Technological progress & + / - 	\\ 
+    %   Financial institutions depth 	   & + / - & Life expectancy 				& - 	& Value added in agriculture & - 	\\ 
+    %   Financial institutions efficiency & -    & Natural resources rents 		& + / - & Value added in industry & - 		\\ 
+    %   Financial liberalization (EFW)   & + / - & Net foreign direct investment  & + / - & 									\\ 
+    %   Financial market depth 		   & + / - & Net national savings 			& + 	& 									\\ 
+    %    \bottomrule
+    % \end{tabular}
+    % \end{table}
+    % \end{landscape}
+    % \clearpage
     
     %
     %
-    \restoregeometry
+    % \restoregeometry
     \section{Top models by their posterior model probability, group \acp{PIP}}
     \begin{table}[!htbp]
     \centering
@@ -999,7 +1003,7 @@ In addition, our results show that more education and greater income redistribut
     %
     \begin{tablenotes}[normal, flushleft]
     \footnotesize													
-    \item Note: 1 marks inclusion of the variable in the model, whereas 0 suggests otherwise. The variables not listed were not included in neither of the models.
+    \item \textit{Note: 1 marks inclusion of the variable in the model, whereas 0 suggests otherwise. The variables not listed were not included in neither of the models.}
     \end{tablenotes}
     \end{threeparttable}
     \end{table}			
@@ -1055,11 +1059,12 @@ In addition, our results show that more education and greater income redistribut
     R$^{2}$ & 0.574 & 0.556 \\ 
     Adjusted R$^{2}$ & 0.520 & 0.509 \\ 
     Residual Std. Error & 0.693 (df = 64) & 0.701 (df = 65) \\ 
-    F Statistic & 10.761$^{***}$ (df = 8; 64) & 11.645$^{***}$ (df = 7; 65) 
+    F Statistic & 10.761$^{***}$ (df = 8; 64) & 11.645$^{***}$ (df = 7; 65) \\
+    \bottomrule
     \end{tabular}
     \begin{tablenotes}[normal, flushleft]
     \footnotesize
-    \item Note: {$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01.} The specification of the model (1) corresponds to the model with the highest posterior model probability, whereas the model (2) containts the regressors with \ac{PIP} $>$ 0.5 in the baseline \ac{BMA} estimation.
+    \item \textit{Note: {$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01.} The specification of the model (1) corresponds to the model with the highest posterior model probability, whereas the model (2) containts the regressors with \ac{PIP} $>$ 0.5 in the baseline \ac{BMA} estimation.}
     \end{tablenotes}
     \end{threeparttable}
     \end{table}
@@ -1185,8 +1190,10 @@ In addition, our results show that more education and greater income redistribut
         \centering
         \includegraphics[width=0.9\textwidth]{figures/ch3/wealthincome_comp_oecd.eps}
         \label{ch3fig:wealthincome_comp_oecd}
-        
-        Note: Source: Author based on the \ac{OECD}
+        \begin{minipage}{0.8\textwidth}
+          \footnotesize
+          \emph{Source: Author based on the \ac{OECD}}
+          \end{minipage}
     \end{figure}
     
     \newpage
