@@ -1,28 +1,28 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.19)  15 JAN 2020 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.10)  10 FEB 2020 18:51
 entering extended mode
 **c:/Users/JM/Documents/GitHub/dissertation/Thesis.tex
 (c:/Users/JM/Documents/GitHub/dissertation/Thesis.tex
-LaTeX2e <2019-10-01> patch level 3
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
-Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
+LaTeX2e <2020-02-02>
+L3 programming layer <2020-02-03> ("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
-\c@figure=\count87
-\c@table=\count88
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/pdfx\pdfx.sty"
 Package: pdfx 2019/02/27 v1.6.3 PDF/X and PDF/A support (CVR/HTH/RRM/PS)
-\pdfx@minorversion=\count89
+\pdfx@minorversion=\count176
  ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
 Package: iftex 2019/11/07 v1.0c TeX engine tests
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
@@ -63,124 +63,116 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 \pdfx@tmptoks=\toks17
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
-Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
-) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-)) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdfescape.sty"
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\hycolor.sty"
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\xcolor-patch.sty"
-Package: xcolor-patch 2016/05/16 xcolor patch
- ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\hopatch.sty"
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-))) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\letltxmacro.sty"
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pdfescape\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/letltxmacro\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-\@linkdim=\dimen103
-\Hy@linkcounter=\count90
-\Hy@pagecounter=\count91
+\@linkdim=\dimen135
+\Hy@linkcounter=\count177
+\Hy@pagecounter=\count178
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
-File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\intcalc.sty"
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/intcalc\intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count92
- ("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Option `pdfa' set `true' on input line 4409.
-Package hyperref Info: Hyper figures OFF on input line 4535.
-Package hyperref Info: Link nesting OFF on input line 4540.
-Package hyperref Info: Hyper index ON on input line 4543.
-Package hyperref Info: Plain pages OFF on input line 4550.
-Package hyperref Info: Backreferencing OFF on input line 4555.
+\Hy@SavedSpaceFactor=\count179
+Package hyperref Info: Option `pdfa' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4788.
-\c@Hy@tempcnt=\count93
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count180
  ("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
-\Urlmuskip=\muskip10
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5147.
-\XeTeXLinkMargin=\dimen104
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\bitset.sty"
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\bigintcalc.sty"
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen136
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/bitset\bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/bigintcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count94
-\Field@Width=\dimen105
-\Fld@charsize=\dimen106
-Package hyperref Info: Hyper figures OFF on input line 6418.
-Package hyperref Info: Link nesting OFF on input line 6423.
-Package hyperref Info: Hyper index ON on input line 6426.
-Package hyperref Info: backreferencing OFF on input line 6433.
-Package hyperref Info: Link coloring OFF on input line 6438.
-Package hyperref Info: Link coloring with OCG OFF on input line 6443.
-Package hyperref Info: PDF/A mode ON on input line 6446.
-LaTeX Info: Redefining \ref on input line 6488.
-LaTeX Info: Redefining \pageref on input line 6492.
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\atbegshi.sty"
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+\Fld@menulength=\count181
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode ON on input line 6458.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/atbegshi\atbegshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count95
-\c@Item=\count96
-\c@Hfootnote=\count97
+\Hy@abspage=\count182
+\c@Item=\count183
+\c@Hfootnote=\count184
 )
 Package hyperref Info: Driver: hpdftex.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
-File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
- ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\atveryend.sty"
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/atveryend\atveryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count98
-\c@bookmark@seq@number=\count99
- ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\uniquecounter.sty"
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+\Fld@listcount=\count185
+\c@bookmark@seq@number=\count186
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/uniquecounter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
-\Hy@SectionHShift=\skip43
+\Hy@SectionHShift=\skip49
 )
 Package hyperref Info: Option `unicode' set `true' on input line 1463.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
-File: puenc.def 2019/11/10 v7.00c Hyperref: PDF Unicode definition (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\stringenc.sty"
-Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO)
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/stringenc\stringenc.sty"
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 Package hyperref Info: Option `psdextra' set `true' on input line 1465.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\psdextra.def"
-File: psdextra.def 2019/11/10 v7.00c Hyperref: Additions to PDF string support
+File: psdextra.def 2020/01/14 v7.00d Hyperref: Additions to PDF string support
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/colorprofiles\colorprofiles.sty"
 Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A support
- ("C:\Program Files\MiKTeX 2.9\tex/generic/colorprofiles\colorprofiles.tex")) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\se-pdfdoc.def"
-File: se-pdfdoc.def 2016/05/16 v1.11 stringenc: PDFDocEncoding
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/colorprofiles\colorprofiles.tex")) ("C:\Program Files\MiKTeX 2.9\tex/generic/stringenc\se-pdfdoc.def"
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/pdfx\AdobeColorProfiles.tex") ("C:\Program Files\MiKTeX 2.9\tex/latex/pdfx\8bit.def"
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 )
@@ -189,8 +181,8 @@ File: 8bit.def 2008/03/30 v1.1d Input encoding file
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/pdfx\8bit.def"
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
-) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\se-utf8.def"
-File: se-utf8.def 2016/05/16 v1.11 stringenc: UTF-8
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/stringenc\se-utf8.def"
+File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/pdfx\8bit.def"
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 )
@@ -209,7 +201,7 @@ File: 8bit.def 2008/03/30 v1.1d Input encoding file
 )
 Using XMP template file: pdfa.xmp
 \xmpinclWrite=\write3
-\xmpinclRead=\read1
+\xmpinclRead=\read2
 \openout3 = `pdfa.xmpi'.
 
 <<pdfa.xmpi>>) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
@@ -251,179 +243,26 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
-File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+Package: fontenc 2020/01/25 v2.0m Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
-Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
-Package textcomp Info: Sub-encoding information:
-(textcomp)               5 = only ISO-Adobe without \textcurrency
-(textcomp)               4 = 5 + \texteuro
-(textcomp)               3 = 4 + \textohm
-(textcomp)               2 = 3 + \textestimated + \textcurrency
-(textcomp)               1 = TS1 - \textcircled - \t
-(textcomp)               0 = TS1 (full)
-(textcomp)             Font families with sub-encoding setting implement
-(textcomp)             only a restricted character set as indicated.
-(textcomp)             Family '?' is the default used for unknown fonts.
-(textcomp)             See the documentation for details.
-Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
-File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-Now handling font encoding TS1 ...
-... processing UTF-8 mapping file for font encoding TS1
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
-File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
-   defining Unicode char U+00A2 (decimal 162)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A5 (decimal 165)
-   defining Unicode char U+00A6 (decimal 166)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00A8 (decimal 168)
-   defining Unicode char U+00A9 (decimal 169)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AC (decimal 172)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00AF (decimal 175)
-   defining Unicode char U+00B0 (decimal 176)
-   defining Unicode char U+00B1 (decimal 177)
-   defining Unicode char U+00B2 (decimal 178)
-   defining Unicode char U+00B3 (decimal 179)
-   defining Unicode char U+00B4 (decimal 180)
-   defining Unicode char U+00B5 (decimal 181)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+00B9 (decimal 185)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+00BC (decimal 188)
-   defining Unicode char U+00BD (decimal 189)
-   defining Unicode char U+00BE (decimal 190)
-   defining Unicode char U+00D7 (decimal 215)
-   defining Unicode char U+00F7 (decimal 247)
-   defining Unicode char U+0192 (decimal 402)
-   defining Unicode char U+02C7 (decimal 711)
-   defining Unicode char U+02D8 (decimal 728)
-   defining Unicode char U+02DD (decimal 733)
-   defining Unicode char U+0E3F (decimal 3647)
-   defining Unicode char U+2016 (decimal 8214)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+203B (decimal 8251)
-   defining Unicode char U+203D (decimal 8253)
-   defining Unicode char U+2044 (decimal 8260)
-   defining Unicode char U+204E (decimal 8270)
-   defining Unicode char U+2052 (decimal 8274)
-   defining Unicode char U+20A1 (decimal 8353)
-   defining Unicode char U+20A4 (decimal 8356)
-   defining Unicode char U+20A6 (decimal 8358)
-   defining Unicode char U+20A9 (decimal 8361)
-   defining Unicode char U+20AB (decimal 8363)
-   defining Unicode char U+20AC (decimal 8364)
-   defining Unicode char U+20B1 (decimal 8369)
-   defining Unicode char U+2103 (decimal 8451)
-   defining Unicode char U+2116 (decimal 8470)
-   defining Unicode char U+2117 (decimal 8471)
-   defining Unicode char U+211E (decimal 8478)
-   defining Unicode char U+2120 (decimal 8480)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+2126 (decimal 8486)
-   defining Unicode char U+2127 (decimal 8487)
-   defining Unicode char U+212E (decimal 8494)
-   defining Unicode char U+2190 (decimal 8592)
-   defining Unicode char U+2191 (decimal 8593)
-   defining Unicode char U+2192 (decimal 8594)
-   defining Unicode char U+2193 (decimal 8595)
-   defining Unicode char U+2329 (decimal 9001)
-   defining Unicode char U+232A (decimal 9002)
-   defining Unicode char U+2422 (decimal 9250)
-   defining Unicode char U+25E6 (decimal 9702)
-   defining Unicode char U+25EF (decimal 9711)
-   defining Unicode char U+266A (decimal 9834)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
-   defining Unicode char U+FEFF (decimal 65279)
-))
-LaTeX Info: Redefining \oldstylenums on input line 334.
-Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
-Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
-Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
-Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
-Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
-Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
-Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
-Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
-Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
-Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
-Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
-Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
-Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
-Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
-Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
-Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
-Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
-Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
-Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
-Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
-Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
-Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
-Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
-Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
-Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
-Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
-Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
-Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
-Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
-Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
-Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
-Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
-Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
-Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
-Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
-Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
-Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
-Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
-Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
-Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
-Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
-Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
-Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
-Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
-Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
-Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
-Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
-Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
-Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
-Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
-Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
-Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
-Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
-Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
-Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
-Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
-Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
-Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
-Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
-Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
-Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+Package: textcomp 2020/02/02 v2.0m Standard LaTeX package
 ) (Styles/Head.sty) (Styles/Mystyle.sty ("C:\Program Files\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
-\f@nch@headwidth=\skip44
-\f@nch@O@elh=\skip45
-\f@nch@O@erh=\skip46
-\f@nch@O@olh=\skip47
-\f@nch@O@orh=\skip48
-\f@nch@O@elf=\skip49
-\f@nch@O@erf=\skip50
-\f@nch@O@olf=\skip51
-\f@nch@O@orf=\skip52
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
-Package: amsmath 2019/11/16 v2.17d AMS math features
-\@mathmargin=\skip53
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip59
 
 For additional information on amsmath, use the `?' option.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
@@ -431,50 +270,50 @@ Package: amstext 2000/06/29 v2.01 AMS text
  ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
-\ex@=\dimen107
+\ex@=\dimen139
 )) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen108
+\pmbraise@=\dimen140
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count100
+\inf@bad=\count187
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count101
-\leftroot@=\count102
+\uproot@=\count188
+\leftroot@=\count189
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count103
-\DOTSCASE@=\count104
+\classnum@=\count190
+\DOTSCASE@=\count191
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
-\big@size=\dimen109
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen141
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count105
-\c@MaxMatrixCols=\count106
-\dotsspace@=\muskip11
-\c@parentequation=\count107
-\dspbrk@lvl=\count108
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip17
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
 \tag@help=\toks20
-\row@=\count109
-\column@=\count110
-\maxfields@=\count111
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
 \andhelp@=\toks21
-\eqnshift@=\dimen110
-\alignsep@=\dimen111
-\tagshift@=\dimen112
-\tagwidth@=\dimen113
-\totwidth@=\dimen114
-\lineht@=\dimen115
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
 \@envbody=\toks22
-\multlinegap=\skip54
-\multlinetaggap=\skip55
+\multlinegap=\skip60
+\multlinetaggap=\skip61
 \mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2858.
-LaTeX Info: Redefining \] on input line 2859.
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks24
@@ -482,9 +321,9 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headfont=\toks26
 \thm@notefont=\toks27
 \thm@headpunct=\toks28
-\thm@preskip=\skip56
-\thm@postskip=\skip57
-\thm@headsep=\skip58
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
 \dth@everypar=\toks29
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -501,9 +340,9 @@ Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
@@ -511,15 +350,15 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen116
-\Gin@req@width=\dimen117
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/acronym\acronym.sty"
 Package: acronym 2019/11/11 v1.42 Support for acronyms (Tobias Oetiker)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/bigfoot\suffix.sty"
 Package: suffix 2006/07/15 1.5a Variant command support
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty" ("C:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
-\integerpart=\count112
-\decimalpart=\count113
+\integerpart=\count199
+\decimalpart=\count266
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/relsize\relsize.sty"
@@ -528,92 +367,93 @@ Package: relsize 2013/03/29 ver 4.1
 \AC@clearlist=\toks30
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count114
+\c@float@type=\count267
 \float@exts=\toks31
-\float@box=\box29
+\float@box=\box47
 \@float@everytoks=\toks32
-\@floatcapt=\box30
+\@floatcapt=\box48
 ) (picins.sty Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
-\@BILD=\box31
-\@TEXT=\box32
-\d@breite=\dimen118
-\d@hoehe=\dimen119
-\d@xoff=\dimen120
-\d@yoff=\dimen121
-\d@shad=\dimen122
-\d@dash=\dimen123
-\d@boxl=\dimen124
-\d@pichskip=\dimen125
-\d@tmp=\dimen126
-\d@tmpa=\dimen127
-\d@bskip=\dimen128
-\hsiz@=\dimen129
-\p@getot@l=\dimen130
-\c@breite=\count115
-\c@hoehe=\count116
-\c@xoff=\count117
-\c@yoff=\count118
-\c@pos=\count119
-\c@shad=\count120
-\c@dash=\count121
-\c@boxl=\count122
-\c@zeilen=\count123
-\@changemode=\count124
-\c@piccaption=\count125
-\c@piccaptionpos=\count126
-\c@picpos=\count127
-\c@whole=\count128
-\c@half=\count129
-\c@tmp=\count130
-\c@tmpa=\count131
-\c@tmpb=\count132
-\c@tmpc=\count133
-\c@tmpd=\count134
-\d@leftskip=\skip59
-\ptoti=\dimen131
-\ptotii=\dimen132
-\env@box=\box33
-\d@envdp=\dimen133
-\c@hsize=\count135
-\c@envdp=\count136
-\d@envb=\dimen134
+\@BILD=\box49
+\@TEXT=\box50
+\d@breite=\dimen150
+\d@hoehe=\dimen151
+\d@xoff=\dimen152
+\d@yoff=\dimen153
+\d@shad=\dimen154
+\d@dash=\dimen155
+\d@boxl=\dimen156
+\d@pichskip=\dimen157
+\d@tmp=\dimen158
+\d@tmpa=\dimen159
+\d@bskip=\dimen160
+\hsiz@=\dimen161
+\p@getot@l=\dimen162
+\c@breite=\count268
+\c@hoehe=\count269
+\c@xoff=\count270
+\c@yoff=\count271
+\c@pos=\count272
+\c@shad=\count273
+\c@dash=\count274
+\c@boxl=\count275
+\c@zeilen=\count276
+\@changemode=\count277
+\c@piccaption=\count278
+\c@piccaptionpos=\count279
+\c@picpos=\count280
+\c@whole=\count281
+\c@half=\count282
+\c@tmp=\count283
+\c@tmpa=\count284
+\c@tmpb=\count285
+\c@tmpc=\count286
+\c@tmpd=\count287
+\d@leftskip=\skip65
+\ptoti=\dimen163
+\ptotii=\dimen164
+\env@box=\box51
+\d@envdp=\dimen165
+\c@hsize=\count288
+\c@envdp=\count289
+\d@envb=\dimen166
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
-Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
-Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen135
-\captionmargin@=\dimen136
-\captionwidth=\dimen137
-\caption@tempdima=\dimen138
-\caption@indent=\dimen139
-\caption@parindent=\dimen140
-\caption@hangindent=\dimen141
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen167
+\captionmargin@=\dimen168
+\captionwidth=\dimen169
+\caption@tempdima=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
+Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count137
-\c@ContinuedFloat=\count138
+\c@caption@flags=\count290
+\c@continuedfloat=\count291
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: picins package is loaded.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/subfigure\subfigure.sty"
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip60
-\subfigcapskip=\skip61
-\subfigcaptopadj=\dimen142
-\subfigbottomskip=\skip62
-\subfigcapmargin=\dimen143
-\subfiglabelskip=\skip63
-\c@subfigure=\count139
-\c@lofdepth=\count140
-\c@subtable=\count141
-\c@lotdepth=\count142
+\subfigtopskip=\skip66
+\subfigcapskip=\skip67
+\subfigcaptopadj=\dimen174
+\subfigbottomskip=\skip68
+\subfigcapmargin=\dimen175
+\subfiglabelskip=\skip69
+\c@subfigure=\count292
+\c@lofdepth=\count293
+\c@subtable=\count294
+\c@lotdepth=\count295
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
 ("C:\Program Files\MiKTeX 2.9\tex/latex/subfigure\subfigure.cfg")
-\subfig@top=\skip64
-\subfig@bottom=\skip65
+\subfig@top=\skip70
+\subfig@bottom=\skip71
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/sectsty\sectsty.sty"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
@@ -626,40 +466,40 @@ LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/boxedminipage\boxedminipage.sty") ("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
-Package: booktabs 2019/10/08 v1.6180339 publication quality tables
-\heavyrulewidth=\dimen144
-\lightrulewidth=\dimen145
-\cmidrulewidth=\dimen146
-\belowrulesep=\dimen147
-\belowbottomsep=\dimen148
-\aboverulesep=\dimen149
-\abovetopsep=\dimen150
-\cmidrulesep=\dimen151
-\cmidrulekern=\dimen152
-\defaultaddspace=\dimen153
-\@cmidla=\count143
-\@cmidlb=\count144
-\@aboverulesep=\dimen154
-\@belowrulesep=\dimen155
-\@thisruleclass=\count145
-\@lastruleclass=\count146
-\@thisrulewidth=\dimen156
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen176
+\lightrulewidth=\dimen177
+\cmidrulewidth=\dimen178
+\belowrulesep=\dimen179
+\belowbottomsep=\dimen180
+\aboverulesep=\dimen181
+\abovetopsep=\dimen182
+\cmidrulesep=\dimen183
+\cmidrulekern=\dimen184
+\defaultaddspace=\dimen185
+\@cmidla=\count296
+\@cmidlb=\count297
+\@aboverulesep=\dimen186
+\@belowrulesep=\dimen187
+\@thisruleclass=\count298
+\@lastruleclass=\count299
+\@thisrulewidth=\dimen188
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks33
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/sidecap\sidecap.sty"
 Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
-\SC@BOXWD=\dimen157
-\SC@CAPWD=\dimen158
-\SC@tempdima=\dimen159
-\SC@tempdimb=\dimen160
-\c@SC@C=\count147
-\SC@BOX=\box34
+\SC@BOXWD=\dimen189
+\SC@CAPWD=\dimen190
+\SC@tempdima=\dimen191
+\SC@tempdimb=\dimen192
+\c@SC@C=\count300
+\SC@BOX=\box52
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.sty"
-\wrapoverhang=\dimen161
-\WF@size=\dimen162
-\c@WF@wrappedlines=\count148
-\WF@box=\box35
+\wrapoverhang=\dimen193
+\WF@size=\dimen194
+\c@WF@wrappedlines=\count301
+\WF@box=\box53
 \WF@everypar=\toks34
 Package: wrapfig 2003/01/31  v 3.6
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/setspace\setspace.sty"
@@ -670,64 +510,64 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\rotating.sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count149
-\rotFPtop=\skip66
-\rotFPbot=\skip67
-\rot@float@box=\box36
+\c@r@tfl@t=\count302
+\rotFPtop=\skip72
+\rotFPbot=\skip73
+\rot@float@box=\box54
 \rot@mess@toks=\toks35
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/appendix\appendix.sty"
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count150
-\c@@ppsavesec=\count151
-\c@@ppsaveapp=\count152
+\c@@pps=\count303
+\c@@ppsavesec=\count304
+\c@@ppsaveapp=\count305
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip68
-\multirow@cntb=\count153
-\multirow@dima=\skip69
-\bigstrutjot=\dimen163
+\multirow@colwidth=\skip74
+\multirow@cntb=\count306
+\multirow@dima=\skip75
+\bigstrutjot=\dimen195
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/colortbl\colortbl.sty"
-Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen164
-\ar@mcellbox=\box37
-\extrarowheight=\dimen165
+\col@sep=\dimen196
+\ar@mcellbox=\box55
+\extrarowheight=\dimen197
 \NC@list=\toks36
-\extratabsurround=\skip70
-\backup@length=\skip71
-\ar@cellbox=\box38
+\extratabsurround=\skip76
+\backup@length=\skip77
+\ar@cellbox=\box56
 )
 \everycr=\toks37
-\minrowclearance=\skip72
+\minrowclearance=\skip78
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/threeparttable\threeparttable.sty"
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box39
+\@tempboxb=\box57
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\longtable.sty"
-Package: longtable 2019/02/06 v4.12 Multi-page Table package (DPC)
-\LTleft=\skip73
-\LTright=\skip74
-\LTpre=\skip75
-\LTpost=\skip76
-\LTchunksize=\count154
-\LTcapwidth=\dimen166
-\LT@head=\box40
-\LT@firsthead=\box41
-\LT@foot=\box42
-\LT@lastfoot=\box43
-\LT@cols=\count155
-\LT@rows=\count156
-\c@LT@tables=\count157
-\c@LT@chunks=\count158
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip79
+\LTright=\skip80
+\LTpre=\skip81
+\LTpost=\skip82
+\LTchunksize=\count307
+\LTcapwidth=\dimen198
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@cols=\count308
+\LT@rows=\count309
+\c@LT@tables=\count310
+\c@LT@chunks=\count311
 \LT@p@ftn=\toks38
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\tabularx.sty"
-Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
-\TX@col@width=\dimen167
-\TX@old@table=\dimen168
-\TX@old@col=\dimen169
-\TX@target=\dimen170
-\TX@delta=\dimen171
-\TX@cols=\count159
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen199
+\TX@old@table=\dimen256
+\TX@old@col=\dimen257
+\TX@target=\dimen258
+\TX@delta=\dimen259
+\TX@cols=\count312
 \TX@ftn=\toks39
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 40.
@@ -735,114 +575,114 @@ Package hyperref Info: Option `breaklinks' set `false' on input line 40.
 Package hyperref Info: Option `unicode' set `true' on input line 40.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 40.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
-Package: geometry 2018/04/16 v5.8 Page Geometry
+Package: geometry 2020/01/02 v5.9 Page Geometry
  ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count160
-\Gm@cntv=\count161
-\c@Gm@tempcnt=\count162
-\Gm@bindingoffset=\dimen172
-\Gm@wd@mp=\dimen173
-\Gm@odd@mp=\dimen174
-\Gm@even@mp=\dimen175
-\Gm@layoutwidth=\dimen176
-\Gm@layoutheight=\dimen177
-\Gm@layouthoffset=\dimen178
-\Gm@layoutvoffset=\dimen179
+\Gm@cnth=\count313
+\Gm@cntv=\count314
+\c@Gm@tempcnt=\count315
+\Gm@bindingoffset=\dimen260
+\Gm@wd@mp=\dimen261
+\Gm@odd@mp=\dimen262
+\Gm@even@mp=\dimen263
+\Gm@layoutwidth=\dimen264
+\Gm@layoutheight=\dimen265
+\Gm@layouthoffset=\dimen266
+\Gm@layoutvoffset=\dimen267
 \Gm@dimlist=\toks40
  ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
-\c@defin=\count163
-\c@ass=\count164
-\c@prop=\count165
-\c@lemma=\count166
-\c@exam=\count167
-\c@Listi=\count168
-\c@Lista=\count169
+\c@defin=\count316
+\c@ass=\count317
+\c@prop=\count318
+\c@lemma=\count319
+\c@exam=\count320
+\c@Listi=\count321
+\c@Lista=\count322
  ("C:\Program Files\MiKTeX 2.9\tex/latex/fancybox\fancybox.sty"
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
-\@fancybox=\box44
-\shadowsize=\dimen180
-\@Sbox=\box45
+\@fancybox=\box62
+\shadowsize=\dimen268
+\@Sbox=\box63
 \do@VerbBox=\toks41
 \the@fancyput=\toks42
 \this@fancyput=\toks43
 \EndVerbatimTokens=\toks44
 \Verbatim@Outfile=\write4
-\Verbatim@Infile=\read2
+\Verbatim@Infile=\read3
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks45
 \verbatim@line=\toks46
-\verbatim@in@stream=\read3
+\verbatim@in@stream=\read4
 )) ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count170
+\etb@tempcnta=\count323
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count171
+\lrq@indent=\count324
  ("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count172
-\c@listtotal=\count173
-\c@listcount=\count174
-\c@liststart=\count175
-\c@liststop=\count176
-\c@citecount=\count177
-\c@citetotal=\count178
-\c@multicitecount=\count179
-\c@multicitetotal=\count180
-\c@instcount=\count181
-\c@maxnames=\count182
-\c@minnames=\count183
-\c@maxitems=\count184
-\c@minitems=\count185
-\c@citecounter=\count186
-\c@maxcitecounter=\count187
-\c@savedcitecounter=\count188
-\c@uniquelist=\count189
-\c@uniquename=\count190
-\c@refsection=\count191
-\c@refsegment=\count192
-\c@maxextratitle=\count193
-\c@maxextratitleyear=\count194
-\c@maxextraname=\count195
-\c@maxextradate=\count196
-\c@maxextraalpha=\count197
-\c@abbrvpenalty=\count198
-\c@highnamepenalty=\count199
-\c@lownamepenalty=\count266
-\c@maxparens=\count267
-\c@parenlevel=\count268
-\blx@tempcnta=\count269
-\blx@tempcntb=\count270
-\blx@tempcntc=\count271
-\blx@maxsection=\count272
-\blx@maxsegment@0=\count273
-\blx@notetype=\count274
-\blx@parenlevel@text=\count275
-\blx@parenlevel@foot=\count276
-\blx@sectionciteorder@0=\count277
-\blx@entrysetcounter=\count278
-\labelnumberwidth=\skip77
-\labelalphawidth=\skip78
-\biblabelsep=\skip79
-\bibitemsep=\skip80
-\bibnamesep=\skip81
-\bibinitsep=\skip82
-\bibparsep=\skip83
-\bibhang=\skip84
-\blx@bcfin=\read4
+\c@tabx@nest=\count325
+\c@listtotal=\count326
+\c@listcount=\count327
+\c@liststart=\count328
+\c@liststop=\count329
+\c@citecount=\count330
+\c@citetotal=\count331
+\c@multicitecount=\count332
+\c@multicitetotal=\count333
+\c@instcount=\count334
+\c@maxnames=\count335
+\c@minnames=\count336
+\c@maxitems=\count337
+\c@minitems=\count338
+\c@citecounter=\count339
+\c@maxcitecounter=\count340
+\c@savedcitecounter=\count341
+\c@uniquelist=\count342
+\c@uniquename=\count343
+\c@refsection=\count344
+\c@refsegment=\count345
+\c@maxextratitle=\count346
+\c@maxextratitleyear=\count347
+\c@maxextraname=\count348
+\c@maxextradate=\count349
+\c@maxextraalpha=\count350
+\c@abbrvpenalty=\count351
+\c@highnamepenalty=\count352
+\c@lownamepenalty=\count353
+\c@maxparens=\count354
+\c@parenlevel=\count355
+\blx@tempcnta=\count356
+\blx@tempcntb=\count357
+\blx@tempcntc=\count358
+\blx@maxsection=\count359
+\blx@maxsegment@0=\count360
+\blx@notetype=\count361
+\blx@parenlevel@text=\count362
+\blx@parenlevel@foot=\count363
+\blx@sectionciteorder@0=\count364
+\blx@entrysetcounter=\count365
+\labelnumberwidth=\skip83
+\labelalphawidth=\skip84
+\biblabelsep=\skip85
+\bibitemsep=\skip86
+\bibnamesep=\skip87
+\bibinitsep=\skip88
+\bibparsep=\skip89
+\bibhang=\skip90
+\blx@bcfin=\read5
 \blx@bcfout=\write5
 \blx@langwohyphens=\language82
-\c@mincomprange=\count279
-\c@maxcomprange=\count280
-\c@mincompwidth=\count281
+\c@mincomprange=\count366
+\c@maxcomprange=\count367
+\c@mincompwidth=\count368
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
@@ -851,104 +691,104 @@ File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\apa.dbx"
-File: apa.dbx 2019/12/22 v9.4 APA biblatex style data model
+File: apa.dbx 2020/02/01 v9.5 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count282
-\c@savedafterword=\count283
-\c@annotator=\count284
-\c@savedannotator=\count285
-\c@author=\count286
-\c@savedauthor=\count287
-\c@bookauthor=\count288
-\c@savedbookauthor=\count289
-\c@commentator=\count290
-\c@savedcommentator=\count291
-\c@editor=\count292
-\c@savededitor=\count293
-\c@editora=\count294
-\c@savededitora=\count295
-\c@editorb=\count296
-\c@savededitorb=\count297
-\c@editorc=\count298
-\c@savededitorc=\count299
-\c@foreword=\count300
-\c@savedforeword=\count301
-\c@holder=\count302
-\c@savedholder=\count303
-\c@introduction=\count304
-\c@savedintroduction=\count305
-\c@namea=\count306
-\c@savednamea=\count307
-\c@nameb=\count308
-\c@savednameb=\count309
-\c@namec=\count310
-\c@savednamec=\count311
-\c@translator=\count312
-\c@savedtranslator=\count313
-\c@shortauthor=\count314
-\c@savedshortauthor=\count315
-\c@shorteditor=\count316
-\c@savedshorteditor=\count317
-\c@groupauthor=\count318
-\c@savedgroupauthor=\count319
-\c@narrator=\count320
-\c@savednarrator=\count321
-\c@execproducer=\count322
-\c@savedexecproducer=\count323
-\c@execdirector=\count324
-\c@savedexecdirector=\count325
-\c@with=\count326
-\c@savedwith=\count327
-\c@labelname=\count328
-\c@savedlabelname=\count329
-\c@institution=\count330
-\c@savedinstitution=\count331
-\c@lista=\count332
-\c@savedlista=\count333
-\c@listb=\count334
-\c@savedlistb=\count335
-\c@listc=\count336
-\c@savedlistc=\count337
-\c@listd=\count338
-\c@savedlistd=\count339
-\c@liste=\count340
-\c@savedliste=\count341
-\c@listf=\count342
-\c@savedlistf=\count343
-\c@location=\count344
-\c@savedlocation=\count345
-\c@organization=\count346
-\c@savedorganization=\count347
-\c@origlocation=\count348
-\c@savedoriglocation=\count349
-\c@origpublisher=\count350
-\c@savedorigpublisher=\count351
-\c@publisher=\count352
-\c@savedpublisher=\count353
-\c@language=\count354
-\c@savedlanguage=\count355
-\c@origlanguage=\count356
-\c@savedoriglanguage=\count357
-\c@citation=\count358
-\c@savedcitation=\count359
-\c@pageref=\count360
-\c@savedpageref=\count361
-\shorthandwidth=\skip85
-\shortjournalwidth=\skip86
-\shortserieswidth=\skip87
-\shorttitlewidth=\skip88
-\shortauthorwidth=\skip89
-\shorteditorwidth=\skip90
-\locallabelnumberwidth=\skip91
-\locallabelalphawidth=\skip92
-\localshorthandwidth=\skip93
-\localshortjournalwidth=\skip94
-\localshortserieswidth=\skip95
-\localshorttitlewidth=\skip96
-\localshortauthorwidth=\skip97
-\localshorteditorwidth=\skip98
+\c@afterword=\count369
+\c@savedafterword=\count370
+\c@annotator=\count371
+\c@savedannotator=\count372
+\c@author=\count373
+\c@savedauthor=\count374
+\c@bookauthor=\count375
+\c@savedbookauthor=\count376
+\c@commentator=\count377
+\c@savedcommentator=\count378
+\c@editor=\count379
+\c@savededitor=\count380
+\c@editora=\count381
+\c@savededitora=\count382
+\c@editorb=\count383
+\c@savededitorb=\count384
+\c@editorc=\count385
+\c@savededitorc=\count386
+\c@foreword=\count387
+\c@savedforeword=\count388
+\c@holder=\count389
+\c@savedholder=\count390
+\c@introduction=\count391
+\c@savedintroduction=\count392
+\c@namea=\count393
+\c@savednamea=\count394
+\c@nameb=\count395
+\c@savednameb=\count396
+\c@namec=\count397
+\c@savednamec=\count398
+\c@translator=\count399
+\c@savedtranslator=\count400
+\c@shortauthor=\count401
+\c@savedshortauthor=\count402
+\c@shorteditor=\count403
+\c@savedshorteditor=\count404
+\c@groupauthor=\count405
+\c@savedgroupauthor=\count406
+\c@narrator=\count407
+\c@savednarrator=\count408
+\c@execproducer=\count409
+\c@savedexecproducer=\count410
+\c@execdirector=\count411
+\c@savedexecdirector=\count412
+\c@with=\count413
+\c@savedwith=\count414
+\c@labelname=\count415
+\c@savedlabelname=\count416
+\c@institution=\count417
+\c@savedinstitution=\count418
+\c@lista=\count419
+\c@savedlista=\count420
+\c@listb=\count421
+\c@savedlistb=\count422
+\c@listc=\count423
+\c@savedlistc=\count424
+\c@listd=\count425
+\c@savedlistd=\count426
+\c@liste=\count427
+\c@savedliste=\count428
+\c@listf=\count429
+\c@savedlistf=\count430
+\c@location=\count431
+\c@savedlocation=\count432
+\c@organization=\count433
+\c@savedorganization=\count434
+\c@origlocation=\count435
+\c@savedoriglocation=\count436
+\c@origpublisher=\count437
+\c@savedorigpublisher=\count438
+\c@publisher=\count439
+\c@savedpublisher=\count440
+\c@language=\count441
+\c@savedlanguage=\count442
+\c@origlanguage=\count443
+\c@savedoriglanguage=\count444
+\c@citation=\count445
+\c@savedcitation=\count446
+\c@pageref=\count447
+\c@savedpageref=\count448
+\shorthandwidth=\skip91
+\shortjournalwidth=\skip92
+\shortserieswidth=\skip93
+\shorttitlewidth=\skip94
+\shortauthorwidth=\skip95
+\shorteditorwidth=\skip96
+\locallabelnumberwidth=\skip97
+\locallabelalphawidth=\skip98
+\localshorthandwidth=\skip99
+\localshortjournalwidth=\skip100
+\localshortserieswidth=\skip101
+\localshorttitlewidth=\skip102
+\localshortauthorwidth=\skip103
+\localshorteditorwidth=\skip104
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
@@ -958,35 +798,35 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count362
-\c@textcitetotal=\count363
-\c@textcitemaxnames=\count364
-\c@biburlbigbreakpenalty=\count365
-\c@biburlbreakpenalty=\count366
-\c@biburlnumpenalty=\count367
-\c@biburlucpenalty=\count368
-\c@biburllcpenalty=\count369
-\biburlbigskip=\muskip12
-\biburlnumskip=\muskip13
-\biburlucskip=\muskip14
-\biburllcskip=\muskip15
-\c@smartand=\count370
+\c@textcitecount=\count449
+\c@textcitetotal=\count450
+\c@textcitemaxnames=\count451
+\c@biburlbigbreakpenalty=\count452
+\c@biburlbreakpenalty=\count453
+\c@biburlnumpenalty=\count454
+\c@biburlucpenalty=\count455
+\c@biburllcpenalty=\count456
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count457
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\apa.bbx"
-File: apa.bbx 2019/12/22 v9.4 APA biblatex references style
+File: apa.bbx 2020/02/01 v9.5 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\standard.bbx"
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count371
-\c@bbx:relatedtotal=\count372
+\c@bbx:relatedcount=\count458
+\c@bbx:relatedtotal=\count459
 ))
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\apa.cbx"
-File: apa.cbx 2019/12/22 v9.4 APA biblatex citation style
+File: apa.cbx 2020/02/01 v9.5 APA biblatex citation style
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'textcite' already defined, overwriting.
 Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
@@ -1009,18 +849,24 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
 File: biblatex.cfg 
 ))
-\@quotelevel=\count373
-\@quotereset=\count374
- (Thesis.aux)
+\@quotelevel=\count460
+\@quotereset=\count461
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count462
+\l__pdf_internal_box=\box64
+) (Thesis.aux)
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
@@ -1030,48 +876,39 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 83.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
-File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 83.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) ABD: EveryShipout initializing macros ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+ ABD: EveryShipout initializing macros ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count375
-\scratchdimen=\dimen181
-\scratchbox=\box46
-\nofMPsegments=\count376
-\nofMParguments=\count377
+\scratchcounter=\count463
+\scratchdimen=\dimen269
+\scratchbox=\box65
+\nofMPsegments=\count464
+\nofMParguments=\count465
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count378
-\MPscratchDim=\dimen182
-\MPnumerator=\count379
-\makeMPintoPDFobject=\count380
+\MPscratchCnt=\count466
+\MPscratchDim=\dimen270
+\MPnumerator=\count467
+\makeMPintoPDFobject=\count468
 \everyMPtoPDFconversion=\toks48
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 441.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 459.
+(grfext)             \AppendGraphicsExtensions on input line 504.
 )
-\AtBeginShipoutBox=\box47
+\AtBeginShipoutBox=\box66
 Package hyperref Info: Link coloring OFF on input line 83.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
- ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\refcount.sty"
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count381
+\c@section@level=\count469
 )
 LaTeX Info: Redefining \ref on input line 83.
 LaTeX Info: Redefining \pageref on input line 83.
@@ -1098,20 +935,20 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 126.
 )
-\CenteringLeftskip=\skip99
-\RaggedLeftLeftskip=\skip100
-\RaggedRightLeftskip=\skip101
-\CenteringRightskip=\skip102
-\RaggedLeftRightskip=\skip103
-\RaggedRightRightskip=\skip104
-\CenteringParfillskip=\skip105
-\RaggedLeftParfillskip=\skip106
-\RaggedRightParfillskip=\skip107
-\JustifyingParfillskip=\skip108
-\CenteringParindent=\skip109
-\RaggedLeftParindent=\skip110
-\RaggedRightParindent=\skip111
-\JustifyingParindent=\skip112
+\CenteringLeftskip=\skip105
+\RaggedLeftLeftskip=\skip106
+\RaggedRightLeftskip=\skip107
+\CenteringRightskip=\skip108
+\RaggedLeftRightskip=\skip109
+\RaggedRightRightskip=\skip110
+\CenteringParfillskip=\skip111
+\RaggedLeftParfillskip=\skip112
+\RaggedRightParfillskip=\skip113
+\JustifyingParfillskip=\skip114
+\CenteringParindent=\skip115
+\RaggedLeftParindent=\skip116
+\RaggedRightParindent=\skip117
+\JustifyingParindent=\skip118
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1150,7 +987,7 @@ LaTeX Info: Redefining \selectfont on input line 126.
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\english-apa.lbx"
-File: english-apa.lbx 2019/12/22 v9.4 APA biblatex localisation
+File: english-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
@@ -1159,7 +996,7 @@ File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\american-apa.lbx"
-File: american-apa.lbx 2019/12/22 v9.4 APA biblatex localisation
+File: american-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\american.lbx"
@@ -1247,7 +1084,7 @@ although it is yet undefined on input line 93.
 \openout7 = `Thesis.toc'.
 
  [4.4] (Thesis.lot
-\blx@sectionciteorder@2=\count382
+\blx@sectionciteorder@2=\count470
 Package acronym Info: Label `acro:BMA' newly defined as it shall be overridden
 although it is yet undefined on input line 35.
 Package acronym Info: Label `acro:IVBMA' newly defined as it shall be overridden
@@ -1280,8 +1117,8 @@ although it is yet undefined on input line 25.
 
 
 ]
-\blx@maxsegment@1=\count383
-\blx@sectionciteorder@1=\count384
+\blx@maxsegment@1=\count471
+\blx@sectionciteorder@1=\count472
 Package biblatex Info: Reference section=1 on input line 155.
 Package biblatex Info: Setting label 'refsection:1' on input line 155.
  (02_Mainmatter/01_Intro.tex
@@ -1289,8 +1126,8 @@ Chapter 1.
 )
 Package biblatex Info: Reference section=0 on input line 157.
  (02_Mainmatter/02.tex
-\blx@maxsegment@2=\count385
-\blx@sectionciteorder@2=\count386
+\blx@maxsegment@2=\count473
+\blx@sectionciteorder@2=\count474
 Package biblatex Info: Reference section=2 on input line 1.
 Package biblatex Info: Setting label 'refsection:2' on input line 1.
  [1.9
@@ -1368,7 +1205,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Warning: Text page 22 contains only floats.
 
 
-Overfull \vbox (0.4506pt too high) has occurred while \output is active []
+Overfull \vbox (0.45341pt too high) has occurred while \output is active []
 
  [22.30]
 Package epstopdf Info: Source file: <Figures/ch2/plotCompPC6011.eps>
@@ -1408,11 +1245,11 @@ Package pdftex.def Info: Figures/ch2/Plots60-eps-converted-to.pdf  used on input
 (pdftex.def)             Requested size: 401.18405pt x 356.6117pt.
 [25.33]
 
-LaTeX Warning: Float too large for page by 34.57526pt on input line 490.
+LaTeX Warning: Float too large for page by 34.57999pt on input line 490.
 
 [26.34 <./Figures/ch2/Plots60-eps-converted-to.pdf>] [27.35]
 
-LaTeX Warning: Float too large for page by 28.56429pt on input line 551.
+LaTeX Warning: Float too large for page by 28.56754pt on input line 551.
 
 Package epstopdf Info: Source file: <Figures/ch2/plotCompall6011.eps>
 (epstopdf)                    date: 2015-11-02 13:09:06
@@ -1465,8 +1302,8 @@ Package pdftex.def Info: Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf  use
 [41.49]
 Package biblatex Info: Reference section=0 on input line 729.
 ) (02_Mainmatter/03.tex
-\blx@maxsegment@3=\count387
-\blx@sectionciteorder@3=\count388
+\blx@maxsegment@3=\count475
+\blx@sectionciteorder@3=\count476
 Package biblatex Info: Reference section=3 on input line 1.
 Package biblatex Info: Setting label 'refsection:3' on input line 1.
  [42.50 <./Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf>] [43.51]
@@ -1673,8 +1510,8 @@ Overfull \hbox (9.14351pt too wide) in paragraph at lines 1290--1293
 [93.101]
 Package biblatex Info: Reference section=0 on input line 1335.
 ) (02_Mainmatter/04.tex
-\blx@maxsegment@4=\count389
-\blx@sectionciteorder@4=\count390
+\blx@maxsegment@4=\count477
+\blx@sectionciteorder@4=\count478
 Package biblatex Info: Reference section=4 on input line 1.
 Package biblatex Info: Setting label 'refsection:4' on input line 1.
  [94.102] [95.103]
@@ -1683,16 +1520,16 @@ Chapter 4.
 
 ] [97.105] [98.106]
 Package acronym Info: Label `acro:WALS' newly defined as it shall be overridden
-although it is yet undefined on input line 35.
-Package acronym Info: Label `acro:SWIID' newly defined as it shall be overridden
-although it is yet undefined on input line 50.
-Package acronym Info: Label `acro:WIID' newly defined as it shall be overridden
-although it is yet undefined on input line 50.
-Package acronym Info: Label `acro:LIS' newly defined as it shall be overridden
-although it is yet undefined on input line 50.
+although it is yet undefined on input line 41.
  [99.107]
+Package acronym Info: Label `acro:SWIID' newly defined as it shall be overridden
+although it is yet undefined on input line 56.
+Package acronym Info: Label `acro:WIID' newly defined as it shall be overridden
+although it is yet undefined on input line 56.
+Package acronym Info: Label `acro:LIS' newly defined as it shall be overridden
+although it is yet undefined on input line 56.
 Package acronym Info: Label `acro:DINA' newly defined as it shall be overridden
-although it is yet undefined on input line 52.
+although it is yet undefined on input line 58.
  [100.108] [101.109]
 Package epstopdf Info: Source file: <figures/ch4/plots_ineq.eps>
 (epstopdf)                    date: 2020-01-14 10:45:46
@@ -1701,17 +1538,17 @@ Package epstopdf Info: Source file: <figures/ch4/plots_ineq.eps>
 (epstopdf)                    date: 2020-01-14 10:51:04
 (epstopdf)                    size: 50487 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/ch4/plots_ineq-eps-converted-to.pdf figures/ch4/plots_ineq.eps>
-(epstopdf)             \includegraphics on input line 125.
+(epstopdf)             \includegraphics on input line 131.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/plots_ineq-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/plots_ineq-eps-converted-to.pdf, id=2054, 722.7pt x 361.35pt>
+<figures/ch4/plots_ineq-eps-converted-to.pdf, id=2059, 722.7pt x 361.35pt>
 File: figures/ch4/plots_ineq-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/plots_ineq-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ch4/plots_ineq-eps-converted-to.pdf  used on input line 125.
+Package pdftex.def Info: figures/ch4/plots_ineq-eps-converted-to.pdf  used on input line 131.
 (pdftex.def)             Requested size: 320.94846pt x 160.47217pt.
-[102.110 <./figures/ch4/plots_ineq-eps-converted-to.pdf>]
+[102.110 <./figures/ch4/plots_ineq-eps-converted-to.pdf>] [103.111]
 Package epstopdf Info: Source file: <figures/ch4/plots_findev_gini_dm.eps>
 (epstopdf)                    date: 2020-01-14 20:20:52
 (epstopdf)                    size: 450732 bytes
@@ -1719,18 +1556,18 @@ Package epstopdf Info: Source file: <figures/ch4/plots_findev_gini_dm.eps>
 (epstopdf)                    date: 2020-01-14 20:21:26
 (epstopdf)                    size: 82328 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf figures/ch4/plots_findev_gini_dm.eps>
-(epstopdf)             \includegraphics on input line 151.
+(epstopdf)             \includegraphics on input line 157.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf, id=2087, 650.43pt x 650.43pt>
+<figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf, id=2099, 650.43pt x 650.43pt>
 File: figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf  used on input line 151.
+Package pdftex.def Info: figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf  used on input line 157.
 (pdftex.def)             Requested size: 320.94846pt x 320.95648pt.
-[103.111] [104.112 <./figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf>] [105.113] [106.114]
-Overfull \hbox (0.88422pt too wide) in paragraph at lines 222--223
+[104.112 <./figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf>] [105.113] [106.114]
+Overfull \hbox (0.88422pt too wide) in paragraph at lines 228--229
 \T1/lmr/m/n/12 ([]2014[]) ex-am-ine the chan-nels be-tween pop-u-la-tion age-ing and in-equal-ity. Stretch-
  []
 
@@ -1742,15 +1579,15 @@ Package epstopdf Info: Source file: <figures/ch4/comp_baseline_pip_sel.eps>
 (epstopdf)                    date: 2020-01-14 18:57:36
 (epstopdf)                    size: 37486 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf figures/ch4/comp_baseline_pip_sel.eps>
-(epstopdf)             \includegraphics on input line 289.
+(epstopdf)             \includegraphics on input line 295.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf, id=2186, 650.43pt x 650.43pt>
+<figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf, id=2190, 650.43pt x 650.43pt>
 File: figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf  used on input line 289.
+Package pdftex.def Info: figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf  used on input line 295.
 (pdftex.def)             Requested size: 320.94846pt x 320.95648pt.
 Package epstopdf Info: Source file: <figures/ch4/topsh_comparison_all.eps>
 (epstopdf)                    date: 2020-01-14 18:44:29
@@ -1759,17 +1596,16 @@ Package epstopdf Info: Source file: <figures/ch4/topsh_comparison_all.eps>
 (epstopdf)                    date: 2020-01-14 18:45:06
 (epstopdf)                    size: 41675 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/ch4/topsh_comparison_all-eps-converted-to.pdf figures/ch4/topsh_comparison_all.eps>
-(epstopdf)             \includegraphics on input line 300.
+(epstopdf)             \includegraphics on input line 306.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/topsh_comparison_all-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/topsh_comparison_all-eps-converted-to.pdf, id=2188, 650.43pt x 433.62pt>
+<figures/ch4/topsh_comparison_all-eps-converted-to.pdf, id=2192, 650.43pt x 433.62pt>
 File: figures/ch4/topsh_comparison_all-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/topsh_comparison_all-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ch4/topsh_comparison_all-eps-converted-to.pdf  used on input line 300.
+Package pdftex.def Info: figures/ch4/topsh_comparison_all-eps-converted-to.pdf  used on input line 306.
 (pdftex.def)             Requested size: 401.18405pt x 267.45877pt.
-[110.118 <./figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/ch4/model_priors_comparison_gini.eps>
 (epstopdf)                    date: 2020-01-14 18:41:08
 (epstopdf)                    size: 124171 bytes
@@ -1777,16 +1613,17 @@ Package epstopdf Info: Source file: <figures/ch4/model_priors_comparison_gini.ep
 (epstopdf)                    date: 2020-01-14 18:45:02
 (epstopdf)                    size: 42980 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf figures/ch4/model_priors_comparison_gini.eps>
-(epstopdf)             \includegraphics on input line 364.
+(epstopdf)             \includegraphics on input line 370.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf, id=2207, 650.43pt x 433.62pt>
+<figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf, id=2195, 650.43pt x 433.62pt>
 File: figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf  used on input line 364.
+Package pdftex.def Info: figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf  used on input line 370.
 (pdftex.def)             Requested size: 401.18405pt x 267.45877pt.
+[110.118]
 Package epstopdf Info: Source file: <figures/ch4/model_priors_comparison_top10.eps>
 (epstopdf)                    date: 2020-01-14 18:41:11
 (epstopdf)                    size: 124178 bytes
@@ -1794,15 +1631,15 @@ Package epstopdf Info: Source file: <figures/ch4/model_priors_comparison_top10.e
 (epstopdf)                    date: 2020-01-14 18:45:03
 (epstopdf)                    size: 43021 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf figures/ch4/model_priors_comparison_top10.eps>
-(epstopdf)             \includegraphics on input line 371.
+(epstopdf)             \includegraphics on input line 377.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf, id=2208, 650.43pt x 433.62pt>
+<figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf, id=2204, 650.43pt x 433.62pt>
 File: figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf  used on input line 371.
+Package pdftex.def Info: figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf  used on input line 377.
 (pdftex.def)             Requested size: 401.18405pt x 267.45877pt.
 Package epstopdf Info: Source file: <figures/ch4/model_priors_comparison_top1.eps>
 (epstopdf)                    date: 2020-01-14 18:41:16
@@ -1811,54 +1648,54 @@ Package epstopdf Info: Source file: <figures/ch4/model_priors_comparison_top1.ep
 (epstopdf)                    date: 2020-01-14 18:45:04
 (epstopdf)                    size: 42940 bytes
 (epstopdf)             Command: <epstopdf --outfile=figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf figures/ch4/model_priors_comparison_top1.eps>
-(epstopdf)             \includegraphics on input line 378.
+(epstopdf)             \includegraphics on input line 384.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf, id=2209, 650.43pt x 433.62pt>
+<figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf, id=2205, 650.43pt x 433.62pt>
 File: figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf  used on input line 378.
+Package pdftex.def Info: figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf  used on input line 384.
 (pdftex.def)             Requested size: 401.18405pt x 267.45877pt.
-[111.119 <./figures/ch4/topsh_comparison_all-eps-converted-to.pdf>] [112.120]
+[111.119 <./figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf>] [112.120 <./figures/ch4/topsh_comparison_all-eps-converted-to.pdf> <./figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf>] [113.121]
 
-LaTeX Warning: Text page 113 contains only floats.
+LaTeX Warning: Text page 114 contains only floats.
 
-[113.121 <./figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf> <./figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf>] [114.122 <./figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf>] [115.123] [116.124
+[114.122 <./figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf> <./figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf>] [115.123] [116.124
 
 ] [117.125] [118.126] [119.127] [120.128]
-Overfull \hbox (36.43172pt too wide) in alignment at lines 473--497
+Overfull \hbox (36.43172pt too wide) in alignment at lines 479--503
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 513--513
+Underfull \hbox (badness 1077) in paragraph at lines 519--519
 []|\T1/lmr/m/n/10 return on banks' as-sets plus the ra-tio of
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 513--513
+Underfull \hbox (badness 1394) in paragraph at lines 519--519
 \T1/lmr/m/n/10 banks' eq-uity and as-sets, di-vided by the
  []
 
 
-Overfull \hbox (36.43172pt too wide) in alignment at lines 497--519
+Overfull \hbox (36.43172pt too wide) in alignment at lines 503--525
  [] [] [] 
  []
 
 
-Overfull \hbox (36.43172pt too wide) in alignment at lines 519--522
+Overfull \hbox (36.43172pt too wide) in alignment at lines 525--528
  [] [] [] 
  []
 
 [121.129
 
 ] [122.130]
-Package biblatex Info: Reference section=0 on input line 526.
+Package biblatex Info: Reference section=0 on input line 532.
 )
-\blx@maxsegment@5=\count391
-\blx@sectionciteorder@5=\count392
+\blx@maxsegment@5=\count479
+\blx@sectionciteorder@5=\count480
 Package biblatex Info: Reference section=5 on input line 164.
 Package biblatex Info: Setting label 'refsection:5' on input line 164.
  [123.131]
@@ -1880,13 +1717,15 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 185.
  ) 
 Here is how much of TeX's memory you used:
- 27872 strings out of 492450
- 452822 string characters out of 3129757
- 1048648 words of memory out of 3000000
- 31104 multiletter control sequences out of 15000+200000
- 126948 words of font info for 90 fonts, out of 3000000 for 9000
+ 27478 strings out of 481531
+ 449631 string characters out of 2922651
+ 1221826 words of memory out of 3000000
+ 41597 multiletter control sequences out of 15000+200000
+ 654882 words of font info for 99 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  52i,18n,75p,3005b,4720s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.43} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.42} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.41} has been referenced but does not exist, replaced by a fixed one
@@ -1972,9 +1811,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Thesis.pdf (131 pages, 1849482 bytes).
+Output written on Thesis.pdf (131 pages, 1851188 bytes).
 PDF statistics:
- 2599 PDF objects out of 2984 (max. 8388607)
- 598 named destinations out of 1000 (max. 500000)
+ 2604 PDF objects out of 2984 (max. 8388607)
+ 600 named destinations out of 1000 (max. 500000)
  562 words of extra memory for PDF output out of 10000 (max. 10000000)
 

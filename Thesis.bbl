@@ -5761,6 +5761,42 @@
       \field{pages}{410\bibrangedash 428}
       \range{pages}{19}
     \endentry
+    \entry{cihaksahay2020}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c80081a9aa784cb52994f76d7828f7c5}{%
+           family={Èih{á}k},
+           familyi={È\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=188c1fb35d5feb4ea5114b2a6494af4d}{%
+           family={Sahay},
+           familyi={S\bibinitperiod},
+           given={Ratna},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Monetary Fund}%
+      }
+      \strng{namehash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{fullhash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{bibnamehash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{authorbibnamehash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{authornamehash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{authorfullhash}{154c8a3675faf813ae79306e60ee6ae0}
+      \field{sortinit}{È}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{20/01}
+      \field{title}{Finance and Inequality}
+      \field{type}{Staff Discussion Note}
+      \field{year}{2020}
+    \endentry
     \entry{claessens2007finance}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=65a7a53a50cb600f5717488a05c60ec1}{%
