@@ -56,15 +56,15 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {2.B}Jointness of financial indicators}{41}{section.1.2.B}%
 \defcounter {refsection}{3}\relax 
-\contentsline {chapter}{\numberline {3}Finance and Wealth Inequality}{44}{chapter.3}%
+\contentsline {chapter}{\numberline {3}Finance and Wealth Inequality}{44}{appendix.3}%
 \defcounter {refsection}{3}\relax 
 \contentsline {section}{\numberline {3.1}Introduction}{45}{section.3.1}%
 \defcounter {refsection}{3}\relax 
 \contentsline {section}{\numberline {3.2}Related literature}{47}{section.3.2}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.3}Data}{50}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Data}{49}{section.3.3}%
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{\numberline {3.3.1}\ac {CSWD}}{51}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.1}\ac {CSWD}}{52}{subsection.3.3.1}%
 \defcounter {refsection}{3}\relax 
 \contentsline {section}{\numberline {3.4}Bayesian Model Averaging}{54}{section.3.4}%
 \defcounter {refsection}{3}\relax 
@@ -96,24 +96,24 @@
 \defcounter {refsection}{3}\relax 
 \contentsline {section}{\numberline {3.H}Bayesian Model Averaging}{90}{section.2.3.H}%
 \defcounter {refsection}{4}\relax 
-\contentsline {chapter}{\numberline {4}Finance and Inequality - panel BMA approach}{96}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Finance and Inequality - panel BMA approach}{96}{appendix.4}%
 \defcounter {refsection}{4}\relax 
 \contentsline {section}{\numberline {4.1}Introduction}{97}{section.4.1}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.2}Data and methodology}{100}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Data and methodology}{101}{section.4.2}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.3}Results}{103}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Results}{104}{section.4.3}%
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Gini index of income distribution}{103}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.1}Gini index of income distribution}{104}{subsection.4.3.1}%
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Top income shares}{108}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}Top income shares}{109}{subsection.4.3.2}%
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Robustness checks}{110}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.3}Robustness checks}{112}{subsection.4.3.3}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.4}Conclusion}{113}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Conclusion}{115}{section.4.4}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{References}{119}{section*.110}%
+\contentsline {section}{References}{120}{section*.110}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.A}The composition of financial indicators}{120}{section.3.4.A}%
+\contentsline {section}{\numberline {4.A}The composition of financial indicators}{121}{section.3.4.A}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.B}Dataset description}{121}{section.3.4.B}%
+\contentsline {section}{\numberline {4.B}Dataset description}{122}{section.3.4.B}%
