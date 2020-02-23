@@ -45,6 +45,7 @@
 \def \CUNI {Charles University}
 \def \FSS {Faculty of Social Sciences}
 \def \IES {Institute of Economic Studies}
+\def \Publisher {Charles University}
 %-----<<< --------------------------------- >>>-----
 
 %-----<<< METADATA >>>-----%filecontents must be in form of text, do not put definition reference like ``\AuthorDP'' inside
@@ -152,9 +153,7 @@
 %-----<<< MAIN MATTER >>>-----
 \mainmatter                   									%start arabic pagination from 1
 \autohdr
-\begin{refsection}																				%automatic headers for main matter
 \input{02_Mainmatter/01_Intro.tex}              %input field
-\end{refsection}
 \input{02_Mainmatter/02.tex}
 \input{02_Mainmatter/03.tex}
 \input{02_Mainmatter/04.tex}
@@ -176,11 +175,10 @@
 %-----<<< APPENDIXES >>>-----
 \backmatter																			%uppercase roman pagination for back matter; appendices start
 \autohdr																				%automatic headers     				
-% \input{03_Backmatter/01_App.tex}           			%input file
+\input{03_Backmatter/01_App.tex}           			%input file
 % \input{03_Backmatter/02_App.tex}           			%input file
 \clearpage
 %-----<<< --------- >>>-----
-
 \end{refsection}
 \end{document}
 %-----<<<<<<<<< END OF DOCUMENT >>>>>>>>>-----

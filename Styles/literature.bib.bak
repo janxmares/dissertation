@@ -797,15 +797,14 @@
 }
 
 @Article{GreenwoodJovanovic1990,
-  Title                    = {Financial development, growth, and the distribution of income},
-  Author                   = {J. Greenwood and B. Jovanovic},
-  Journal                  = {Journal of Policical Economy},
-  Year                     = {1990},
-  Pages                    = {1076-1107},
-  Volume                   = {98},
-
-  Owner                    = {jxm},
-  Timestamp                = {2013.12.31}
+  author    = {Jeremy Greenwood and B Jovanovic},
+  title     = {Financial development, growth, and the distribution of income},
+  journal   = {Journal of Policical Economy},
+  year      = {1990},
+  volume    = {98},
+  pages     = {1076-1107},
+  owner     = {jxm},
+  timestamp = {2013.12.31},
 }
 
 @Article{GreenwoodSmith1997,
@@ -1746,7 +1745,7 @@
 
 @Article{mankiw2015yes,
   author    = {Mankiw, N Gregory},
-  title     = {Yes, r> g. So what?},
+  title     = {Yes, r > g. So what?},
   journal   = {The American Economic Review},
   year      = {2015},
   volume    = {105},
