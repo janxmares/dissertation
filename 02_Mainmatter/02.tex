@@ -1,7 +1,7 @@
 \begin{refsection}
-	\chapter[What Type of Finance Matters for Growth? BMA Evidence]{What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence}
+	\chapter[What Type of Finance Matters for Growth? BMA Evidence]{What Aspect of Financial Intermediation Matters for Growth? Bayesian Model Averaging Evidence}
 \label{ch2}
-\blfootnote{This chapter was co-authored with Iftekhar Hasan and Roman Horv\'{a}th and published in the \emph{The World Bank Economic Review}. We thank Martin Feldkircher and seminar participants at 19th ICMAIF conference (Rethymno, Greece), 32nd International Symposium on Money, Banking and Finance (Nice, France) and 1st World Congress for Comparative Economics (Rome, Italy) for helpful comments. The views expressed here are those of the authors and not necessarily those of the Czech Ministry of Finance or Bank of Finland.}
+\blfootnote{This chapter was co-authored with Iftekhar Hasan and Roman Horv\'{a}th and published in the \emph{The World Bank Economic Review} as \emph{What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence}. We thank Martin Feldkircher and seminar participants at 19th ICMAIF conference (Rethymno, Greece), 32nd International Symposium on Money, Banking and Finance (Nice, France) and 1st World Congress for Comparative Economics (Rome, Italy) for helpful comments. The views expressed here are those of the authors and not necessarily those of the Czech Ministry of Finance or Bank of Finland.}
 
 \begin{quote}
 \begin{center}\textbf{Abstract}\end{center}
@@ -126,7 +126,7 @@ where $p(\beta \vert y, X)$ is the posterior density, $p(y, X\vert \beta)$ is th
 \begin{equation}\label{ch2eq:BROM}
 	p(\beta_{i} \vert M_{i},y,X) = \frac{p(y\vert \beta_{i},M_{i},X)p(\beta_{i}\vert M_{i})}{p(y \vert M_{i},X)}
 \end{equation}
-The following subsections describe the averaging principle of \ac{BMA} and individual components of equation \ref{ch2eq:BRmodel}.
+The following subsections describe the averaging principle of \ac{BMA} and individual components of equation \ref{ch2eq:BROM}.
 %
 %%
 \subsection{Posterior Model Probability}
@@ -222,7 +222,7 @@ We assume that the $\beta_{i}$ coefficients follow the normal distribution, and 
 %
 % Coefficient prior - Zellner's g
 \begin{equation}
-	\beta_{i}\vert g \sim\ N(0, \sigma^{2}(g(X_{i}'X_{i})^{-1}) 
+	\beta_{i}\vert g \sim\ N(0, \sigma^{2}(g(X_{i}'X_{i})^{-1})) 
 \end{equation}
 %%
 The prior variance of the coefficients is proportional to the posterior variance $(X_{i}'X_{i})^{-1}$ estimated from the sample. Parameter $g$ denotes how much weight we attribute to the prior variance as opposed to the variance observed in the data \parencite{FeldkircherZeugner2009}. Selecting a small $g$ results in low variance in the prior coefficients and thus reduces the coefficients to zero. Conversely, a large $g$ attributes higher importance to the data and expresses researchers' uncertainty regarding zero $\beta_{i}$ coefficients \parencite{Zeugner2011}. Note that with $g \rightarrow \infty$, $\beta_{i} \rightarrow \beta^{OLS}_{i}$. Popular choices include the following:
@@ -311,7 +311,7 @@ Table \ref{ch2tab:PC6011hyp} presents our baseline results for private credit. W
 	\caption{Private credit and growth, baseline results\\
 		Bayesian model averaging}
 	\label{ch2tab:PC6011hyp}
-	\small
+	\footnotesize
 	\begin{tabular}{lrrr}
 		\toprule
 		& PIP & Post Mean & Post SD \\ 
@@ -433,7 +433,7 @@ We report the results of the estimation in a similar fashion as we did for priva
 	\centering
 	\caption{New financial indicators and growth 1960-2011, baseline results}
 	\label{ch2tab:all6011hyp}
-	\small
+	\footnotesize
 	\begin{tabular}{lrrr}
 		\toprule
 		& PIP & Post Mean & Post SD \\ 
@@ -495,7 +495,7 @@ We present the posterior statistics of the explanatory variables in Table \ref{c
 	\centering
 	\caption{New financial indicators and growth 2000-2011, baseline results}
 		\label{ch2tab:BMAgrowth2000-2011}
-	\small
+	\footnotesize
 	\begin{tabular}{lrrr}
 		\toprule
 		& PIP & Post Mean & Post SD \\ 

@@ -1,14 +1,14 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of Tables}{vi}{section*.10}%
+\contentsline {chapter}{List of Tables}{v}{section*.8}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of Figures}{viii}{section*.15}%
+\contentsline {chapter}{List of Figures}{vii}{section*.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Acronyms}{ix}{section*.18}%
+\contentsline {chapter}{Acronyms}{viii}{section*.16}%
 \defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {1}Summary of the dissertation}{1}{chapter.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{References}{9}{section*.21}%
+\contentsline {section}{References}{9}{section*.19}%
 \defcounter {refsection}{2}\relax 
 \contentsline {chapter}{\numberline {2}What Type of Finance Matters for Growth? BMA Evidence}{10}{chapter.2}%
 \defcounter {refsection}{2}\relax 
@@ -36,9 +36,9 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {subsection}{\numberline {2.4.6}Priors}{24}{subsection.2.4.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Parameter Priors}{24}{section*.25}%
+\contentsline {subsubsection}{Parameter Priors}{24}{section*.24}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Model Priors}{25}{section*.27}%
+\contentsline {subsubsection}{Model Priors}{25}{section*.26}%
 \defcounter {refsection}{2}\relax 
 \contentsline {subsection}{\numberline {2.4.7}\ac {MCMC} Sampler}{27}{subsection.2.4.7}%
 \defcounter {refsection}{2}\relax 
@@ -52,7 +52,7 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {2.6}Conclusions}{40}{section.2.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{References}{46}{section*.39}%
+\contentsline {section}{References}{46}{section*.38}%
 \defcounter {refsection}{2}\relax 
 \contentsline {section}{\numberline {2.A}Description of the Dataset}{47}{section.1.2.A}%
 \defcounter {refsection}{2}\relax 
@@ -82,44 +82,38 @@
 \defcounter {refsection}{3}\relax 
 \contentsline {section}{References}{84}{section*.71}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.A}Additional robustness checks}{85}{section.2.3.A}%
+\contentsline {section}{\numberline {3.A}Additional results and robustness checks}{85}{section.2.3.A}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.B}List of countries}{89}{section.2.3.B}%
+\contentsline {section}{\numberline {3.B}Data description}{91}{section.2.3.B}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.C}Grouping of explanatory variables}{90}{section.2.3.C}%
-\defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.D}Descriptive statistics, correlation matrix}{91}{section.2.3.D}%
-\defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.E}Top models by their posterior model probability, group \acp {PIP}}{93}{section.2.3.E}%
-\defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.F}\ac {OLS} estimates of the restricted models}{94}{section.2.3.F}%
-\defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.G}Dataset description}{95}{section.2.3.G}%
-\defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.H}Bayesian Model Averaging}{98}{section.2.3.H}%
+\contentsline {section}{\numberline {3.C}Full detail on the BMA}{97}{section.2.3.C}%
 \defcounter {refsection}{4}\relax 
-\contentsline {chapter}{\numberline {4}Finance and Inequality - panel BMA approach}{104}{appendix.4}%
+\contentsline {chapter}{\numberline {4}Finance and Inequality - panel BMA approach}{102}{appendix.4}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.1}Introduction}{105}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Introduction}{103}{section.4.1}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.2}Data and methodology}{108}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Data and methodology}{106}{section.4.2}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.3}Results}{111}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Results}{109}{section.4.3}%
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Gini index of income distribution}{111}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.1}Gini index of income distribution}{109}{subsection.4.3.1}%
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Top income shares}{116}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}Top income shares}{114}{subsection.4.3.2}%
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Robustness checks}{119}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.3}Robustness checks}{117}{subsection.4.3.3}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.4}Conclusions}{122}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Conclusions}{120}{section.4.4}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{References}{127}{section*.111}%
+\contentsline {section}{References}{125}{section*.109}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.A}The composition of financial indicators}{128}{section.3.4.A}%
+\contentsline {section}{\numberline {4.A}The composition of financial indicators}{126}{section.3.4.A}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.B}Dataset description}{129}{section.3.4.B}%
+\contentsline {section}{\numberline {4.B}Dataset description}{127}{section.3.4.B}%
 \defcounter {refsection}{5}\relax 
 \contentsline {chapter}{\numberline {A}Response to the referees}{I}{appendix.A}%
 \defcounter {refsection}{5}\relax 
 \contentsline {section}{\numberline {A.1}Doc. PhDr. Adam Ger\v {s}l Ph.D.}{I}{section.A.1}%
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {A.2}Prof. Dr. Ansgar H. Belke}{IV}{section.A.2}%
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {A.3}Martin \v {C}ih\'{a}k Ph.D.}{V}{section.A.3}%

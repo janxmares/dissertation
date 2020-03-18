@@ -1,0 +1,36 @@
+%!TEX program = pdflatex
+%!BIB program = biber
+
+\documentclass[a4paper,11pt]{article}
+\usepackage{graphicx}
+% \usepackage{fontspec}
+% \usepackage[round]{natbib} %standard package for bibliography
+
+\usepackage[style=apa]{biblatex}
+\DeclareSourcemap{
+  \maps[datatype=bibtex]{
+    \map{ % set fields in .bib file to ignore
+      \step[fieldset=issn, null]
+      \step[fieldset=isbn, null]
+      \step[fieldset=abstract, null]
+      \step[fieldset=doi, null]
+      \step[fieldset=url, null]
+    }
+  }
+}
+%
+\addbibresource{literature.bib}	% bib file
+
+%
+%
+%
+%
+%
+
+\begin{document}
+
+Instruments in \textcite{edisonetal2002} are legal origin and absolute latitude (distance from the equator).
+
+\printbibliography
+
+\end{document}

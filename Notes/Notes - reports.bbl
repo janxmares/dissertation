@@ -1,0 +1,76 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{edisonetal2002}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7f2ce2a98ad7d00a79569399dd6d58d2}{%
+           family={Edison},
+           familyi={E\bibinitperiod},
+           given={Hali\bibnamedelima J},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c1cd77b28a968c78efc1362f3c7dd21}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13fe30618a231e4038369248467c2abf}{%
+           family={Ricci},
+           familyi={R\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4adb354154545b5f0249c1033cb5aeb9}{%
+           family={Sl{ø}k},
+           familyi={S\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{eb95ff2d2bc39312f9eecbece3303523}
+      \strng{fullhash}{bc85c3fd5cd958c95bd7a869a258d34f}
+      \strng{bibnamehash}{bc85c3fd5cd958c95bd7a869a258d34f}
+      \strng{authorbibnamehash}{bc85c3fd5cd958c95bd7a869a258d34f}
+      \strng{authornamehash}{eb95ff2d2bc39312f9eecbece3303523}
+      \strng{authorfullhash}{bc85c3fd5cd958c95bd7a869a258d34f}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of International Money and Finance}
+      \field{number}{6}
+      \field{title}{International Financial Integration and Economic Growth}
+      \field{volume}{21}
+      \field{year}{2002}
+      \field{pages}{749\bibrangedash 776}
+      \range{pages}{28}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

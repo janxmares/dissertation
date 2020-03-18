@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[1] Config.pm:307> INFO - Logfile is 'Notes - reports.blg'
+[212] biber-MSWIN64:322> INFO - === 
+[265] Biber.pm:415> INFO - Reading 'Notes - reports.bcf'
+[628] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
+[680] Biber.pm:4256> INFO - Processing section 0
+[681] Utils.pm:75> INFO - Globbing data source 'literature.bib'
+[742] Utils.pm:91> INFO - Globbed data source 'literature.bib' to literature.bib
+[783] Biber.pm:4455> INFO - Looking for bibtex format file 'literature.bib' for section 0
+[832] bibtex.pm:1653> INFO - LaTeX decoding ...
+[2530] bibtex.pm:1471> INFO - Found BibTeX data source 'literature.bib'
+[2694] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2694] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2695] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2695] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[2701] bbl.pm:652> INFO - Writing 'Notes - reports.bbl' with encoding 'UTF-8'
+[2705] bbl.pm:755> INFO - Output to Notes - reports.bbl

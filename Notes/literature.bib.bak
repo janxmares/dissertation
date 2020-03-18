@@ -3140,4 +3140,15 @@ This paper develops a meta-analysis of the empirical literature that estimates t
   pages   = {404--09},
 }
 
+@Article{edisonetal2002,
+  author    = {Edison, Hali J and Levine, Ross and Ricci, Luca and Sl{\o}k, Torsten},
+  title     = {International Financial Integration and Economic Growth},
+  journal   = {Journal of International Money and Finance},
+  year      = {2002},
+  volume    = {21},
+  number    = {6},
+  pages     = {749--776},
+  publisher = {Elsevier},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.13)  24 FEB 2020 00:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.13)  2 MAR 2020 18:15
 entering extended mode
 **c:/Users/JM/Documents/GitHub/dissertation/Thesis.tex
 (c:/Users/JM/Documents/GitHub/dissertation/Thesis.tex
@@ -1020,7 +1020,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 91
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<Figures/logouk.pdf, id=251, 541.39165pt x 541.38963pt>
+<Figures/logouk.pdf, id=239, 541.39165pt x 541.38963pt>
 File: Figures/logouk.pdf Graphic file (type pdf)
 <use Figures/logouk.pdf>
 Package pdftex.def Info: Figures/logouk.pdf  used on input line 91.
@@ -1075,15 +1075,11 @@ although it is yet undefined on input line 43.
 ]
 Package acronym Info: Label `acro:CSWD' newly defined as it shall be overridden
 although it is yet undefined on input line 69.
-Package acronym Info: Label `acro:PIP' newly defined as it shall be overridden
-although it is yet undefined on input line 93.
-Package acronym Info: Label `acro:OLS' newly defined as it shall be overridden
-although it is yet undefined on input line 95.
 )
 \tf@toc=\write7
 \openout7 = `Thesis.toc'.
 
- [4.4] [5.5] (Thesis.lot
+ [4.4] (Thesis.lot
 \blx@sectionciteorder@2=\count470
 Package acronym Info: Label `acro:BMA' newly defined as it shall be overridden
 although it is yet undefined on input line 35.
@@ -1096,24 +1092,24 @@ Overfull \hbox (12.3298pt too wide) in paragraph at lines 39--39
 
 Package acronym Info: Label `acro:UIP' newly defined as it shall be overridden
 although it is yet undefined on input line 41.
-[6.6
+[5.5
 
 
 ])
 \tf@lot=\write8
 \openout8 = `Thesis.lot'.
 
- [7.7] (Thesis.lof
-Package acronym Info: Label `acro:OECD' newly defined as it shall be overridden
-although it is yet undefined on input line 25.
+ [6.6] (Thesis.lof
+Package acronym Info: Label `acro:PIP' newly defined as it shall be overridden
+although it is yet undefined on input line 31.
 )
 \tf@lof=\write9
 \openout9 = `Thesis.lof'.
 
- [8.8
+ [7.7
 
 
-] (01_Frontmatter/acro.tex) [9.9
+] (01_Frontmatter/acro.tex) [8.8
 
 
 ] (02_Mainmatter/01_Intro.tex
@@ -1123,47 +1119,50 @@ Package biblatex Info: Reference section=1 on input line 1.
 Package biblatex Info: Setting label 'refsection:1' on input line 1.
 
 Chapter 1.
-[1.10
+[1.9
 
 
 ]
 Package acronym Info: Label `acro:GFDD' newly defined as it shall be overridden
 although it is yet undefined on input line 14.
- [2.11] [3.12]
+ [2.10] [3.11]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 20.
- [4.13] [5.14] [6.15] [7.16]
+ [4.12] [5.13] [6.14] [7.15]
 Overfull \hbox (2.40685pt too wide) in paragraph at lines 41--41
 [][]\T1/lmr/m/n/12 King, R. G., & Levine, R. (1993). Fi-nance, en-trepreneur-ship and growth: Schum-
  []
 
-[8.17]
+[8.16]
 Package biblatex Info: Reference section=0 on input line 43.
 ) (02_Mainmatter/02.tex
 \blx@maxsegment@2=\count473
 \blx@sectionciteorder@2=\count474
 Package biblatex Info: Reference section=2 on input line 1.
 Package biblatex Info: Setting label 'refsection:2' on input line 1.
- [9.18]
+ [9.17]
 Chapter 2.
-[10.19
+[10.18
 
-] [11.20
+] [11.19
 
-] [12.21] [13.22] [14.23] [15.24] [16.25] [17.26]
+] [12.20] [13.21] [14.22] [15.23] [16.24] [17.25]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 65.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [18.27] [19.28] [20.29]
+) [18.26] [19.27] [20.28]
 Package acronym Info: Label `acro:PMP' newly defined as it shall be overridden
 although it is yet undefined on input line 135.
 Package acronym Info: Label `acro:ML' newly defined as it shall be overridden
 although it is yet undefined on input line 141.
- [21.30] [22.31] [23.32] [24.33]
+ [21.29]
+Package acronym Info: Label `acro:OLS' newly defined as it shall be overridden
+although it is yet undefined on input line 167.
+ [22.30] [23.31] [24.32]
 Package acronym Info: Label `acro:BRIC' newly defined as it shall be overridden
 although it is yet undefined on input line 231.
 
@@ -1172,12 +1171,12 @@ Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 248.
 
-[25.34] [26.35]
+[25.33] [26.34]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ac' on input line 260.
 
-[27.36]
+[27.35]
 Package epstopdf Info: Source file: <Figures/ch2/PConGDP1960-2011.eps>
 (epstopdf)                    date: 2015-06-22 08:50:04
 (epstopdf)                    size: 139094 bytes
@@ -1190,23 +1189,14 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf, id=1015, 650.43pt x 361.35pt>
+<Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf, id=988, 650.43pt x 361.35pt>
 File: Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf  used on input line 303.
 (pdftex.def)             Requested size: 401.18405pt x 222.88231pt.
 Package acronym Info: Label `acro:GDP' newly defined as it shall be overridden
 although it is yet undefined on input line 306.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 315.
-[28.37] [29.38 <./Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf>]
-
-LaTeX Warning: Text page 30 contains only floats.
-
-
-Overfull \vbox (0.45341pt too high) has occurred while \output is active []
-
- [30.39]
+[28.36] [29.37 <./Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf>] [30.38]
 Package epstopdf Info: Source file: <Figures/ch2/plotCompPC6011.eps>
 (epstopdf)                    date: 2015-06-22 08:50:04
 (epstopdf)                    size: 19292 bytes
@@ -1219,12 +1209,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/plotCompPC6011-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/plotCompPC6011-eps-converted-to.pdf, id=1065, 650.43pt x 361.35pt>
+<Figures/ch2/plotCompPC6011-eps-converted-to.pdf, id=1038, 650.43pt x 361.35pt>
 File: Figures/ch2/plotCompPC6011-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/plotCompPC6011-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/plotCompPC6011-eps-converted-to.pdf  used on input line 382.
 (pdftex.def)             Requested size: 401.18405pt x 222.88231pt.
-[31.40] [32.41 <./Figures/ch2/plotCompPC6011-eps-converted-to.pdf>]
+[31.39] [32.40 <./Figures/ch2/plotCompPC6011-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figures/ch2/Plots60.eps>
 (epstopdf)                    date: 2015-06-22 08:50:04
 (epstopdf)                    size: 96384 bytes
@@ -1237,19 +1227,14 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/Plots60-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/Plots60-eps-converted-to.pdf, id=1098, 650.43pt x 578.16pt>
+<Figures/ch2/Plots60-eps-converted-to.pdf, id=1071, 650.43pt x 578.16pt>
 File: Figures/ch2/Plots60-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/Plots60-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/Plots60-eps-converted-to.pdf  used on input line 407.
 (pdftex.def)             Requested size: 401.18405pt x 356.6117pt.
-[33.42]
-
-LaTeX Warning: Float too large for page by 34.57999pt on input line 490.
-
-[34.43 <./Figures/ch2/Plots60-eps-converted-to.pdf>] [35.44]
-
-LaTeX Warning: Float too large for page by 28.56754pt on input line 551.
-
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 416.
+[33.41] [34.42 <./Figures/ch2/Plots60-eps-converted-to.pdf>] [35.43]
 Package epstopdf Info: Source file: <Figures/ch2/plotCompall6011.eps>
 (epstopdf)                    date: 2015-11-02 13:09:06
 (epstopdf)                    size: 17314 bytes
@@ -1262,25 +1247,25 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/plotCompall6011-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/plotCompall6011-eps-converted-to.pdf, id=1135, 650.43pt x 361.35pt>
+<Figures/ch2/plotCompall6011-eps-converted-to.pdf, id=1109, 650.43pt x 361.35pt>
 File: Figures/ch2/plotCompall6011-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/plotCompall6011-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/plotCompall6011-eps-converted-to.pdf  used on input line 559.
 (pdftex.def)             Requested size: 401.18405pt x 222.88231pt.
-[36.45] [37.46] [38.47 <./Figures/ch2/plotCompall6011-eps-converted-to.pdf>] [39.48] [40.49] [41.50] [42.51] [43.52]
+[36.44] [37.45] [38.46 <./Figures/ch2/plotCompall6011-eps-converted-to.pdf>] [39.47] [40.48] [41.49] [42.50] [43.51]
 Overfull \hbox (2.40685pt too wide) in paragraph at lines 636--636
 [][]\T1/lmr/m/n/12 King, R. G., & Levine, R. (1993). Fi-nance, en-trepreneur-ship and growth: Schum-
  []
 
-[44.53] [45.54] [46.55]
+[44.52] [45.53] [46.54]
 Package acronym Info: Label `acro:PWT' newly defined as it shall be overridden
 although it is yet undefined on input line 648.
- [47.56]
+ [47.55]
 Overfull \hbox (6.0836pt too wide) in paragraph at lines 658--659
 \T1/lmr/m/n/12 Sal-vador, Ethiopia, Fin-land, France, United King-dom, Ger-many, Ghana, Greece,
  []
 
-[48.57]
+[48.56]
 Package epstopdf Info: Source file: <Figures/ch2/plotCompPC6011rnd.eps>
 (epstopdf)                    date: 2015-06-22 08:50:04
 (epstopdf)                    size: 13058 bytes
@@ -1293,49 +1278,55 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf, id=1249, 650.43pt x 361.35pt>
+<Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf, id=1222, 650.43pt x 361.35pt>
 File: Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf  used on input line 667.
 (pdftex.def)             Requested size: 401.18405pt x 222.88231pt.
-[49.58]
+[49.57]
 Package biblatex Info: Reference section=0 on input line 729.
 ) (02_Mainmatter/03.tex
 \blx@maxsegment@3=\count475
 \blx@sectionciteorder@3=\count476
 Package biblatex Info: Reference section=3 on input line 1.
 Package biblatex Info: Setting label 'refsection:3' on input line 1.
- [50.59 <./Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf>] [51.60]
+ [50.58 <./Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf>] [51.59]
 Chapter 3.
-[52.61
+[52.60
 
-] [53.62
+] [53.61
 
-] [54.63]
+] [54.62]
 Package acronym Info: Label `acro:US' newly defined as it shall be overridden
 although it is yet undefined on input line 43.
- [55.64] [56.65]
+ [55.63]
+
+LaTeX Warning: Reference `ch3fig:wealthincome_comp_oecd' on page 56 undefined on input line 50.
+
+[56.64]
 Package acronym Info: Label `acro:UK' newly defined as it shall be overridden
 although it is yet undefined on input line 54.
- [57.66]
+ [57.65]
 Package acronym Info: Label `acro:WB' newly defined as it shall be overridden
 although it is yet undefined on input line 72.
- [58.67] [59.68]
+ [58.66] [59.67]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ac' on input line 174.
 
 Package acronym Info: Label `acro:WID' newly defined as it shall be overridden
 although it is yet undefined on input line 175.
-[60.69]
+Package acronym Info: Label `acro:OECD' newly defined as it shall be overridden
+although it is yet undefined on input line 175.
+[60.68]
 Package acronym Info: Label `acro:HBS' newly defined as it shall be overridden
 although it is yet undefined on input line 179.
- [61.70] [62.71] [63.72]
+ [61.69] [62.70] [63.71]
 Package acronym Info: Label `acro:CBF' newly defined as it shall be overridden
 although it is yet undefined on input line 230.
 Package acronym Info: Label `acro:BIC' newly defined as it shall be overridden
 although it is yet undefined on input line 230.
- [64.73] [65.74]
+ [64.72] [65.73]
 Package epstopdf Info: Source file: <figures/ch3/plots_findev.eps>
 (epstopdf)                    date: 2018-06-07 17:08:54
 (epstopdf)                    size: 148049 bytes
@@ -1348,12 +1339,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch3/plots_findev-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch3/plots_findev-eps-converted-to.pdf, id=1618, 650.43pt x 650.43pt>
+<figures/ch3/plots_findev-eps-converted-to.pdf, id=1591, 650.43pt x 650.43pt>
 File: figures/ch3/plots_findev-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch3/plots_findev-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch3/plots_findev-eps-converted-to.pdf  used on input line 282.
 (pdftex.def)             Requested size: 341.00888pt x 341.0144pt.
-[66.75] [67.76 <./figures/ch3/plots_findev-eps-converted-to.pdf>] [68.77] [69.78] [70.79]
+[66.74] [67.75 <./figures/ch3/plots_findev-eps-converted-to.pdf>] [68.76] [69.77] [70.78]
 Package epstopdf Info: Source file: <figures/ch3/priors_comparison_compound.eps>
 (epstopdf)                    date: 2018-05-18 13:28:31
 (epstopdf)                    size: 101293 bytes
@@ -1366,12 +1357,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch3/priors_comparison_compound-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch3/priors_comparison_compound-eps-converted-to.pdf, id=1697, 650.43pt x 433.62pt>
+<figures/ch3/priors_comparison_compound-eps-converted-to.pdf, id=1669, 650.43pt x 433.62pt>
 File: figures/ch3/priors_comparison_compound-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch3/priors_comparison_compound-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch3/priors_comparison_compound-eps-converted-to.pdf  used on input line 367.
 (pdftex.def)             Requested size: 361.06319pt x 240.71487pt.
-[71.80
+[71.79
 
  <./figures/ch3/priors_comparison_compound-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/ch3/finance_effect.eps>
@@ -1386,138 +1377,102 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch3/finance_effect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch3/finance_effect-eps-converted-to.pdf, id=1730, 722.7pt x 433.62pt>
+<figures/ch3/finance_effect-eps-converted-to.pdf, id=1703, 722.7pt x 433.62pt>
 File: figures/ch3/finance_effect-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch3/finance_effect-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch3/finance_effect-eps-converted-to.pdf  used on input line 384.
 (pdftex.def)             Requested size: 629.7999pt x 377.88155pt.
-[72.81] [73.82 <./figures/ch3/finance_effect-eps-converted-to.pdf>] [74.83]
+[72.80] [73.81 <./figures/ch3/finance_effect-eps-converted-to.pdf>] [74.82]
 Package acronym Info: Label `acro:EFW' newly defined as it shall be overridden
 although it is yet undefined on input line 424.
- [75.84] [76.85] [77.86] [78.87]
+ [75.83] [76.84] [77.85] [78.86]
 Overfull \hbox (1.85773pt too wide) in paragraph at lines 511--511
 \T1/lmr/m/it/12 com-par-i-son of aug-mented wealth in ger-many and the united states \T1/lmr/m/n/12 (Work-
  []
 
-[79.88] [80.89] [81.90] [82.91] [83.92] [84.93] [85.94] [86.95
+[79.87] [80.88] [81.89] [82.90] [83.91] [84.92] [85.93] [86.94
 
-] [87.96
+] [87.95
 
-] [88.97
-
-] [89.98
-
-] [90.99
-
-] [91.100
+] [88.96
 
 ]
-Overfull \hbox (755.13594pt too wide) in paragraph at lines 888--936
-[][] 
- []
-
-[92.101
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@acp' on input line 980.
-
-
-Overfull \hbox (20.717pt too wide) in alignment at lines 1002--1002
+Underfull \hbox (badness 10000) in alignment at lines 752--752
 [][][][] 
  []
 
-[93.102
-
+[89.97
 
 ]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ac' on input line 1030.
-
-
-Overfull \hbox (0.71956pt too wide) in paragraph at lines 1037--1070
+Overfull \hbox (20.71956pt too wide) in paragraph at lines 787--820
  [] 
  []
 
-[94.103
+[90.98
+
+] [91.99
+
+] [92.100
+
+] [93.101
 
 ]
-Overfull \hbox (12.43172pt too wide) in alignment at lines 1076--1118
+Overfull \hbox (36.43172pt too wide) in alignment at lines 1075--1117
  [] [] [] 
  []
 
 
-Overfull \hbox (12.43172pt too wide) in alignment at lines 1118--1158
+Overfull \hbox (36.43172pt too wide) in alignment at lines 1117--1157
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 1163--1164
+Underfull \hbox (badness 1077) in paragraph at lines 1162--1163
 []|\T1/lmr/m/n/10 return on banks' as-sets plus the ra-tio of
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 1163--1164
+Underfull \hbox (badness 1394) in paragraph at lines 1162--1163
 \T1/lmr/m/n/10 banks' eq-uity and as-sets, di-vided by the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1180
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1179
 []|[][]\T1/lmr/m/n/10 Spolaore and Wacziarg
  []
 
 
-Overfull \hbox (12.43172pt too wide) in alignment at lines 1158--1185
+Overfull \hbox (36.43172pt too wide) in alignment at lines 1157--1184
  [] [] [] 
  []
 
-[95.104
+[94.102
 
-] [96.105]
-Package epstopdf Info: Source file: <figures/ch3/wealthincome_comp_oecd.eps>
-(epstopdf)                    date: 2018-05-17 21:20:27
-(epstopdf)                    size: 86784 bytes
-(epstopdf)             Output file: <figures/ch3/wealthincome_comp_oecd-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-01-10 17:24:35
-(epstopdf)                    size: 28283 bytes
-(epstopdf)             Command: <epstopdf --outfile=figures/ch3/wealthincome_comp_oecd-eps-converted-to.pdf figures/ch3/wealthincome_comp_oecd.eps>
-(epstopdf)             \includegraphics on input line 1191.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./figures/ch3/wealthincome_comp_oecd-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch3/wealthincome_comp_oecd-eps-converted-to.pdf, id=1972, 650.43pt x 361.35pt>
-File: figures/ch3/wealthincome_comp_oecd-eps-converted-to.pdf Graphic file (type pdf)
-<use figures/ch3/wealthincome_comp_oecd-eps-converted-to.pdf>
-Package pdftex.def Info: figures/ch3/wealthincome_comp_oecd-eps-converted-to.pdf  used on input line 1191.
-(pdftex.def)             Requested size: 361.06319pt x 200.59573pt.
-[97.106]
+] [95.103] [96.104]
 Package acronym Info: Label `acro:IID' newly defined as it shall be overridden
-although it is yet undefined on input line 1209.
- [98.107 <./figures/ch3/wealthincome_comp_oecd-eps-converted-to.pdf>] [99.108]
-Overfull \hbox (4.42076pt too wide) in paragraph at lines 1279--1283
+although it is yet undefined on input line 1208.
+ [97.105] [98.106]
+Overfull \hbox (4.42076pt too wide) in paragraph at lines 1278--1282
 \T1/lmr/m/n/12 fer-ent mod-els in the sec-ond com-po-nent $[][]$. $\OML/lmm/m/it/12 E\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 \OMS/lmsy/m/n/12 j\OML/lmm/m/it/12 y; X\OT1/lmr/m/n/12 )$
  []
 
-[100.109]
-Overfull \hbox (9.14351pt too wide) in paragraph at lines 1290--1293
+
+Overfull \hbox (9.14351pt too wide) in paragraph at lines 1289--1292
 \T1/lmr/m/n/12 equa-tion must be in-te-grated with re-spect to $\OML/lmm/m/it/12 []$\T1/lmr/m/n/12 . Em-ploy-ing $[][] \OML/lmm/m/it/12 p\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 []\OMS/lmsy/m/n/12 j\OML/lmm/m/it/12 M[]; y; X\OT1/lmr/m/n/12 ) \OML/lmm/m/it/12 d[] \OT1/lmr/m/n/12 =
  []
 
-[101.110]
-Package biblatex Info: Reference section=0 on input line 1335.
+[99.107] [100.108]
+Package biblatex Info: Reference section=0 on input line 1334.
 ) (02_Mainmatter/04.tex
 \blx@maxsegment@4=\count477
 \blx@sectionciteorder@4=\count478
 Package biblatex Info: Reference section=4 on input line 1.
 Package biblatex Info: Setting label 'refsection:4' on input line 1.
- [102.111] [103.112]
+ [101.109]
 Chapter 4.
-[104.113
+[102.110
 
-] [105.114] [106.115]
+] [103.111] [104.112]
 Package acronym Info: Label `acro:WALS' newly defined as it shall be overridden
 although it is yet undefined on input line 61.
 Package acronym Info: Label `acro:SWIID' newly defined as it shall be overridden
@@ -1526,10 +1481,10 @@ Package acronym Info: Label `acro:WIID' newly defined as it shall be overridden
 although it is yet undefined on input line 76.
 Package acronym Info: Label `acro:LIS' newly defined as it shall be overridden
 although it is yet undefined on input line 76.
- [107.116]
+ [105.113]
 Package acronym Info: Label `acro:DINA' newly defined as it shall be overridden
 although it is yet undefined on input line 78.
- [108.117] [109.118]
+ [106.114] [107.115]
 Package epstopdf Info: Source file: <figures/ch4/plots_ineq.eps>
 (epstopdf)                    date: 2020-01-14 10:45:46
 (epstopdf)                    size: 247040 bytes
@@ -1542,12 +1497,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/plots_ineq-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/plots_ineq-eps-converted-to.pdf, id=2197, 722.7pt x 361.35pt>
+<figures/ch4/plots_ineq-eps-converted-to.pdf, id=2151, 722.7pt x 361.35pt>
 File: figures/ch4/plots_ineq-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/plots_ineq-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/plots_ineq-eps-converted-to.pdf  used on input line 151.
 (pdftex.def)             Requested size: 320.94846pt x 160.47217pt.
-[110.119 <./figures/ch4/plots_ineq-eps-converted-to.pdf>]
+[108.116 <./figures/ch4/plots_ineq-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/ch4/plots_findev_gini_dm.eps>
 (epstopdf)                    date: 2020-01-14 20:20:52
 (epstopdf)                    size: 450732 bytes
@@ -1560,12 +1515,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf, id=2230, 650.43pt x 650.43pt>
+<figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf, id=2184, 650.43pt x 650.43pt>
 File: figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf  used on input line 177.
 (pdftex.def)             Requested size: 320.94846pt x 320.95648pt.
-[111.120] [112.121 <./figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf>] [113.122] [114.123] [115.124] [116.125] [117.126]
+[109.117] [110.118 <./figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf>] [111.119] [112.120] [113.121] [114.122] [115.123]
 Package epstopdf Info: Source file: <figures/ch4/comp_baseline_pip_sel.eps>
 (epstopdf)                    date: 2020-01-14 18:57:11
 (epstopdf)                    size: 106933 bytes
@@ -1578,7 +1533,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf, id=2329, 650.43pt x 650.43pt>
+<figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf, id=2283, 650.43pt x 650.43pt>
 File: figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf  used on input line 315.
@@ -1595,12 +1550,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/topsh_comparison_all-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/topsh_comparison_all-eps-converted-to.pdf, id=2331, 650.43pt x 433.62pt>
+<figures/ch4/topsh_comparison_all-eps-converted-to.pdf, id=2285, 650.43pt x 433.62pt>
 File: figures/ch4/topsh_comparison_all-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/topsh_comparison_all-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/topsh_comparison_all-eps-converted-to.pdf  used on input line 326.
 (pdftex.def)             Requested size: 401.18405pt x 267.45877pt.
-[118.127 <./figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf>]
+[116.124 <./figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/ch4/model_priors_comparison_gini.eps>
 (epstopdf)                    date: 2020-01-14 18:41:08
 (epstopdf)                    size: 124171 bytes
@@ -1613,7 +1568,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf, id=2351, 650.43pt x 433.62pt>
+<figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf, id=2304, 650.43pt x 433.62pt>
 File: figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf  used on input line 390.
@@ -1630,7 +1585,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf, id=2352, 650.43pt x 433.62pt>
+<figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf, id=2305, 650.43pt x 433.62pt>
 File: figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf  used on input line 397.
@@ -1647,18 +1602,18 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf, id=2353, 650.43pt x 433.62pt>
+<figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf, id=2306, 650.43pt x 433.62pt>
 File: figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf  used on input line 404.
 (pdftex.def)             Requested size: 401.18405pt x 267.45877pt.
-[119.128 <./figures/ch4/topsh_comparison_all-eps-converted-to.pdf>] [120.129]
+[117.125 <./figures/ch4/topsh_comparison_all-eps-converted-to.pdf>] [118.126]
 
-LaTeX Warning: Text page 121 contains only floats.
+LaTeX Warning: Text page 119 contains only floats.
 
-[121.130 <./figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf> <./figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf>] [122.131 <./figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf>] [123.132] [124.133
+[119.127 <./figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf> <./figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf>] [120.128 <./figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf>] [121.129] [122.130
 
-] [125.134] [126.135] [127.136] [128.137]
+] [123.131] [124.132] [125.133] [126.134]
 Overfull \hbox (36.43172pt too wide) in alignment at lines 499--523
  [] [] [] 
  []
@@ -1683,21 +1638,21 @@ Overfull \hbox (36.43172pt too wide) in alignment at lines 545--548
  [] [] [] 
  []
 
-[129.138
+[127.135
 
-] [130.139]
+] [128.136]
 Package biblatex Info: Reference section=0 on input line 552.
 )
 \blx@maxsegment@5=\count479
 \blx@sectionciteorder@5=\count480
 Package biblatex Info: Reference section=5 on input line 163.
 Package biblatex Info: Setting label 'refsection:5' on input line 163.
- [131.140] (03_Backmatter/01_App.tex
+ [129.137] (03_Backmatter/01_App.tex
 Appendix A.
-[1.141
+[1.138
 
 
-] [2.142] [3.143]) [4.144]
+] [2.139] [3.140] [4.141] [5.142] [6.143] [7.144]) [8.145]
 Package biblatex Info: Reference section=0 on input line 182.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
@@ -1705,10 +1660,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C2CABE525453DF7C87F8B52FFA9FB4C1;11680.
+(rerunfilecheck)             Checksum: 4F348299CE4AEDA8C469F5F88121112E;10715.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
 
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
@@ -1716,13 +1674,13 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
  ) 
 Here is how much of TeX's memory you used:
- 27728 strings out of 481531
- 455938 string characters out of 2922631
- 1227793 words of memory out of 3000000
- 41777 multiletter control sequences out of 15000+200000
+ 27732 strings out of 481531
+ 455611 string characters out of 2922631
+ 1148731 words of memory out of 3000000
+ 41768 multiletter control sequences out of 15000+200000
  655297 words of font info for 100 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 52i,18n,75p,3005b,4720s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,18n,75p,2981b,4720s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.43} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.42} has been referenced but does not exist, replaced by a fixed one
@@ -1810,9 +1768,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Thesis.pdf (144 pages, 1904002 bytes).
+Output written on Thesis.pdf (145 pages, 1878107 bytes).
 PDF statistics:
- 2787 PDF objects out of 2984 (max. 8388607)
- 664 named destinations out of 1000 (max. 500000)
- 586 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2779 PDF objects out of 2984 (max. 8388607)
+ 678 named destinations out of 1000 (max. 500000)
+ 557 words of extra memory for PDF output out of 10000 (max. 10000000)
 

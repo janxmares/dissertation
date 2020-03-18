@@ -2941,7 +2941,7 @@ This paper develops a meta-analysis of the empirical literature that estimates t
 
 @Article{feldkircher2012impact,
   author    = {Feldkircher, Martin and Zeugner, Stefan},
-  title     = {The impact of data revisions on the robustness of growth determinants -- "A note on Determinants of Economic Growth: Will Data Tell?"},
+  title     = {The impact of data revisions on the robustness of growth determinants -- ``A note on Determinants of Economic Growth: Will Data Tell?''},
   journal   = {Journal of Applied Econometrics},
   year      = {2012},
   volume    = {27},
@@ -3128,6 +3128,16 @@ This paper develops a meta-analysis of the empirical literature that estimates t
   number    = {5},
   pages     = {1949--1996},
   publisher = {Wiley Online Library},
+}
+
+@Article{alvaredo2017global,
+  author  = {Alvaredo, Facundo and Chancel, Lucas and Piketty, Thomas and Saez, Emmanuel and Zucman, Gabriel},
+  title   = {Global Inequality Dynamics: New findings from WID. world},
+  journal = {American Economic Review},
+  year    = {2017},
+  volume  = {107},
+  number  = {5},
+  pages   = {404--09},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
