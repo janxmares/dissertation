@@ -29,18 +29,45 @@
 
     \item \textit{The review of literature mentions the criticism of traditional finance-growth nexus papers in neglecting the private bond markets (and other non-bank or non--stock--market sources of finance), but the paper again uses only the two traditional measures of financial depth -- bank credit and stock market (p. 10). Could the private credit to GDP be based on the BIS statistics of total credit (i.e. a sum of bank credit, non-bank intermediaries credit, bonds issues, and cross-border finance to private sector)? This has become available recently for a large number of countries (and years) and could better capture the debt of the private sector intermediated by all intermediaries and markets.}
     
-    \textit{Comments to the second paper on ``Finance and Wealth Inequality''}
+    Thank you for pointing me to the \ac{BIS} data. Unfortunately, the coverage is insufficient to allow for using the data as is. Simply merging the data with our dataset reduces the number of observations to 33 and renders the baseline approach infeasible. Nevertheless, I have re-estimated the model with partially modified total credit data from BIS. I used the bank credit data to estimate the total credit volumes and then applied the \ac{BMA} using total credit instead of bank credit (and dropping the later from the set of covariates). Using the fitted values of total credit for all observations or only where the total credit values are missing does not alter the results in any way. Total credit shows low \ac{PIP} and none of the other relevant regressors is affected. In {\color{red}\ref{chA:tab1} I only report \acp{PIP} along with the moments of the top covariates and total credit. - ADD THE TABLE}
+\end{enumerate}
+
+\begin{table}[ht!]
+  \caption{Results considering total credit to private non-financial institutions.}\label{chA:tab1}
+    \footnotesize
+    \centering
+  \begin{tabular}{lrrr}
+    \toprule
+                                 & PIP & Post Mean & Post SD \\
+    \midrule
+  Civil liberties \& political rights & 0.04 & 0.00009 & 0.00846 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\noindent \textit{Comments to the second paper on ``Finance and Wealth Inequality''}
+
+\begin{enumerate}[resume]
 
     \item \textit{In comparison to the previous paper, this one tackles well a possible endogeneity bias (section 3.5.3) by lagging the explanatory variables (average of 1980-2009) compared to the dependent variable (average of 2010-2016), although I would be less concerned about the reverse link between inequality and financial development (compared to GDP growth and financial development). While a paragraph explaining through which channels would wealth inequality influence financial development is included on p. 66 (with reference to Beck et al. 2007), I am not too persuaded by (the two) explanations. Could 1-2 additional references be provided if, as the author states, ``the question of endogeneity is deeply ingrained in the finance-inequality nexus''? (Some additional arguments are included in the third paper and could be re-used here).}
     
+    {\color{red}I have extended the discussion potential endogeneity by amending the text with additional references. - NEEDS TO BE DONE}
+    
     \item \textit{In this paper, an overall index of efficiency is used, combining the net interest margin with variables such as overhead costs or profitability. I would still propose that this index is not called Financial Institutions Efficiency (but perhaps Financial Intermediation Efficiency) because it combines institutions' (cost) efficiency and efficiency (frictions) of financial intermediation influenced by overall risks. As this indicator has a 100\% PIP, it would be worth exploring further what drives the efficiency index -- is it more the NIM/spread as a measure of inefficiencies in financial intermediation (risks) or (overhead) costs as a measure of financial institutions' efficiency?}
     
-    \textit{Comments to the third paper on ``Finance and Inequality – Panel BMA Approach''}
+    {\color{red} Look into the data on financial development index - need to go to the WB raw data - and try to re-estimate with individual components?}
+    Estimated - the most important are the overhead costs and net interest margin. The other components not so much. I had to drop lending-deposit spread since the data was missing on part of the observations.
+    
+    \noindent \textit{Comments to the third paper on ``Finance and Inequality --- Panel BMA Approach''}
 
     \item \textit{The paper could better formulate what is the value added compared to available literature. There are a few hints in the last paragraph on page 99, but this could be better structured and start with ``The value added of this paper is in\dots''. Using the after-tax rather than before-tax measure of income distribution should also be mentioned here (and explained why).}
     
+    After-tax and before-tax explained in \textcite{de2017finance}.
+    
     \item \textit{Averaging the data across 3-year spans to produce the panel (over 2000-2014) is a standard method to get rid of short-term volatility in the data say from markets, but given that this coincides with the largest economic pre-crisis boom 2000-2007 and the crisis and post-crisis decline associated with balance-sheet recessions in many countries (2008/2009-2014), it will not get rid of the business cycle. The more traditional 5-year averaging would be better. As this was done as a robustness check (with similar results), I would propose to use the 5-year averaging as a baseline and the 3-year averaging as a robustness check.}
     
+    I understand the preference for 5-year averaging, nevertheless I have decided to stay with the 3-year averages. Several reasons support this decision. First, the 3-year models display much better convergence which I grant to the higher variation in the 3-year averaged data. Second, more time periods allow for a more robust estimate when I lag the explanatory variables in order to address endogeneity. {\color{red}Third, I am not convinced that in the case of the concerned period 2000-2014, 5-year averages notably superior in getting rid of the one long business cycle we observed}. I expanded the discussion on the choice by preceding argument and added the 5-year results into the Appendix for maximum transparency.
+
     \item \textit{Another robustness check could be to split the sample into two periods only, pre-crisis 2000-2007 and post-crisis 2008-2014, creating two 7-year averages. Instead of a panel, two cross-sections would be run and results could be interpreted as regime-specific (pre-crisis versus post-crisis regimes).}
     
     \item \textit{Is endogeneity a potential problem here (similarly to the second paper) and how is it dealt with?}
@@ -86,11 +113,11 @@
 \textbf{a) Contribution}
 Combined, the essays compiled in this thesis offer useful and original contributions to the considerable and expanding empirical literature on the intersection of finance, growth, and inequality. On a personal note, I have appreciated the ingenious use of the GFDD database that I spearheaded when I was at the World Bank. I find that this type of rigorous empirical approach can truly improve our understanding of the role of finance in the economy.
 
-I have three comments/suggestions for clarifications on the thesis’ contribution:
+I have three comments/suggestions for clarifications on the thesis' contribution:
 
 \begin{enumerate}
     \item The document unfortunately appears to be incomplete, because Chapter 1 is missing/blank. The thesis would benefit from a well-crafted introductory chapter.
-    \item Given that chapters 2 and 3 are both joint with two coauthors (Mr. Mares being listed as the last of the three), it may be useful to clarify Mr. Mares’s contribution. I presume that Mr. Mares has contributed significantly, but there is no way for me to ascertain the precise extent of Mr. Mares’s involvement. It would be helpful for the thesis to contain an upfront disclosure/statement about the nature and scope of Mr. Mares’s contribution to each of the co-authored essays (perhaps on the same page as the ``declaration of authorship''), indicating what are the contributions of Mr. Mares, and what are those of his coauthors.
+    \item Given that chapters 2 and 3 are both joint with two coauthors (Mr. Mares being listed as the last of the three), it may be useful to clarify Mr. Mares's contribution. I presume that Mr. Mares has contributed significantly, but there is no way for me to ascertain the precise extent of Mr. Mares's involvement. It would be helpful for the thesis to contain an upfront disclosure/statement about the nature and scope of Mr. Mares's contribution to each of the co-authored essays (perhaps on the same page as the ``declaration of authorship''), indicating what are the contributions of Mr. Mares, and what are those of his coauthors.
     \item Chapter 4 seems an extension of chapter 3, using the same Bayesian Model Averaging (BMA) approach to the finance-inequality nexus, the difference being that chapter 4 looks at income instead of wealth proxies. If there are other notable differences or contributions, it may be useful to flag any novel contributions upfront (perhaps in the forthcoming chapter 1).
 \end{enumerate}
 
@@ -132,11 +159,14 @@ I have three comments/suggestions for clarifications on the thesis’ contributi
 
     \item \textit{Chapter 3: given the importance of instruments for the BMA estimation, please consider a more specific discussion of the instruments. For example, why is the average of areas 3D, 4C, 4D, and 5A of the EFW a suitable instrument? The authors claim that ''components of our financial liberalization measure are exogenous to the wealth inequality as the change in wealth distribution is improbably to have direct effect on any of them``. It is unclear where this assertion comes from, so if there is evidence for it, I suggest adding it. There is some evidence to the contrary, at least for income inequality (see for example Sylwester, Kevin, 2010, Journal of Applied Economics), finding strong evidence of links between inequality and the black market premium (which is one of the EFW areas, namely 4C).}
     
-    \item \textit{Chapter 4 departs from much of existing literature by considering the after-tax rather than the before-tax income distribution as a dependent variable. However, the rationale for this choice is not well explained. In fact, one could make the case for considering before-tax income distribution, because that’s the one where financial sector’s role is likely to be more prominent/visible (and more separable from the effects of other policies, including fiscal).}
+    \item \textit{Chapter 4 departs from much of existing literature by considering the after-tax rather than the before-tax income distribution as a dependent variable. However, the rationale for this choice is not well explained. In fact, one could make the case for considering before-tax income distribution, because that's the one where financial sector's role is likely to be more prominent/visible (and more separable from the effects of other policies, including fiscal).}
     
-    \item \textit{The thesis—across the chapters—would benefit from strengthening the discussion on policy implications. For example, chapter 2 says that ``the current wave of regulatory changes intended to safeguard financial stability should carefully analyze the consequences for the efficiency of financial intermediaries,'' which would benefit from clarification. Are the authors suggesting to reorient micro- and macro-prudential supervisors from safeguarding financial stability to targeting efficiency of financial intermediaries? (I presume not, but the text could be misread that way.) Also, the reference to ``the current wave of regulatory changes'' seems outdated and misleading, given that the post-crisis regulatory wave has already taken place (and we are now in the stage where some countries are considering regulatory roll-backs.)}
+    \item \textit{The thesis --- across the chapters --- would benefit from strengthening the discussion on policy implications. For example, chapter 2 says that ``the current wave of regulatory changes intended to safeguard financial stability should carefully analyze the consequences for the efficiency of financial intermediaries,'' which would benefit from clarification. Are the authors suggesting to reorient micro- and macro-prudential supervisors from safeguarding financial stability to targeting efficiency of financial intermediaries? (I presume not, but the text could be misread that way.) Also, the reference to ``the current wave of regulatory changes'' seems outdated and misleading, given that the post-crisis regulatory wave has already taken place (and we are now in the stage where some countries are considering regulatory roll-backs.)}
 
     \item \textit{Chapter 2, page 20: the regression includes various dummy variables, such as the one for Sub-Saharan Africa and the ``fraction of Confucian population'' (which is close to a proxy for China). Given the importance of these regions, I worry that the estimated coefficients on those dummy variables are just proxies for our ignorance about the underlying drivers of the finance-growth relationship. It would be useful to include a solid discussion on these dummy variables.}
-
+    
+    
     \item \textit{Chapter 2, front page footnote: ``the The World Bank Econonmic Review'' should read ``The World Bank Economic Review''.}
+    
+    Corrected.
 \end{enumerate} 
