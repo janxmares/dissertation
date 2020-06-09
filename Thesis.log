@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.13)  19 MAR 2020 22:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.9)  9 JUN 2020 15:44
 entering extended mode
 **c:/Users/JM/Documents/GitHub/dissertation/Thesis.tex
 (c:/Users/JM/Documents/GitHub/dissertation/Thesis.tex
-LaTeX2e <2020-02-02> patch level 1
-L3 programming layer <2020-02-08> ("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15> ("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
 Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
@@ -24,7 +24,7 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 Package: pdfx 2019/02/27 v1.6.3 PDF/X and PDF/A support (CVR/HTH/RRM/PS)
 \pdfx@minorversion=\count176
  ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty"
@@ -35,13 +35,13 @@ Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ){C:/Users/JM/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/pdfx\l8u-penc.def"
 File: l8u-penc.def 2017/06/23 v0.8 Custom LaTeX file, for UTF8 encoded letters and symbols
 LaTeX Info: Composite with undeclared \b in encoding L8U on input line 278.
 )
-\pdfxsafeforxmp@toks=\toks16
+\pdfxsafeforxmp@toks=\toks17
  ("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
@@ -61,9 +61,9 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-\pdfx@tmptoks=\toks17
+\pdfx@tmptoks=\toks18
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
  ("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
@@ -76,7 +76,7 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
+\KV@toks@=\toks19
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
@@ -96,27 +96,27 @@ Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 \Hy@linkcounter=\count177
 \Hy@pagecounter=\count178
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/intcalc\intcalc.sty"
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count179
-Package hyperref Info: Option `pdfa' set `true' on input line 4421.
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Option `pdfa' set `true' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
+Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count180
  ("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5159.
+LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen136
  ("C:\Program Files\MiKTeX 2.9\tex/generic/bitset\bitset.sty"
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -126,15 +126,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count181
 \Field@Width=\dimen137
 \Fld@charsize=\dimen138
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring OFF on input line 6450.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode ON on input line 6458.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode ON on input line 6375.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
  ("C:\Program Files\MiKTeX 2.9\tex/generic/atbegshi\atbegshi.sty"
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
@@ -144,7 +144,7 @@ Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
 Package hyperref Info: Driver: hpdftex.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
-File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
  ("C:\Program Files\MiKTeX 2.9\tex/latex/atveryend\atveryend.sty"
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -162,13 +162,13 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `unicode' set `true' on input line 1463.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
-File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/stringenc\stringenc.sty"
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 Package hyperref Info: Option `psdextra' set `true' on input line 1465.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\psdextra.def"
-File: psdextra.def 2020/01/14 v7.00d Hyperref: Additions to PDF string support
+File: psdextra.def 2020-05-15 v7.00e Hyperref: Additions to PDF string support
 ) ("C:\Program Files\MiKTeX 2.9\tex/generic/colorprofiles\colorprofiles.sty"
 Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A support
  ("C:\Program Files\MiKTeX 2.9\tex/generic/colorprofiles\colorprofiles.tex")) ("C:\Program Files\MiKTeX 2.9\tex/generic/stringenc\se-pdfdoc.def"
@@ -243,7 +243,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2020/01/25 v2.0m Standard LaTeX package
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -269,7 +269,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2000/06/29 v2.01 AMS text
  ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
+\@emptytoks=\toks20
 \ex@=\dimen139
 )) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -297,34 +297,34 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip17
 \c@parentequation=\count194
 \dspbrk@lvl=\count195
-\tag@help=\toks20
+\tag@help=\toks21
 \row@=\count196
 \column@=\count197
 \maxfields@=\count198
-\andhelp@=\toks21
+\andhelp@=\toks22
 \eqnshift@=\dimen142
 \alignsep@=\dimen143
 \tagshift@=\dimen144
 \tagwidth@=\dimen145
 \totwidth@=\dimen146
 \lineht@=\dimen147
-\@envbody=\toks22
+\@envbody=\toks23
 \multlinegap=\skip60
 \multlinetaggap=\skip61
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks24
-\thm@bodyfont=\toks25
-\thm@headfont=\toks26
-\thm@notefont=\toks27
-\thm@headpunct=\toks28
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
 \thm@preskip=\skip62
 \thm@postskip=\skip63
 \thm@headsep=\skip64
-\dth@everypar=\toks29
+\dth@everypar=\toks30
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
  ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
@@ -353,7 +353,7 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/acronym\acronym.sty"
-Package: acronym 2019/11/11 v1.42 Support for acronyms (Tobias Oetiker)
+Package: acronym 2020/04/17 v1.47 Support for acronyms (Tobias Oetiker)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/bigfoot\suffix.sty"
 Package: suffix 2006/07/15 1.5a Variant command support
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty" ("C:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
@@ -364,13 +364,13 @@ Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/relsize\relsize.sty"
 Package: relsize 2013/03/29 ver 4.1
 )
-\AC@clearlist=\toks30
+\AC@clearlist=\toks31
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count267
-\float@exts=\toks31
+\float@exts=\toks32
 \float@box=\box47
-\@float@everytoks=\toks32
+\@float@everytoks=\toks33
 \@floatcapt=\box48
 ) (picins.sty Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
 \@BILD=\box49
@@ -417,9 +417,9 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@envdp=\count289
 \d@envb=\dimen166
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
-Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
-Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
 \captionmargin=\dimen167
 \captionmargin@=\dimen168
@@ -465,7 +465,12 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/boxedminipage\boxedminipage.sty") ("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/boxedminipage\boxedminipage.sty"
+Package: boxedminipage 2020/04/19 v1.1 Boxed LaTeX2e minipages
+\bmp@box=\box52
+\bmp@width=\skip72
+\bmp@height=\skip73
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen176
 \lightrulewidth=\dimen177
@@ -486,13 +491,13 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisrulewidth=\dimen188
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks33
+\@enLab=\toks34
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty"
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip72
+\labelindent=\skip74
 \enit@outerparindent=\dimen189
-\enit@toks=\toks34
-\enit@inbox=\box52
+\enit@toks=\toks35
+\enit@inbox=\box53
 \enit@count@id=\count300
 \enitdp@description=\count301
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/sidecap\sidecap.sty"
@@ -502,13 +507,13 @@ Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
 \SC@tempdima=\dimen192
 \SC@tempdimb=\dimen193
 \c@SC@C=\count302
-\SC@BOX=\box53
+\SC@BOX=\box54
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen194
 \WF@size=\dimen195
 \c@WF@wrappedlines=\count303
-\WF@box=\box54
-\WF@everypar=\toks35
+\WF@box=\box55
+\WF@everypar=\toks36
 Package: wrapfig 2003/01/31  v 3.6
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -519,10 +524,10 @@ Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\rotating.sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \c@r@tfl@t=\count304
-\rotFPtop=\skip73
-\rotFPbot=\skip74
-\rot@float@box=\box55
-\rot@mess@toks=\toks36
+\rotFPtop=\skip75
+\rotFPbot=\skip76
+\rot@float@box=\box56
+\rot@mess@toks=\toks37
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/appendix\appendix.sty"
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count305
@@ -530,44 +535,44 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@ppsaveapp=\count307
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip75
+\multirow@colwidth=\skip77
 \multirow@cntb=\count308
-\multirow@dima=\skip76
+\multirow@dima=\skip78
 \bigstrutjot=\dimen196
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/colortbl\colortbl.sty"
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
  ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen197
-\ar@mcellbox=\box56
+\ar@mcellbox=\box57
 \extrarowheight=\dimen198
-\NC@list=\toks37
-\extratabsurround=\skip77
-\backup@length=\skip78
-\ar@cellbox=\box57
+\NC@list=\toks38
+\extratabsurround=\skip79
+\backup@length=\skip80
+\ar@cellbox=\box58
 )
-\everycr=\toks38
-\minrowclearance=\skip79
+\everycr=\toks39
+\minrowclearance=\skip81
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/threeparttable\threeparttable.sty"
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box58
+\@tempboxb=\box59
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\longtable.sty"
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip80
-\LTright=\skip81
-\LTpre=\skip82
-\LTpost=\skip83
+\LTleft=\skip82
+\LTright=\skip83
+\LTpre=\skip84
+\LTpost=\skip85
 \LTchunksize=\count309
 \LTcapwidth=\dimen199
-\LT@head=\box59
-\LT@firsthead=\box60
-\LT@foot=\box61
-\LT@lastfoot=\box62
+\LT@head=\box60
+\LT@firsthead=\box61
+\LT@foot=\box62
+\LT@lastfoot=\box63
 \LT@cols=\count310
 \LT@rows=\count311
 \c@LT@tables=\count312
 \c@LT@chunks=\count313
-\LT@p@ftn=\toks39
+\LT@p@ftn=\toks40
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\tabularx.sty"
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@col@width=\dimen256
@@ -576,7 +581,7 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@target=\dimen259
 \TX@delta=\dimen260
 \TX@cols=\count314
-\TX@ftn=\toks40
+\TX@ftn=\toks41
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 41.
 Package hyperref Info: Option `breaklinks' set `false' on input line 41.
@@ -598,7 +603,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen266
 \Gm@layouthoffset=\dimen267
 \Gm@layoutvoffset=\dimen268
-\Gm@dimlist=\toks41
+\Gm@dimlist=\toks42
  ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
 \c@defin=\count318
 \c@ass=\count319
@@ -611,19 +616,19 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
-\@fancybox=\box63
+\@fancybox=\box64
 \shadowsize=\dimen269
-\@Sbox=\box64
-\do@VerbBox=\toks42
-\the@fancyput=\toks43
-\this@fancyput=\toks44
-\EndVerbatimTokens=\toks45
+\@Sbox=\box65
+\do@VerbBox=\toks43
+\the@fancyput=\toks44
+\this@fancyput=\toks45
+\EndVerbatimTokens=\toks46
 \Verbatim@Outfile=\write4
 \Verbatim@Infile=\read3
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks46
-\verbatim@line=\toks47
+\every@verbatim=\toks47
+\verbatim@line=\toks48
 \verbatim@in@stream=\read4
 )) ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
@@ -677,14 +682,14 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@parenlevel@foot=\count365
 \blx@sectionciteorder@0=\count366
 \blx@entrysetcounter=\count367
-\labelnumberwidth=\skip84
-\labelalphawidth=\skip85
-\biblabelsep=\skip86
-\bibitemsep=\skip87
-\bibnamesep=\skip88
-\bibinitsep=\skip89
-\bibparsep=\skip90
-\bibhang=\skip91
+\labelnumberwidth=\skip86
+\labelalphawidth=\skip87
+\biblabelsep=\skip88
+\bibitemsep=\skip89
+\bibnamesep=\skip90
+\bibinitsep=\skip91
+\bibparsep=\skip92
+\bibhang=\skip93
 \blx@bcfin=\read5
 \blx@bcfout=\write5
 \blx@langwohyphens=\language82
@@ -699,7 +704,7 @@ File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\apa.dbx"
-File: apa.dbx 2020/02/01 v9.5 APA biblatex style data model
+File: apa.dbx 2020/04/08 v9.9 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
@@ -783,20 +788,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedcitation=\count448
 \c@pageref=\count449
 \c@savedpageref=\count450
-\shorthandwidth=\skip92
-\shortjournalwidth=\skip93
-\shortserieswidth=\skip94
-\shorttitlewidth=\skip95
-\shortauthorwidth=\skip96
-\shorteditorwidth=\skip97
-\locallabelnumberwidth=\skip98
-\locallabelalphawidth=\skip99
-\localshorthandwidth=\skip100
-\localshortjournalwidth=\skip101
-\localshortserieswidth=\skip102
-\localshorttitlewidth=\skip103
-\localshortauthorwidth=\skip104
-\localshorteditorwidth=\skip105
+\shorthandwidth=\skip94
+\shortjournalwidth=\skip95
+\shortserieswidth=\skip96
+\shorttitlewidth=\skip97
+\shortauthorwidth=\skip98
+\shorteditorwidth=\skip99
+\locallabelnumberwidth=\skip100
+\locallabelalphawidth=\skip101
+\localshorthandwidth=\skip102
+\localshortjournalwidth=\skip103
+\localshortserieswidth=\skip104
+\localshorttitlewidth=\skip105
+\localshortauthorwidth=\skip106
+\localshorteditorwidth=\skip107
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
@@ -823,7 +828,7 @@ File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\apa.bbx"
-File: apa.bbx 2020/02/01 v9.5 APA biblatex references style
+File: apa.bbx 2020/04/08 v9.9 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\standard.bbx"
@@ -834,7 +839,7 @@ File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\apa.cbx"
-File: apa.cbx 2020/02/01 v9.5 APA biblatex citation style
+File: apa.cbx 2020/04/08 v9.9 APA biblatex citation style
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'textcite' already defined, overwriting.
 Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
@@ -860,9 +865,9 @@ File: biblatex.cfg
 \@quotelevel=\count462
 \@quotereset=\count463
  ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count464
-\l__pdf_internal_box=\box65
+\l__pdf_internal_box=\box66
 ) (Thesis.aux)
 \openout1 = `Thesis.aux'.
 
@@ -888,15 +893,15 @@ LaTeX Font Info:    ... okay on input line 84.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count465
 \scratchdimen=\dimen270
-\scratchbox=\box66
+\scratchbox=\box67
 \nofMPsegments=\count466
 \nofMParguments=\count467
-\everyMPshowfont=\toks48
+\everyMPshowfont=\toks49
 \MPscratchCnt=\count468
 \MPscratchDim=\dimen271
 \MPnumerator=\count469
 \makeMPintoPDFobject=\count470
-\everyMPtoPDFconversion=\toks49
+\everyMPtoPDFconversion=\toks50
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  ("C:\Program Files\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
@@ -907,7 +912,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
-\AtBeginShipoutBox=\box67
+\AtBeginShipoutBox=\box68
 Package hyperref Info: Link coloring OFF on input line 84.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -943,20 +948,20 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 126.
 )
-\CenteringLeftskip=\skip106
-\RaggedLeftLeftskip=\skip107
-\RaggedRightLeftskip=\skip108
-\CenteringRightskip=\skip109
-\RaggedLeftRightskip=\skip110
-\RaggedRightRightskip=\skip111
-\CenteringParfillskip=\skip112
-\RaggedLeftParfillskip=\skip113
-\RaggedRightParfillskip=\skip114
-\JustifyingParfillskip=\skip115
-\CenteringParindent=\skip116
-\RaggedLeftParindent=\skip117
-\RaggedRightParindent=\skip118
-\JustifyingParindent=\skip119
+\CenteringLeftskip=\skip108
+\RaggedLeftLeftskip=\skip109
+\RaggedRightLeftskip=\skip110
+\CenteringRightskip=\skip111
+\RaggedLeftRightskip=\skip112
+\RaggedRightRightskip=\skip113
+\CenteringParfillskip=\skip114
+\RaggedLeftParfillskip=\skip115
+\RaggedRightParfillskip=\skip116
+\JustifyingParfillskip=\skip117
+\CenteringParindent=\skip118
+\RaggedLeftParindent=\skip119
+\RaggedRightParindent=\skip120
+\JustifyingParindent=\skip121
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -995,7 +1000,7 @@ LaTeX Info: Redefining \selectfont on input line 126.
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\english-apa.lbx"
-File: english-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
+File: english-apa.lbx 2020/04/08 v9.9 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
@@ -1004,7 +1009,7 @@ File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 Package biblatex Info: Trying to load language 'american' -> 'american-apa'...
 Package biblatex Info: ... file 'american-apa.lbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-apa\american-apa.lbx"
-File: american-apa.lbx 2020/02/01 v9.5 APA biblatex localisation
+File: american-apa.lbx 2020/04/08 v9.9 APA biblatex localisation
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\american.lbx"
@@ -1197,7 +1202,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf, id=992, 650.43pt x 361.35pt>
+<Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf, id=1068, 650.43pt x 361.35pt>
 File: Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/PConGDP1960-2011-eps-converted-to.pdf  used on input line 303.
@@ -1217,7 +1222,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/plotCompPC6011-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/plotCompPC6011-eps-converted-to.pdf, id=1042, 650.43pt x 361.35pt>
+<Figures/ch2/plotCompPC6011-eps-converted-to.pdf, id=1117, 650.43pt x 361.35pt>
 File: Figures/ch2/plotCompPC6011-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/plotCompPC6011-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/plotCompPC6011-eps-converted-to.pdf  used on input line 382.
@@ -1235,7 +1240,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/Plots60-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/Plots60-eps-converted-to.pdf, id=1075, 650.43pt x 578.16pt>
+<Figures/ch2/Plots60-eps-converted-to.pdf, id=1150, 650.43pt x 578.16pt>
 File: Figures/ch2/Plots60-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/Plots60-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/Plots60-eps-converted-to.pdf  used on input line 407.
@@ -1255,7 +1260,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/plotCompall6011-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/plotCompall6011-eps-converted-to.pdf, id=1113, 650.43pt x 361.35pt>
+<Figures/ch2/plotCompall6011-eps-converted-to.pdf, id=1188, 650.43pt x 361.35pt>
 File: Figures/ch2/plotCompall6011-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/plotCompall6011-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/plotCompall6011-eps-converted-to.pdf  used on input line 559.
@@ -1286,7 +1291,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf, id=1226, 650.43pt x 361.35pt>
+<Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf, id=1300, 650.43pt x 361.35pt>
 File: Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf Graphic file (type pdf)
 <use Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/ch2/plotCompPC6011rnd-eps-converted-to.pdf  used on input line 667.
@@ -1347,7 +1352,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch3/plots_findev-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch3/plots_findev-eps-converted-to.pdf, id=1595, 650.43pt x 650.43pt>
+<figures/ch3/plots_findev-eps-converted-to.pdf, id=1661, 650.43pt x 650.43pt>
 File: figures/ch3/plots_findev-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch3/plots_findev-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch3/plots_findev-eps-converted-to.pdf  used on input line 282.
@@ -1365,7 +1370,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch3/priors_comparison_compound-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch3/priors_comparison_compound-eps-converted-to.pdf, id=1673, 650.43pt x 433.62pt>
+<figures/ch3/priors_comparison_compound-eps-converted-to.pdf, id=1739, 650.43pt x 433.62pt>
 File: figures/ch3/priors_comparison_compound-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch3/priors_comparison_compound-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch3/priors_comparison_compound-eps-converted-to.pdf  used on input line 367.
@@ -1385,7 +1390,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch3/finance_effect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch3/finance_effect-eps-converted-to.pdf, id=1707, 722.7pt x 433.62pt>
+<figures/ch3/finance_effect-eps-converted-to.pdf, id=1773, 722.7pt x 433.62pt>
 File: figures/ch3/finance_effect-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch3/finance_effect-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch3/finance_effect-eps-converted-to.pdf  used on input line 384.
@@ -1505,7 +1510,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/plots_ineq-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/plots_ineq-eps-converted-to.pdf, id=2155, 722.7pt x 361.35pt>
+<figures/ch4/plots_ineq-eps-converted-to.pdf, id=2214, 722.7pt x 361.35pt>
 File: figures/ch4/plots_ineq-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/plots_ineq-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/plots_ineq-eps-converted-to.pdf  used on input line 151.
@@ -1523,7 +1528,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf, id=2188, 650.43pt x 650.43pt>
+<figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf, id=2247, 650.43pt x 650.43pt>
 File: figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/plots_findev_gini_dm-eps-converted-to.pdf  used on input line 177.
@@ -1541,7 +1546,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf, id=2287, 650.43pt x 650.43pt>
+<figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf, id=2346, 650.43pt x 650.43pt>
 File: figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/comp_baseline_pip_sel-eps-converted-to.pdf  used on input line 315.
@@ -1558,7 +1563,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/topsh_comparison_all-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/topsh_comparison_all-eps-converted-to.pdf, id=2289, 650.43pt x 433.62pt>
+<figures/ch4/topsh_comparison_all-eps-converted-to.pdf, id=2348, 650.43pt x 433.62pt>
 File: figures/ch4/topsh_comparison_all-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/topsh_comparison_all-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/topsh_comparison_all-eps-converted-to.pdf  used on input line 326.
@@ -1576,7 +1581,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf, id=2308, 650.43pt x 433.62pt>
+<figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf, id=2367, 650.43pt x 433.62pt>
 File: figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/model_priors_comparison_gini-eps-converted-to.pdf  used on input line 390.
@@ -1593,7 +1598,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf, id=2309, 650.43pt x 433.62pt>
+<figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf, id=2368, 650.43pt x 433.62pt>
 File: figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/model_priors_comparison_top10-eps-converted-to.pdf  used on input line 397.
@@ -1610,7 +1615,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf, id=2310, 650.43pt x 433.62pt>
+<figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf, id=2369, 650.43pt x 433.62pt>
 File: figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf>
 Package pdftex.def Info: figures/ch4/model_priors_comparison_top1-eps-converted-to.pdf  used on input line 404.
@@ -1660,10 +1665,10 @@ Appendix A.
 [1.138
 
 
-]
+] [2.139]
 Package acronym Info: Label `acro:BIS' newly defined as it shall be overridden
-although it is yet undefined on input line 32.
- [2.139] [3.140] [4.141] [5.142] [6.143] [7.144] [8.145]) [9.146]
+although it is yet undefined on input line 34.
+ [3.140] [4.141] [5.142] [6.143] [7.144] [8.145]) [9.146]
 Package biblatex Info: Reference section=0 on input line 182.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
@@ -1685,13 +1690,15 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 183.
  ) 
 Here is how much of TeX's memory you used:
- 28059 strings out of 481531
- 461037 string characters out of 2922631
- 1156500 words of memory out of 3000000
- 42088 multiletter control sequences out of 15000+200000
+ 28177 strings out of 480765
+ 464128 string characters out of 2904236
+ 1183096 words of memory out of 3000000
+ 42972 multiletter control sequences out of 15000+200000
  654882 words of font info for 99 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  52i,18n,75p,2981b,4720s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{cite.5@de2017finance} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.43} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.42} has been referenced but does not exist, replaced by a fixed one
@@ -1779,9 +1786,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Thesis.pdf (146 pages, 1880013 bytes).
+Output written on Thesis.pdf (146 pages, 1892598 bytes).
 PDF statistics:
- 2790 PDF objects out of 2984 (max. 8388607)
- 682 named destinations out of 1000 (max. 500000)
+ 2850 PDF objects out of 2984 (max. 8388607)
+ 683 named destinations out of 1000 (max. 500000)
  557 words of extra memory for PDF output out of 10000 (max. 10000000)
 

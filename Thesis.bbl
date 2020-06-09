@@ -8694,5 +8694,47 @@
     \endentry
   \enddatalist
 \endrefsection
+
+\refsection{5}
+  \datalist[entry]{apa/global//global/global}
+    \entry{de2017finance}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b6f418ba40c73a62cd1e9c47beb33f60}{%
+           family={Haan},
+           familyi={H\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=034631280931668604c2e37a27bfe317}{%
+           family={Sturm},
+           familyi={S\bibinitperiod},
+           given={Jan-Egbert},
+           giveni={J\bibinithyphendelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70d189d45917cdaa3b007bb5da9e4602}
+      \strng{fullhash}{70d189d45917cdaa3b007bb5da9e4602}
+      \strng{bibnamehash}{70d189d45917cdaa3b007bb5da9e4602}
+      \strng{authorbibnamehash}{70d189d45917cdaa3b007bb5da9e4602}
+      \strng{authornamehash}{70d189d45917cdaa3b007bb5da9e4602}
+      \strng{authorfullhash}{70d189d45917cdaa3b007bb5da9e4602}
+      \field{sortinit}{d}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Political Economy}
+      \field{title}{Finance and income inequality: A review and new evidence}
+      \field{volume}{50}
+      \field{year}{2017}
+      \field{pages}{171\bibrangedash 195}
+      \range{pages}{25}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
