@@ -1,7 +1,7 @@
 \begin{refsection}
 	\chapter[What Type of Finance Matters for Growth? BMA Evidence]{What Aspect of Financial Intermediation Matters for Growth? Bayesian Model Averaging Evidence}
 \label{ch2}
-\blfootnote{This chapter was co-authored with Iftekhar Hasan and Roman Horv\'{a}th and published in \emph{The World Bank Economic Review} as \emph{What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence}. We thank Martin Feldkircher and seminar participants at 19th ICMAIF conference (Rethymno, Greece), 32nd International Symposium on Money, Banking and Finance (Nice, France) and 1st World Congress for Comparative Economics (Rome, Italy) for helpful comments. The views expressed here are those of the authors and not necessarily those of the Czech Ministry of Finance or Bank of Finland.}
+\blfootnote{This chapter was co-authored with Iftekhar Hasan and Roman Horv\'{a}th and large part of it published in \emph{The World Bank Economic Review} as \emph{What Type of Finance Matters for Growth? Bayesian Model Averaging Evidence}. We thank Martin Feldkircher and seminar participants at 19th ICMAIF conference (Rethymno, Greece), 32nd International Symposium on Money, Banking and Finance (Nice, France) and 1st World Congress for Comparative Economics (Rome, Italy) for helpful comments. The views expressed here are those of the authors and not necessarily those of the Czech Ministry of Finance or Bank of Finland.}
 
 \begin{quote}
 \begin{center}\textbf{Abstract}\end{center}
@@ -11,7 +11,7 @@
 \clearpage
 \section{Introduction}
 \label{ch2sec:intro}
-Numerous studies investigate the effect of financial development on economic growth and predominantly conclude that there is a positive causal relationship between the two \parencite{KingLevine1993a, LevineZervos1998, AtjeJovanovich1993}. Nevertheless, some opposing views hold that the financial sector removes scarce resources from the rest of the economy \parencite{Tobin1984,Boltonetal2011} and encourages to greater exposure and vulnerability to crises, thus severely burdening the real sector during periods of instability \parencite{Kindelberger1978,Minsky1991,Stiglitz2000}. The effect of financial development on growth has recently drawn greater attention again because of the financial crisis that began in 2007-2008. Moreover, conclusions referring to diminishing and eventually negative returns from financial development have become increasingly common in the literature \parencite{Arcandetal2012,CecchettiKharroubi2012,LawSingh2014}. This highlights the importance of the financial sector for the functioning of the economy and has provoked extensive debate among policymakers. 
+Numerous studies investigate the effect of financial development on economic growth and predominantly conclude that there is a positive causal relationship between the two \parencite{KingLevine1993a, LevineZervos1998, AtjeJovanovich1993}. Nevertheless, some opposing views hold that the financial sector removes scarce resources from the rest of the economy \parencite{Tobin1984,Boltonetal2011} and encourages to greater exposure and vulnerability to crises, thus severely burdening the real sector during periods of instability \parencite{Kindelberger1978,Minsky1991,Stiglitz2000}. The effect of financial development on growth drew greater attention again because of the financial crisis that began in 2007-2008. Moreover, conclusions referring to diminishing and eventually negative returns from financial development have become increasingly common in the literature \parencite{Arcandetal2012,CecchettiKharroubi2012,LawSingh2014}. This highlights the importance of the financial sector for the functioning of the economy and has provoked extensive debate among policymakers. 
 
 This paper evaluates the finance-growth nexus but differs from existing research in two main respects. First, it employs \ac{BMA} to overcome certain drawbacks of previous research approaches. \ac{BMA} is well grounded in statistical theory \parencite{Rafteryetal1997} and addresses the inherent regression model uncertainty, which is quite high in cross-country growth regressions \parencite{Fernandezetal2001, SalaiMartinetal2004, Durlaufetal2008}. The control variables in finance-growth regressions are often selected in a somewhat \textit{ad hoc} manner with reference to certain relevant theories while ignoring other relevant theories. 
 
@@ -274,6 +274,7 @@ If model $M_{j}$ is rejected, the next model $M_{k}$ is suggested and compared w
 \end{itemize}
 %
 Because the sampler can begin with a ``poor'' model with low \ac{PMP}, the predefined number of initial draws, the so-called burn-ins, are usually dropped. The quality of the approximation can be evaluated on the basis of the correlation between the \ac{PMP} derived from an analytical approach and those obtained from the MC$^{3}$ sampler. It depends on the number of iterations (draws) and the likelihood of the initially selected model. \textcite{Zeugner2011} notes that a \ac{PMP} correlation of approximately 0.9 indicates a ``good degree of convergence''. In the event that the correlation is lower, the number of sampler iterations should be increased. 
+
 %
 %
 %
@@ -283,7 +284,7 @@ Because the sampler can begin with a ``poor'' model with low \ac{PMP}, the prede
 \label{ch2sec:Results}
 This section presents two sets of our main results. The first set examines the effect of private credit to GDP on long-term growth. Our results suggest that this standard measure of financial development - \textit{financial depth} - is not a robust determinant of growth once we account for model uncertainty.
 
-The second set investigates the importance of new financial indicators that capture not only depth, but also stability and efficiency. We present two subsets of results, with the financial indicators averaged over examined period and then with their lagged values, to examine how current financial development is related to future growth. We use the latter approach to address potential endogeneity in the finance-growth relationship. 
+The second set investigates the importance of new financial indicators that capture not only depth, but also stability and efficiency. We present three subsets of results, with the financial indicators averaged over examined period, using the lagged values of indicators, to examine how current financial development is related to future growth, and two-stage procedure where we instrument financial development by the historical record of financial crises. We use the latter two approaches to address potential endogeneity in the finance-growth relationship. 
 
 The third set examines the effect of finance on growth is non-linear and whether some interaction effects among financial indicators matter for growth. Overall, our results suggest that the efficiency of financial intermediaries is robustly related to long-term growth but we fail to find any non-linearities and interaction effects.
 
@@ -396,7 +397,7 @@ We also limit the period under consideration to 1960-1990 and examine whether th
 \subsection{New Financial Development Indicators}
 We examine the effect of new financial indicators on long-term growth in this subsection. Specifically, we additionally include the following variables in our estimation: bank Z-score, net interest margin, stock market turnover, and stock market capitalization. \textcite{Cihaketal2013} identify these as proxies for different aspects of the financial sector. Specifically, they propose using bank Z-score to assess the stability of the banking sector, the net interest margin to proxy for the efficiency of the banking sector, stock market turnover as a proxy for the efficiency of the stock market, and stock market capitalization to measure the depth of stock markets. These measures, particularly the first two, are rarely used in growth regressions (\textcite{Bergeretal2004} and \textcite{Hasanetal2009} being the exceptions), despite the fact that they might better depict the relationships outlined by theory than traditionally employed variables. As we discuss in Section \ref{ch2sec:data}, the main issue lies in their availability. However, the \ac{GFDD} provides a significant improvement in this regard, and many series are available since the late 1980s. In addition, we retain domestic credit to the private sector among the covariates to account for the overall size of the banking sector. Given the data limitations, our sample is reduced to 60 countries. For eight countries from our original sample used for private credit, at least one value of the new financial indicators is missing.
 
-Figure \ref{ch2fig:allvarplot}  provides an initial examination of the interaction between individual financial indicators and economic growth. First, we observe a distinct inverse relationship between the net interest margin and economic growth. Second, bank Z-score and growth display only a marginally positive relationship. Third, market capitalization and market turnover appear to be positively related to growth, which is in line with \textcite{LevineZervos1998}. In addition, Table \ref{ch2tab:corrFI} provides the correlations among the financial indicators. The correlations are typically far from one, thus providing additional impetus to examine further measures of financial development in the growth regressions. In addition, we present the jointness statistics in the Appendix \ref{ch2app:joint}.
+Figure \ref{ch2fig:allvarplot} provides an initial examination of the interaction between individual financial indicators and economic growth. First, we observe a distinct inverse relationship between the net interest margin and economic growth. Second, bank Z-score and growth display only a marginally positive relationship. Third, market capitalization and market turnover appear to be positively related to growth, which is in line with \textcite{LevineZervos1998}. In addition, Table \ref{ch2tab:corrFI} provides the correlations among the financial indicators. The correlations are typically far from one, thus providing additional impetus to examine further measures of financial development in the growth regressions. In addition, we present the jointness statistics in the Appendix \ref{ch2app:joint}.
 %
 % Rest of the financial indicators 1960-2011
 \begin{figure}[!ht]
@@ -491,6 +492,97 @@ We report the results of the estimation in a similar fashion as we did for priva
 
 We present the posterior statistics of the explanatory variables in Table \ref{ch2tab:all6011hyp}. Interestingly, the variable proxying for bank efficiency exhibits a comparatively higher \ac{PIP} than that reflecting its depth. Net interest margin ranks high among the explanatory variables with a 97\% inclusion probability. The posterior mean of the coefficient is negative, in accordance with our expectations. A lower interest margin stems from a smaller discrepancy between banks' borrowing and lending rates. Thus, if banks are able to channel resources at a lower margin, this appears to positively affect long-term economic growth \parencite{Rousseau1998}. Additionally, the posterior mean of bank Z-score is positive, implying that stable banking systems are beneficial for economic growth, although the \ac{PIP} at 25\% does not offer much confidence that the Z-score is a crucial determinant of long-term growth. Stock market turnover is also accorded little importance, with a \ac{PIP} of 17\%. The positive sign of the mean is in line with our expectations regarding an efficient resource allocation being beneficial for growth. Moreover, it supports the conclusion of \textcite{LevineZervos1998} that an active stock market contributes to economic growth. However, we wish to note that this indicator might not coherently capture the efficiency of the markets. A high turnover ratio could reflect low friction in trading and the spread of information \parencite{Levine2005}. On the other hand, other research finds that more trading does not necessarily prevent asset price misalignments and its corrections \parencite{Brunnermeier2004}. Strikingly, the measures capturing the depth of both the banking sector and stock markets exhibit very small \acp{PIP}. Overall, our results indicate that the approach used to measure financial development is crucial in determining the estimated effect of finance on growth. 
 
+To provide robustness checks, we again perform the estimation with alternative priors.\footnote{We also perform estimations using an alternative MC$^{3}$ sampler, but the differences in posterior statistics are marginal.} Figure \ref{ch2fig:compall60} illustrates the comparison. The implications of different priors are similar to those experienced in the estimation regarding private credit. The \ac{UIP} parameter prior subtly alters the \ac{PIP} of the covariates without having a major effect on the interpretation. Providing greater flexibility in selecting model size by assuming a random model prior reduces the posterior mean model size and the \ac{PIP} of several variables, but the set of top-ranked regressors remains largely unchanged. The relative importance of financial indicators changes to some extent. Net interest margin remains among the most important variables with an 86\% \ac{PIP}. All the remaining indicators exhibit low \ac{PIP} below 10\%. This is due to the smaller size induced by the random model prior. The results using dilution prior which accounts for correlation among covariates decreases the \ac{PIP} of nearly all variables. However, the importance of net interest margin still remains high with the \ac{PIP} at 87\%.
+% Model comparison, 1960-2011 findev
+\begin{figure}[!ht]
+	\centering
+	\caption{Model comparison with all financial indicators 1960-2011}
+		\label{ch2fig:compall60}
+		\includegraphics[width=\linewidth]{Figures/ch2/plotCompall6011}
+		\begin{minipage}{0.8\textwidth}
+			\footnotesize
+			\emph{Note: Parameter and model prior comparison. Model 1=hyper-g, uniform model prior; Model 2=\ac{UIP}, uniform model prior, Model 3=hyper-g, dilution model prior}
+		  \end{minipage}
+\end{figure}
+
+\subsection{Addressing endogeneity}\label{ch2subsec:endog}
+Our dataset is constructed such that most regressors are exogenous except for certain financial indicators. While we efficiently tackle the potential for omitted variable bias by allowing for many potential regressors by using \ac{BMA}, the issue of reverse causality of the relationship remains a challenge. In particular, the class of endogenous growth models points towards the reciprocal relation between growth and financial development. In these models, the demand for financial services grows with an increased level of economic development. The higher demand for financial services boosts competition and improves the efficiency of financial intermediation. Simultaneously, the finance's better efficiency enhances the screening and capital allocation of investment, accelerating capital accumulation, and consequently, economic growth \parencite{Ang2008}. In the short run, economic development affects financial sector and some of the indicators we use to proxy for financial development. Credit provision traditionally decreases in recessions, so does the stock market capitalization. Apart from interdependence between economic growth and finance put forward in theory, some empirical studies thus document the dynamics between financial crises  \parencite{cerra2008growth,DellAricciaetal2008} or financial liberalization \parencite{Ranciereetal2006} and parallel changes of output. By focusing on the long-run relationship, we abstract from these dynamics.
+
+To address the potential endogeneity of financial indicators, we apply the methodology developed by \textcite{Durlaufetal2008}. The endogenous financial variables are regressed on a set of instruments in the first stage, and their fitted values are used in the second stage, which is a standard BMA procedure. We acknowledge that the first stage is not fully Bayesian, but it is important to note that the number of endogenous variables and instruments is rather low. In addition, \textcite{Durlaufetal2008} performs Monte Carlo simulations and shows that this two-stage least squares BMA approach (2SLS-BMA) approximates the data generating process accurately. In the estimations, we build on the baseline results and address mainly the potential endogeneity of the net interest margin. 
+
+We use the data from \textcite{ReinhartRogoff2008} on the history of financial crises as the instruments. We have tried different alternatives as instruments, such as the data on financial reform compiled by \textcite{Abiadetal2008}. This choice is popular in the literature, but we found that the data on financial crises have much better explanatory power.
+
+% The financial reform index incorporates information on credit conditions, financial market supervision, and competition characteristics. It represents the reform inputs (which are typically initiated by international organizations such as the International Monetary Fund) and not reform outcomes; therefore, it is likely to be independent of growth. Moreover, previous research shows that financial reforms spur financial development \parencite{JayaratneStrahan1996,TresselDetragiache2008}. In addition, the key characteristic of financial development is its continuity, and financial reform reversals may have particularly devastating effects on financial development \parencite{RajanZingales2003}. Therefore, using the data in \textcite{Abiadetal2008}, we include the average size of the reversal of financial reform (the reversal is defined as the decrease in the index value, and the average value of reversals is used as the instrument) and the total number of large reversals over the observed period (we consider a large reversal to be a decrease in the non-standardized index value larger than 3). 
+
+\textcite{ReinhartRogoff2008} recognize several types of financial distress: currency, inflation, debt, bank crises and stock market crashes. Furthermore, they distinguish between domestic and external debt crises. For each year, they assign a value of 1 if a particular type of crisis occurs. The total crisis tally in a year can therefore take values from 0 to 6. We believe that the legacy of troubled financial systems may be deeply rooted in the economy and have a long-term impact on financial development. For example, \textcite{Guiso2008} show how a lack of trust leads to lower stock market participation. Specifically, we consider the average crisis tally (average number of crises per year) in the countries over the period of their independence. The relationship between financial crises and economic growth is likely to be only temporary, with the effect eventually diminishing \parencite{Ranciereetal2006}. Therefore, their occurrence is likely unrelated to long-term growth\footnote{Additionally, we also estimate the 2SLS--BMA with the crises values only considering the data before 1960 to strengthen the exogeneity argument. The \ac{PIP} of the net interest margin decreases slightly to 0.8, but generally the results remain the same.}. To the instrument, which ensures the identification of the two-stage model, we add the rule of law and the years for which the country has had an open economy as additional regressors. \textcite{RajanZingales2003} and \textcite{Baltagietal2009} identify these two variables as determinants of financial development. In addition, these two variables exhibit high correlation with most of our financial indicators. Furthermore, absolute latitude is included to control for the geographical endowment of individual countries. Latitude is exogenous to growth and is shown to correlate with financial development \parencite{Becketal2002, Becketal2003}. 
+
+Crises data are not available for all countries. To prevent reducing our sample, in exceptional cases, we use the regional averages for missing data. The regions are defined as follows: Sub-Saharan Africa, Latin America and the rest of the world\footnote{The countries for which we are missing data are Botswana, Cyprus, Hong Kong, Israel, Jamaica, Jordan, Malawi, Pakistan, Tanzania, Uganda.}.
+
+Table \ref{ch2tab:all6011hypIValt} reports the results using 2SLS-BMA estimation. The results from the first-stage regression is presented in the appendix in Table \ref{app1tab:1ststageIV}. Among the top regressors, there are no apparent qualitative differences between the baseline and 2SLS-BMA results. The posterior inclusion probability of net interest margin remains high at 92\%. The PIP for bank Z-score and market capitalization decline to very low levels. Private credit and stock market capitalization, the traditional financial development proxies, continue to display low inclusion probabilities.
+
+\begin{table}[!htbp]
+	\centering
+	\caption{New financial indicators and growth 1960-2011, \\ 2SLS--BMA}
+	\label{ch2tab:all6011hypIValt}
+	\small
+	\begin{tabular}{lrrr}
+	 	  \toprule
+		  & PIP & Post Mean & Post SD \\ 
+		  \midrule
+		  GDP level in 1960 & 1.00 & -0.01171 & 0.00252 \\
+  Fraction GDP in mining & 1.00 & 0.04670 & 0.01290 \\ 
+  Exchange rate distortions & 1.00 & -0.00009 & 0.00003 \\
+  Life expectancy & 1.00 & 0.00059 & 0.00020 \\ 
+  Fraction Confucian & 0.99 & 0.04077 & 0.01183 \\ 
+  Fraction Buddhist & 0.94 & 0.01143 & 0.00558 \\
+  \textbf{Net interest margin} & \textbf{0.92} & \textbf{-0.00148} & \textbf{0.00072} \\
+  Equipment investment & 0.87 & 0.08065 & 0.04660 \\
+  Fraction Protestants & 0.62 & -0.00482 & 0.00505 \\ 
+  Size of labour force & 0.39 & 0.00000 & 0.00000 \\
+  Outward orientation & 0.38 & -0.00121 & 0.00191 \\
+  Ratio of workers to population & 0.28 & 0.00303 & 0.00596 \\ 
+  Fraction Jewish & 0.26 & 0.00381 & 0.00821 \\ 
+  Fraction of pop. speaking English & 0.24 & -0.00128 & 0.00287 \\ 
+  Bank Z-score & 0.22 & 0.00004 & 0.00009 \\ 
+  Rule of law & 0.20 & 0.00175 & 0.00432 \\ 
+  Primary exports & 0.19 & 0.00143 & 0.00377 \\
+  Market turnover & 0.18 & 0.00001 & 0.00002 \\ 
+  Fraction Hindu & 0.18 & -0.00455 & 0.01298 \\ 
+  SD of black market premium & 0.15 & 0.00000 & 0.00001 \\ 
+  French colony dummy & 0.15 & 0.00101 & 0.00319 \\ 
+  Private credit & 0.13 & 0.00001 & 0.00002 \\ 
+  Fraction speaking foreign language & 0.11 & 0.00031 & 0.00127 \\ 
+  Spanish colony dummy & 0.11 & 0.00052 & 0.00200 \\ 
+  Political rights & 0.10 & 0.00010 & 0.00042 \\ 
+  Fraction Catholic & 0.10 & -0.00035 & 0.00160 \\ 
+  Population growth & 0.09 & -0.02058 & 0.08788 \\ 
+  High school enrolment & 0.08 & -0.00210 & 0.01155 \\ 
+  Age & 0.07 & -0.00000 & 0.00001 \\ 
+  Public education share & 0.06 & 0.00493 & 0.03187 \\ 
+  Sub-Sahara dummy & 0.06 & 0.00006 & 0.00153 \\
+  Civil liberties & 0.06 & 0.00003 & 0.00032 \\
+  Fraction Muslim & 0.05 & 0.00007 & 0.00142 \\
+  Absolute latitude & 0.05 & 0.00000 & 0.00003 \\
+  Latin America dummy & 0.05 & -0.00012 & 0.00115 \\
+  Degree of capitalism & 0.05 & 0.00003 & 0.00023 \\ 
+  Number of years of open economy & 0.04 & 0.00010 & 0.00107 \\ 
+  Market capitalization & 0.04 & 0.00000 & 0.00000 \\
+  British colony dummy & 0.04 & -0.00004 & 0.00051 \\
+  War dummy & 0.03 & 0.00001 & 0.00037 \\ 
+  Area & 0.03 & 0.00000 & 0.00000 \\ 
+  Black market premium & 0.03 & 0.00007 & 0.00087 \\
+  Revolutions and coups & 0.03 & -0.00001 & 0.00073 \\ 
+  Ethnolinguistic fractionalization & 0.03 & 0.00002 & 0.00068 \\
+  Primary school enrolment & 0.03 & -0.00005 & 0.00134 \\
+  Non-equipment investment & 0.02 & 0.00006 & 0.00284 \\  
+  	 \bottomrule
+	\end{tabular}
+\end{table}
+
+Our baseline and 2SLS--BMA estimations suggest that bank efficiency is crucial for growth. We perform an additional estimation to check the robustness of this finding and estimate \ac{BMA} with lagged covariates. For reasons of data availability, we use real growth in GDP per capita over the period 2000--2011 and take the values of the financial indicators in the year 2000. The advantage of this approach is that we examine how past values of financial indicators influence current growth. Clearly, the disadvantage is that the time coverage for the dependent variable is restricted to just over a decade. Implicitly, this may also be regarded as robustness check of the sensitivity of our results to the variable coding. We present the results in Table \ref{ch2tab:BMAgrowth2000-2011}. Interestingly, the results remain largely unchanged. Net interest margin remains among the covariates with the highest \ac{PIP}. The posterior mean of the coefficient is negative. The \ac{PIP} of private credit is 49\%, but the mean is negative. We hypothesize that the negative mean is a consequence of our sample period including the current global financial crisis, which has been characterized by deleveraging in many developed countries. The \ac{PIP} of the other financial indicators is low.
+
+We alternate between different approaches towards endogeneity as each of them has its limits. The use of lagged variables and limiting the sample for a relatively short and specific period of the 2000s may not well capture the relationship's long-run nature and may be affected by the business cycle dynamics. On the other hand, the instrumental variable approach relies heavily on good instrument choice, and their qualification may almost universally be disputed\footnote{See \textcite{deaton2010instruments} for a critical overview of the use of instruments in economics and further references}. The choice of weak instruments may also generate more biased estimates than the elementary approaches, such as OLS \parencite{bazzi2013blunt}. The alternative estimation strategies we employ provide additional evidence for our baseline results and support the finance-led hypothesis.
+
 \begin{table}[!htbp]
 	\centering
 	\caption{New financial indicators and growth 2000-2011, baseline results}
@@ -550,22 +642,7 @@ We present the posterior statistics of the explanatory variables in Table \ref{c
 	\end{tabular}
 \end{table}
 
-To provide robustness checks, we again perform the estimation with alternative priors.\footnote{We also perform estimations using an alternative MC$^{3}$ sampler, but the differences in posterior statistics are marginal.} Figure \ref{ch2fig:compall60} illustrates the comparison. The implications of different priors are similar to those experienced in the estimation regarding private credit. The \ac{UIP} parameter prior subtly alters the \ac{PIP} of the covariates without having a major effect on the interpretation. Providing greater flexibility in selecting model size by assuming a random model prior reduces the posterior mean model size and the \ac{PIP} of several variables, but the set of top-ranked regressors remains largely unchanged. The relative importance of financial indicators changes to some extent. Net interest margin remains among the most important variables with an 86\% \ac{PIP}. All the remaining indicators exhibit low \ac{PIP} below 10\%. This is due to the smaller size induced by the random model prior. The results using dilution prior which accounts for correlation among covariates decreases the \ac{PIP} of nearly all variables. However, the importance of net interest margin still remains high with the \ac{PIP} at 87\%.
-% Model comparison, 1960-2011 findev
-\begin{figure}[!ht]
-	\centering
-	\caption{Model comparison with all financial indicators 1960-2011}
-		\label{ch2fig:compall60}
-		\includegraphics[width=\linewidth]{Figures/ch2/plotCompall6011}
-		\begin{minipage}{0.8\textwidth}
-			\footnotesize
-			\emph{Note: Parameter and model prior comparison. Model 1=hyper-g, uniform model prior; Model 2=\ac{UIP}, uniform model prior, Model 3=hyper-g, dilution model prior}
-		  \end{minipage}
-\end{figure}
-
-Our baseline estimations suggest that bank efficiency is crucial for growth. We perform an additional estimation to check the robustness of this finding. and estimate \ac{BMA} with lagged covariates. For reasons of data availability, we use real growth in GDP per capita over the period 2000--2011 and take the values of the financial indicators in the year 2000. The advantage of this approach is that we examine how past values of financial indicators influence current growth. Clearly, the disadvantage is that the time coverage for the dependent variable is restricted to just over a decade.\footnote{Alternatively, we also estimate 2SLS--\ac{BMA} regressions following the methodology of \textcite{Durlaufetal2008}, which consists of two steps. We regress the endogenous financial indicators on our set of instruments in the first stage. The fitted values of financial indicators enter into the second stage \ac{BMA} estimation. The results are largely in line with our baseline results and are available from the authors upon request.} Implicitly, this may also be regarded as robustness check of the sensitivity of our results to the variable coding. We present the results in Table \ref{ch2tab:BMAgrowth2000-2011}. Interestingly, the results remain largely unchanged. Net interest margin remains among the covariates with the highest \ac{PIP}. The posterior mean of the coefficient is negative. The \ac{PIP} of private credit is 49\%, but the mean is negative. We hypothesize that the negative mean is a consequence of our sample period including the current global financial crisis, which has been characterized by deleveraging in many developed countries. The \ac{PIP} of the other financial indicators is not high.
-
-\subsection{Non--linearities in Finance and Growth Nexus}
+\subsection{Non--linearities in Finance and Growth Nexus}\label{ch2subsec:nonlin}
 Finally, we examine the possibility of a nonlinear relationship between financial indicators and growth. Several recent studies on financial development and economic growth devote substantial attention to nonlinearities in the relationship between financial development and economic growth (see, for example, \textcite{CecchettiKharroubi2012, LawSingh2014}). In addition, we also examine several possible interaction effects in finance--growth nexus such as whether private credit is conducive to growth only when financial system is stable.
 
 When considering the quadratic and interaction terms, we rely on the strong heredity principle to adjust prior model probabilities. This approach has been suggested in the literature to ensure appropriate interpretation of the results. In essence, the quadratic and interaction terms may only be evaluated when their linear counterparts are included in the model. Therefore, they cannot mask potential effects of linear terms. 
@@ -628,7 +705,7 @@ Second, the previous literature examining the finance-growth nexus largely emplo
 
 Using the updated well-known cross-country growth dataset by \textcite{Fernandezetal2001}, we find that traditional indicators of financial depth are not robustly related to long-term economic growth. The measures of financial depth and financial stability exhibit posterior inclusion probabilities well below 50\%. However, our results suggest that bank efficiency, as proxied by the net interest margin, is crucial for long-term growth. The corresponding posterior inclusion probability is on average around 90\%. This result is in line with theory, which indicates that the financial sector is essential in channeling resources from savers to borrowers \textcite{Pagano1993}. These results are robust to different parameter and model priors in Bayesian model averaging. The results are also robust once we address the endogeneity of financial indicators. In addition, we do not find non--linearities and various interaction effects (such as the effect of the interaction of credit and financial stability) important for finance--growth nexus. 
 
-Overall, we find that the measurement of financial development is crucial in determining the estimated effect of finance on growth. Based on our global sample, the results attribute a greater role to the banking sector and its efficiency in fostering economic growth. Therefore, our results suggest that the quality of financial intermediation rather than the quantity of finance matters for growth. Our results thus stand in contrast to the recent papers suggesting that too much finance harms growth. We show that once we distinguish between quality and quantity of finance, we find that quality matters and quantity is largely irrelevant for long--term real growth. In terms of policy implications, our results indicate that the current wave of regulatory changes intended to safeguard financial stability should carefully analyze the consequences for the efficiency of financial intermediaries.
+Overall, we find that the measurement of financial development is crucial in determining the estimated effect of finance on growth. Based on our global sample, the results attribute a greater role to the banking sector and its efficiency in fostering economic growth. Therefore, our results suggest that the quality of financial intermediation rather than the quantity of finance matters for growth. Our results thus stand in contrast to the recent papers suggesting that too much finance harms growth. We show that once we distinguish between quality and quantity of finance, we find that quality matters and quantity is largely irrelevant for long--term real growth. In terms of policy implications, our results indicate that the regulatory changes intended to safeguard financial stability should carefully analyze the consequences for the efficiency of financial intermediaries.
 
 \newpage
 % \fancyhead[LO]{\sffamily Bibliography}		%headers in sans serif and not in uppercase
@@ -725,5 +802,36 @@ Jointness statistics for our financial indicators are available in Tables \ref{c
 \end{tabular}
 \end{table}  
 %
+
+\begin{table}[!ht] \centering 
+	\caption{First-stage regression, 2SLS--BMA}
+	\label{app1tab:1ststageIV} 
+  \begin{tabular}{@{\extracolsep{5pt}}lc}
+  \\[-1.8ex]\hline
+  \hline \\[-1.8ex] 
+   & \multicolumn{1}{c}{\textit{Dependent variable:}} \\ 
+  \cline{2-2}
+  \\[-1.8ex] & Net interest margin \\
+  \hline \\[-1.8ex]
+   Latitude & $-$0.054$^{***}$ \\
+	& (0.017) \\ 
+   Years open & $-$1.851$^{*}$ \\
+	& (1.012) \\ 
+   Rule of law & $-$2.086$^{**}$ \\
+	& (1.036) \\
+   Crises tally & 3.290$^{***}$ \\ 
+	& (0.769) \\ 
+  \hline \\[-1.8ex]
+  Observations & 60 \\
+  R$^{2}$ & 0.730 \\
+  Adjusted R$^{2}$ & 0.711 \\ 
+  Residual Std. Error & 1.748 (df = 55) \\ 
+  F Statistic & 37.206$^{***}$ (df = 4; 55) \\ 
+  \hline
+  \hline \\[-1.8ex]
+  \textit{Note:}  & \multicolumn{1}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\
+  \end{tabular}
+  \end{table}
+
 \end{subappendices}
 \end{refsection}

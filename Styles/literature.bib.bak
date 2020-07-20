@@ -388,16 +388,15 @@
 }
 
 @Article{Brunnermeier2004,
-  Title                    = {{Hedge funds and the technology bubble}},
-  Author                   = {Markus K. Brunnermeier and Stefan Nagel},
-  Journal                  = {Journal of Finance},
-  Year                     = {2004},
-  Number                   = {5},
-  Pages                    = {2013-2040},
-  Volume                   = {59},
-
-  Abstract                 = { This paper documents that hedge funds did not exert a correcting force on stock prices during the technology bubble. Instead, they were heavily invested in technology stocks. This does not seem to be the result of unawareness of the bubble: Hedge funds captured the upturn, but, by reducing their positions in stocks that were about to decline, avoided much of the downturn. Our findings question the efficient markets notion that rational speculators always stabilize prices. They are consistent with models in which rational investors may prefer to ride bubbles because of predictable investor sentiment and limits to arbitrage. Copyright 2004 by The American Finance Association.},
-  Url                      = {http://ideas.repec.org/a/bla/jfinan/v59y2004i5p2013-2040.html}
+  author   = {Markus K. Brunnermeier and Stefan Nagel},
+  journal  = {Journal of Finance},
+  title    = {{Hedge funds and the technology bubble}},
+  year     = {2004},
+  number   = {5},
+  pages    = {2013-2040},
+  volume   = {59},
+  abstract = {This paper documents that hedge funds did not exert a correcting force on stock prices during the technology bubble. Instead, they were heavily invested in technology stocks. This does not seem to be the result of unawareness of the bubble: Hedge funds captured the upturn, but, by reducing their positions in stocks that were about to decline, avoided much of the downturn. Our findings question the efficient markets notion that rational speculators always stabilize prices. They are consistent with models in which rational investors may prefer to ride bubbles because of predictable investor sentiment and limits to arbitrage. Copyright 2004 by The American Finance Association.},
+  url      = {http://ideas.repec.org/a/bla/jfinan/v59y2004i5p2013-2040.html},
 }
 
 @TechReport{CecchettiKharroubi2013,
@@ -433,16 +432,15 @@
 }
 
 @Article{CetorelliStraha2006,
-  Title                    = {{Finance as a barrier to entry: Bank competition and industry structure in local U.S. markets}},
-  Author                   = {Nicola Cetorelli and Philip E. Strahan},
-  Journal                  = {Journal of Finance},
-  Year                     = {2006},
-  Number                   = {1},
-  Pages                    = {437-461},
-  Volume                   = {61},
-
-  Abstract                 = { This paper tests how competition in local U.S. banking markets affects the market structure of nonfinancial sectors. Theory offers competing hypotheses about how competition ought to influence firm entry and access to bank credit by mature firms. The empirical evidence, however, strongly supports the idea that in markets with concentrated banking, potential entrants face greater difficulty gaining access to credit than in markets in which banking is more competitive. Copyright 2006 by The American Finance Association.},
-  Url                      = {http://ideas.repec.org/a/bla/jfinan/v61y2006i1p437-461.html}
+  author   = {Nicola Cetorelli and Philip E. Strahan},
+  journal  = {Journal of Finance},
+  title    = {{Finance as a barrier to entry: Bank competition and industry structure in local U.S. markets}},
+  year     = {2006},
+  number   = {1},
+  pages    = {437-461},
+  volume   = {61},
+  abstract = {This paper tests how competition in local U.S. banking markets affects the market structure of nonfinancial sectors. Theory offers competing hypotheses about how competition ought to influence firm entry and access to bank credit by mature firms. The empirical evidence, however, strongly supports the idea that in markets with concentrated banking, potential entrants face greater difficulty gaining access to credit than in markets in which banking is more competitive. Copyright 2006 by The American Finance Association.},
+  url      = {http://ideas.repec.org/a/bla/jfinan/v61y2006i1p437-461.html},
 }
 
 @Article{chipman1996,
@@ -458,20 +456,19 @@
 }
 
 @Article{ChristopoulosTsionas2004,
-  Title                    = {Financial development and economic growth: evidence from panel unit root and cointegration tests },
-  Author                   = {Dimitris K Christopoulos and Efthymios G Tsionas},
-  Journal                  = {Journal of Development Economics },
-  Year                     = {2004},
-  Number                   = {1},
-  Pages                    = {55-74},
-  Volume                   = {73},
-
-  Doi                      = {http://dx.doi.org/10.1016/j.jdeveco.2003.03.002},
-  ISSN                     = {0304-3878},
-  Keywords                 = {Financial development},
-  Owner                    = {jxm},
-  Timestamp                = {2014.05.12},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S0304387803001299}
+  author    = {Dimitris K Christopoulos and Efthymios G Tsionas},
+  journal   = {Journal of Development Economics},
+  title     = {Financial development and economic growth: evidence from panel unit root and cointegration tests},
+  year      = {2004},
+  issn      = {0304-3878},
+  number    = {1},
+  pages     = {55-74},
+  volume    = {73},
+  doi       = {http://dx.doi.org/10.1016/j.jdeveco.2003.03.002},
+  keywords  = {Financial development},
+  owner     = {jxm},
+  timestamp = {2014.05.12},
+  url       = {http://www.sciencedirect.com/science/article/pii/S0304387803001299},
 }
 
 @Article{CicconeJarocinski2010,
@@ -536,21 +533,20 @@
 }
 
 @Article{DellAricciaetal2008,
-  Title                    = {The real effect of banking crises},
-  Author                   = {Giovanni Dell'Ariccia and Enrica Detragiache and Raghuram Rajan},
-  Journal                  = {Journal of Financial Intermediation },
-  Year                     = {2008},
-  Note                     = {Financial Contracting and Financial System Architecture },
-  Number                   = {1},
-  Pages                    = {89-112},
-  Volume                   = {17},
-
-  Doi                      = {http://dx.doi.org/10.1016/j.jfi.2007.06.001},
-  ISSN                     = {1042-9573},
-  Keywords                 = {Banking crises},
-  Owner                    = {jxm},
-  Timestamp                = {2014.05.06},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S104295730700040X}
+  author    = {Giovanni Dell'Ariccia and Enrica Detragiache and Raghuram Rajan},
+  journal   = {Journal of Financial Intermediation},
+  title     = {The real effect of banking crises},
+  year      = {2008},
+  issn      = {1042-9573},
+  note      = {Financial Contracting and Financial System Architecture},
+  number    = {1},
+  pages     = {89-112},
+  volume    = {17},
+  doi       = {http://dx.doi.org/10.1016/j.jfi.2007.06.001},
+  keywords  = {Banking crises},
+  owner     = {jxm},
+  timestamp = {2014.05.06},
+  url       = {http://www.sciencedirect.com/science/article/pii/S104295730700040X},
 }
 
 @Article{DemirgucMaksimovic1998,
@@ -745,32 +741,31 @@
 
 @Article{Gallupandsachs1999,
   author   = {Gallup, John Luke and Sachs, Jeffrey D. and Mellinger, Andrew D.},
-  title    = {Geography and Economic Development},
   journal  = {International Regional Science Review},
+  title    = {Geography and Economic Development},
   year     = {1999},
-  volume   = {22},
   number   = {2},
   pages    = {179-232},
-  abstract = { Location and climate have large effects on income levels and income growth through their effects on transport costs, disease burdens, and agricultural productivity, among other channels. Geography also seems to affect economic policy choices. Many geographic regions that have not been conducive to modern economic growth have high population densities and are experiencing rapid increases in population. At particular disadvantage are regions located far from coasts and ocean-navigable rivers, for which the transport costs of international trade are high, and tropical regions, which bear a heavy burden of disease. Moreover, a large portion of population growth over the next thirty years is expected to occur in these geographically disadvantaged regions. },
+  volume   = {22},
+  abstract = {Location and climate have large effects on income levels and income growth through their effects on transport costs, disease burdens, and agricultural productivity, among other channels. Geography also seems to affect economic policy choices. Many geographic regions that have not been conducive to modern economic growth have high population densities and are experiencing rapid increases in population. At particular disadvantage are regions located far from coasts and ocean-navigable rivers, for which the transport costs of international trade are high, and tropical regions, which bear a heavy burden of disease. Moreover, a large portion of population growth over the next thirty years is expected to occur in these geographically disadvantaged regions.},
   doi      = {10.1177/016001799761012334},
   url      = {http://irx.sagepub.com/content/22/2/179.full.pdf+html},
 }
 
 @Article{Garretsenetal2004,
-  Title                    = {Growth, financial development, societal norms and legal institutions},
-  Author                   = {Harry Garretsen and Robert Lensink and Elmer Sterken},
-  Journal                  = {Journal of International Financial Markets, Institutions and Money },
-  Year                     = {2004},
-  Number                   = {2},
-  Pages                    = {165-183},
-  Volume                   = {14},
-
-  Doi                      = {http://dx.doi.org/10.1016/j.intfin.2003.06.002},
-  ISSN                     = {1042-4431},
-  Keywords                 = {Finance},
-  Owner                    = {jxm},
-  Timestamp                = {2014.05.13},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S1042443103000490}
+  author    = {Harry Garretsen and Robert Lensink and Elmer Sterken},
+  journal   = {Journal of International Financial Markets, Institutions and Money},
+  title     = {Growth, financial development, societal norms and legal institutions},
+  year      = {2004},
+  issn      = {1042-4431},
+  number    = {2},
+  pages     = {165-183},
+  volume    = {14},
+  doi       = {http://dx.doi.org/10.1016/j.intfin.2003.06.002},
+  keywords  = {Finance},
+  owner     = {jxm},
+  timestamp = {2014.05.13},
+  url       = {http://www.sciencedirect.com/science/article/pii/S1042443103000490},
 }
 
 @Book{george1999,
@@ -844,16 +839,15 @@
 }
 
 @Article{Guiso2008,
-  Title                    = {{Trusting the stock market}},
-  Author                   = {Luigi Guiso and Paola Sapienza and Luigi Zingales},
-  Journal                  = {Journal of Finance},
-  Year                     = {2008},
-  Number                   = {6},
-  Pages                    = {2557-2600},
-  Volume                   = {63},
-
-  Abstract                 = { We study the effect that a general lack of trust can have on stock market participation. In deciding whether to buy stocks, investors factor in the risk of being cheated. The perception of this risk is a function of the objective characteristics of the stocks and the subjective characteristics of the investor. Less trusting individuals are less likely to buy stock and, conditional on buying stock, they will buy less. In Dutch and Italian micro data, as well as in cross-country data, we find evidence consistent with lack of trust being an important factor in explaining the limited participation puzzle. Copyright (c) 2008 The American Finance Association.},
-  Url                      = {http://ideas.repec.org/a/bla/jfinan/v63y2008i6p2557-2600.html}
+  author   = {Luigi Guiso and Paola Sapienza and Luigi Zingales},
+  journal  = {Journal of Finance},
+  title    = {{Trusting the stock market}},
+  year     = {2008},
+  number   = {6},
+  pages    = {2557-2600},
+  volume   = {63},
+  abstract = {We study the effect that a general lack of trust can have on stock market participation. In deciding whether to buy stocks, investors factor in the risk of being cheated. The perception of this risk is a function of the objective characteristics of the stocks and the subjective characteristics of the investor. Less trusting individuals are less likely to buy stock and, conditional on buying stock, they will buy less. In Dutch and Italian micro data, as well as in cross-country data, we find evidence consistent with lack of trust being an important factor in explaining the limited participation puzzle. Copyright (c) 2008 The American Finance Association.},
+  url      = {http://ideas.repec.org/a/bla/jfinan/v63y2008i6p2557-2600.html},
 }
 
 @Article{HaggardTiede2011,
@@ -870,16 +864,15 @@
 }
 
 @Article{HallJones1996,
-  Title                    = {{Why do some countries produce so much more output per worker than others?}},
-  Author                   = {Robert E. Hall and Charles I. Jones},
-  Journal                  = {The Quarterly Journal of Economics},
-  Year                     = {1999},
-  Number                   = {1},
-  Pages                    = {83-116},
-  Volume                   = {114},
-
-  Abstract                 = { Output per worker varies enormously across countries. Why? On an accounting basis our analysis shows that differences in physical capital and educational attainment can only partially explain the variation in output per worker-we find a large amount of variation in the level of the Solow residual across countries. At a deeper level, we document that the differences in capital accumulation, productivity, and therefore output per worker are driven by differences in institutions and government policies, which we call social infrastructure. We treat social infrastructure as endogenous, determined historically by location and other factors captured in part by language. © 2000 the President and Fellows of Harvard College and the Massachusetts Institute of Technology},
-  Url                      = {http://ideas.repec.org/a/tpr/qjecon/v114y1999i1p83-116.html}
+  author   = {Robert E. Hall and Charles I. Jones},
+  journal  = {The Quarterly Journal of Economics},
+  title    = {{Why do some countries produce so much more output per worker than others?}},
+  year     = {1999},
+  number   = {1},
+  pages    = {83-116},
+  volume   = {114},
+  abstract = {Output per worker varies enormously across countries. Why? On an accounting basis our analysis shows that differences in physical capital and educational attainment can only partially explain the variation in output per worker-we find a large amount of variation in the level of the Solow residual across countries. At a deeper level, we document that the differences in capital accumulation, productivity, and therefore output per worker are driven by differences in institutions and government policies, which we call social infrastructure. We treat social infrastructure as endogenous, determined historically by location and other factors captured in part by language. © 2000 the President and Fellows of Harvard College and the Massachusetts Institute of Technology},
+  url      = {http://ideas.repec.org/a/tpr/qjecon/v114y1999i1p83-116.html},
 }
 
 @TechReport{Harrisonetal1999,
@@ -897,17 +890,16 @@
 }
 
 @Article{Hasanetal2009,
-  Title                    = {{Regional growth and finance in Europe: Is there a quality effect of bank efficiency?}},
-  Author                   = {Hasan, Iftekhar and Koetter, Michael and Wedow, Michael},
-  Journal                  = {Journal of Banking \& Finance},
-  Year                     = {2009},
-  Number                   = {8},
-  Pages                    = {1446-1453},
-  Volume                   = {33},
-
-  Abstract                 = {In this study, we test whether regional growth in 11 European countries depends on financial development and suggest the use of cost- and profit-efficiency estimates as quality measures of financial institutions. Contrary to the usual quantitative proxies of financial development, the quality of financial institutions is measured in this study as the relative ability of banks to intermediate funds. An improvement in bank efficiency spurs five times more regional growth then an identical increase in credit does. More credit provided by efficient banks exerts an independent growth effect in addition to direct quantity and quality channel effects.},
-  Keywords                 = { Bank performance Regional growth Bank efficiency Europe},
-  Url                      = {http://ideas.repec.org/a/eee/jbfina/v33y2009i8p1446-1453.html}
+  author   = {Hasan, Iftekhar and Koetter, Michael and Wedow, Michael},
+  journal  = {Journal of Banking \& Finance},
+  title    = {{Regional growth and finance in Europe: Is there a quality effect of bank efficiency?}},
+  year     = {2009},
+  number   = {8},
+  pages    = {1446-1453},
+  volume   = {33},
+  abstract = {In this study, we test whether regional growth in 11 European countries depends on financial development and suggest the use of cost- and profit-efficiency estimates as quality measures of financial institutions. Contrary to the usual quantitative proxies of financial development, the quality of financial institutions is measured in this study as the relative ability of banks to intermediate funds. An improvement in bank efficiency spurs five times more regional growth then an identical increase in credit does. More credit provided by efficient banks exerts an independent growth effect in addition to direct quantity and quality channel effects.},
+  keywords = {Bank performance Regional growth Bank efficiency Europe},
+  url      = {http://ideas.repec.org/a/eee/jbfina/v33y2009i8p1446-1453.html},
 }
 
 @Article{Hoetingetal1999,
@@ -949,16 +941,15 @@
 }
 
 @Article{JayaratneStrahan1996,
-  Title                    = {{The finance-growth nexus: Evidence from bank branch deregulation}},
-  Author                   = {Jayaratne, Jith and Strahan, Philip E},
-  Journal                  = {The Quarterly Journal of Economics},
-  Year                     = {1996},
-  Number                   = {3},
-  Pages                    = {639-70},
-  Volume                   = {111},
-
-  Abstract                 = { This paper provides evidence that financial markets can directly affect economic growth by studying the relaxation of bank branch restrictions in the United States. The authors find that the rates of real, per capita growth in income and output increase significantly following intrastate branch reform. They also argue that the observed changes in growth are the result of changes in the banking system. Improvements in the quality of bank lending, not increased volume of bank lending, appear to be responsible for faster growth. Copyright 1996, the President and Fellows of Harvard College and the Massachusetts Institute of Technology.},
-  Url                      = {http://ideas.repec.org/a/tpr/qjecon/v111y1996i3p639-70.html}
+  author   = {Jayaratne, Jith and Strahan, Philip E},
+  journal  = {The Quarterly Journal of Economics},
+  title    = {{The finance-growth nexus: Evidence from bank branch deregulation}},
+  year     = {1996},
+  number   = {3},
+  pages    = {639-70},
+  volume   = {111},
+  abstract = {This paper provides evidence that financial markets can directly affect economic growth by studying the relaxation of bank branch restrictions in the United States. The authors find that the rates of real, per capita growth in income and output increase significantly following intrastate branch reform. They also argue that the observed changes in growth are the result of changes in the banking system. Improvements in the quality of bank lending, not increased volume of bank lending, appear to be responsible for faster growth. Copyright 1996, the President and Fellows of Harvard College and the Massachusetts Institute of Technology.},
+  url      = {http://ideas.repec.org/a/tpr/qjecon/v111y1996i3p639-70.html},
 }
 
 @Article{JensenMurphy1990,
@@ -1054,17 +1045,16 @@
 }
 
 @Article{KoetterWedow2010,
-  Title                    = {{Finance and growth in a bank-based economy: Is it quantity or quality that matters?}},
-  Author                   = {Koetter, Michael and Wedow, Michael},
-  Journal                  = {Journal of International Money and Finance},
-  Year                     = {2010},
-  Number                   = {8},
-  Pages                    = {1529-1545},
-  Volume                   = {29},
-
-  Abstract                 = {Most finance-growth studies approximate the size of financial systems rather than the quality of intermediation to explain economic growth differentials. Furthermore, the neglect of systematic differences in cross-country studies could drive the result that finance matters. We suggest a measure of bank's intermediation quality using bank-specific efficiency estimates and focus on the regions of one economy only: Germany. This quality measure has a significantly positive effect on growth. This result is robust to the exclusion of banks operating in multiple regions, controlling for the proximity of financial markets, when distinguishing different banking sectors active in Germany, and when excluding the structurally weaker East from the sample.},
-  Keywords                 = { Financial development Intermediation quality Regional growth Bank efficiency},
-  Url                      = {http://ideas.repec.org/a/eee/jimfin/v29y2010i8p1529-1545.html}
+  author   = {Koetter, Michael and Wedow, Michael},
+  journal  = {Journal of International Money and Finance},
+  title    = {{Finance and growth in a bank-based economy: Is it quantity or quality that matters?}},
+  year     = {2010},
+  number   = {8},
+  pages    = {1529-1545},
+  volume   = {29},
+  abstract = {Most finance-growth studies approximate the size of financial systems rather than the quality of intermediation to explain economic growth differentials. Furthermore, the neglect of systematic differences in cross-country studies could drive the result that finance matters. We suggest a measure of bank's intermediation quality using bank-specific efficiency estimates and focus on the regions of one economy only: Germany. This quality measure has a significantly positive effect on growth. This result is robust to the exclusion of banks operating in multiple regions, controlling for the proximity of financial markets, when distinguishing different banking sectors active in Germany, and when excluding the structurally weaker East from the sample.},
+  keywords = {Financial development Intermediation quality Regional growth Bank efficiency},
+  url      = {http://ideas.repec.org/a/eee/jimfin/v29y2010i8p1529-1545.html},
 }
 
 @Book{Koop2003,
@@ -1230,20 +1220,19 @@
 }
 
 @Article{MccaigStegnos2005,
-  Title                    = {Financial intermediation and growth: Some robustness results },
-  Author                   = {Brian McCaig and Thanasis Stengos},
-  Journal                  = {Economics Letters },
-  Year                     = {2005},
-  Number                   = {3},
-  Pages                    = {306-312},
-  Volume                   = {88},
-
-  Doi                      = {http://dx.doi.org/10.1016/j.econlet.2004.12.031},
-  ISSN                     = {0165-1765},
-  Keywords                 = {Financial intermediation},
-  Owner                    = {jxm},
-  Timestamp                = {2014.05.07},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S0165176505001230}
+  author    = {Brian McCaig and Thanasis Stengos},
+  journal   = {Economics Letters},
+  title     = {Financial intermediation and growth: Some robustness results},
+  year      = {2005},
+  issn      = {0165-1765},
+  number    = {3},
+  pages     = {306-312},
+  volume    = {88},
+  doi       = {http://dx.doi.org/10.1016/j.econlet.2004.12.031},
+  keywords  = {Financial intermediation},
+  owner     = {jxm},
+  timestamp = {2014.05.07},
+  url       = {http://www.sciencedirect.com/science/article/pii/S0165176505001230},
 }
 
 @Article{Merton1987,
@@ -1322,27 +1311,26 @@
 }
 
 @Article{Pagano1993,
-  Title                    = {Financial markets and growth: An overview },
-  Author                   = {Marco Pagano},
-  Journal                  = {European Economic Review },
-  Year                     = {1993},
-  Number                   = {2 -3},
-  Pages                    = {613 - 622},
-  Volume                   = {37}
+  author  = {Marco Pagano},
+  journal = {European Economic Review},
+  title   = {Financial markets and growth: An overview},
+  year    = {1993},
+  number  = {2 -3},
+  pages   = {613 - 622},
+  volume  = {37},
 }
 
 @Article{PeiaRoszbach2015,
-  Title                    = {Finance and growth: time series evidence on causality },
-  Author                   = {Oana Peia and Kasper Roszbach},
-  Journal                  = {Journal of Financial Stability },
-  Year                     = {2015},
-  Pages                    = {105-118},
-  Volume                   = {18},
-
-  Doi                      = {http://dx.doi.org/10.1016/j.jfs.2014.11.005},
-  ISSN                     = {1572-3089},
-  Keywords                 = {Economic development},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S1572308914001168}
+  author   = {Oana Peia and Kasper Roszbach},
+  journal  = {Journal of Financial Stability},
+  title    = {Finance and growth: time series evidence on causality},
+  year     = {2015},
+  issn     = {1572-3089},
+  pages    = {105-118},
+  volume   = {18},
+  doi      = {http://dx.doi.org/10.1016/j.jfs.2014.11.005},
+  keywords = {Economic development},
+  url      = {http://www.sciencedirect.com/science/article/pii/S1572308914001168},
 }
 
 @Article{PetersenRajan1997,
@@ -1396,15 +1384,14 @@
 }
 
 @Article{RajanZingales2003,
-  Title                    = {The great reversals: the politics of financial development in the twentieth century },
-  Author                   = {Raghuram G Rajan and Luigi Zingales},
-  Journal                  = {Journal of Financial Economics },
-  Year                     = {2003},
-  Number                   = {1},
-  Pages                    = {5 - 50},
-  Volume                   = {69},
-
-  Abstract                 = {The state of development of the financial sector does not change monotonically over time. In particular, by most measures, countries were more financially developed in 1913 than in 1980 and only recently have they surpassed their 1913 levels. To explain these changes, we propose an interest group theory of financial development where incumbents oppose financial development because it breeds competition. The theory predicts that incumbents’ opposition will be weaker when an economy allows both cross-border trade and capital flows. This theory can go some way in accounting for the cross-country differences in, and the time-series variation of, financial development.}
+  author   = {Raghuram G Rajan and Luigi Zingales},
+  journal  = {Journal of Financial Economics},
+  title    = {The great reversals: the politics of financial development in the twentieth century},
+  year     = {2003},
+  number   = {1},
+  pages    = {5 - 50},
+  volume   = {69},
+  abstract = {The state of development of the financial sector does not change monotonically over time. In particular, by most measures, countries were more financially developed in 1913 than in 1980 and only recently have they surpassed their 1913 levels. To explain these changes, we propose an interest group theory of financial development where incumbents oppose financial development because it breeds competition. The theory predicts that incumbents’ opposition will be weaker when an economy allows both cross-border trade and capital flows. This theory can go some way in accounting for the cross-country differences in, and the time-series variation of, financial development.},
 }
 
 @Article{RajanZingales1998,
@@ -1454,20 +1441,19 @@
 }
 
 @Article{Rousseau1998,
-  Title                    = {The permanent effects of innovation on financial depth:: Theory and US historical evidence from unobservable components models},
-  Author                   = {Peter L. Rousseau},
-  Journal                  = {Journal of Monetary Economics },
-  Year                     = {1998},
-  Number                   = {2},
-  Pages                    = {387-425},
-  Volume                   = {42},
-
-  Doi                      = {http://dx.doi.org/10.1016/S0304-3932(98)00027-0},
-  ISSN                     = {0304-3932},
-  Keywords                 = {Financial deepening},
-  Owner                    = {jxm},
-  Timestamp                = {2014.05.12},
-  Url                      = {http://www.sciencedirect.com/science/article/pii/S0304393298000270}
+  author    = {Peter L. Rousseau},
+  journal   = {Journal of Monetary Economics},
+  title     = {The permanent effects of innovation on financial depth:: Theory and US historical evidence from unobservable components models},
+  year      = {1998},
+  issn      = {0304-3932},
+  number    = {2},
+  pages     = {387-425},
+  volume    = {42},
+  doi       = {http://dx.doi.org/10.1016/S0304-3932(98)00027-0},
+  keywords  = {Financial deepening},
+  owner     = {jxm},
+  timestamp = {2014.05.12},
+  url       = {http://www.sciencedirect.com/science/article/pii/S0304393298000270},
 }
 
 @Article{RousseauWachtel2011,
@@ -2885,11 +2871,11 @@ This paper develops a meta-analysis of the empirical literature that estimates t
 
 @Unpublished{Solt2019,
   author = {Solt, Frederick},
-  title  = {Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database},
   note   = {SWIID Version 8.0, February 2019},
+  title  = {Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database},
   month  = feb,
   year   = {2019},
-  url    = {https://osf.io/3djtq. },
+  url    = {https://osf.io/3djtq.},
 }
 
 @Article{galbraith2019sparse,
@@ -3138,6 +3124,70 @@ This paper develops a meta-analysis of the empirical literature that estimates t
   volume  = {107},
   number  = {5},
   pages   = {404--09},
+}
+
+@Article{bazzi2013blunt,
+  author  = {Bazzi, Samuel and Clemens, Michael A},
+  journal = {American Economic Journal: Macroeconomics},
+  title   = {Blunt Instruments: Avoiding Common Pitfalls in Identifying the Causes of Economic Growth},
+  year    = {2013},
+  number  = {2},
+  pages   = {152--86},
+  volume  = {5},
+}
+
+@Article{deaton2010instruments,
+  author  = {Deaton, Angus},
+  journal = {Journal of Economic Literature},
+  title   = {Instruments, Randomization, and Learning about Development},
+  year    = {2010},
+  number  = {2},
+  pages   = {424--55},
+  volume  = {48},
+}
+
+@Article{bumann2013financial,
+  author    = {Bumann, Silke and Hermes, Niels and Lensink, Robert},
+  journal   = {Journal of International Money and Finance},
+  title     = {Financial liberalization and economic growth: A meta-analysis},
+  year      = {2013},
+  pages     = {255--281},
+  volume    = {33},
+  publisher = {Elsevier},
+}
+
+@Article{cerra2008growth,
+  author  = {Cerra, Valerie and Saxena, Sweta Chaman},
+  journal = {American Economic Review},
+  title   = {Growth Dynamics: The Myth of Economic Recovery},
+  year    = {2008},
+  number  = {1},
+  pages   = {439--57},
+  volume  = {98},
+}
+@article{BITTENCOURT20191043,
+title = "Does financial development affect income inequality in the U.S. States?",
+journal = "Journal of Policy Modeling",
+volume = "41",
+number = "6",
+pages = "1043 - 1056",
+year = "2019",
+issn = "0161-8938",
+doi = "https://doi.org/10.1016/j.jpolmod.2019.07.008",
+url = "http://www.sciencedirect.com/science/article/pii/S0161893819300973",
+author = "Manoel Bittencourt and Shinhye Chang and Rangan Gupta and Stephen M. Miller",
+keywords = "Income inequality, Panel data, Personal income",
+abstract = "This paper examines the role of financial development on U.S. state-level income inequality in the 50 states from 1976 to 2011, using fixed-effect estimation. We find robust results whereby financial development linearly increases income inequality for the 50 states. When we divide 50 states into two separate groups of above-average and below-average inequality states than the cross-state average inequality, the effect of financial development on income inequality appears non-linear. When financial development improves, the effect increases at an increasing rate for above-average income-inequality states, whereas an inverted U-shaped relationship exists for below-average income-inequality states. To our knowledge, this paper is the first to examine the role of financial development on U.S. state-level inequality."
+}
+@Article{sylwester2003changes,
+  author    = {Sylwester, Kevin},
+  journal   = {Applied Economics},
+  title     = {Changes in income inequality and the black market premium},
+  year      = {2003},
+  number    = {4},
+  pages     = {403--413},
+  volume    = {35},
+  publisher = {Taylor \& Francis},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

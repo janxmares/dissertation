@@ -19,6 +19,35 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{Ang2008}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ccdfefe45504960d9f4fbcdc5ebf1788}{%
+           family={Ang},
+           familyi={A\bibinitperiod},
+           given={James\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ccdfefe45504960d9f4fbcdc5ebf1788}
+      \strng{fullhash}{ccdfefe45504960d9f4fbcdc5ebf1788}
+      \strng{bibnamehash}{ccdfefe45504960d9f4fbcdc5ebf1788}
+      \strng{authorbibnamehash}{ccdfefe45504960d9f4fbcdc5ebf1788}
+      \strng{authornamehash}{ccdfefe45504960d9f4fbcdc5ebf1788}
+      \strng{authorfullhash}{ccdfefe45504960d9f4fbcdc5ebf1788}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{title}{A Survey of recent developments in the literature of finance and growth}
+      \field{volume}{22}
+      \field{year}{2008}
+      \field{pages}{536\bibrangedash 576}
+      \range{pages}{41}
+    \endentry
     \entry{edisonetal2002}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=7f2ce2a98ad7d00a79569399dd6d58d2}{%
@@ -69,6 +98,34 @@
       \field{year}{2002}
       \field{pages}{749\bibrangedash 776}
       \range{pages}{28}
+    \endentry
+    \entry{Tobin1984}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c1d1b55f2b782f914e8e343fb8781ff}{%
+           family={Tobin},
+           familyi={T\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Lloyds Bank Review}%
+      }
+      \strng{namehash}{7c1d1b55f2b782f914e8e343fb8781ff}
+      \strng{fullhash}{7c1d1b55f2b782f914e8e343fb8781ff}
+      \strng{bibnamehash}{7c1d1b55f2b782f914e8e343fb8781ff}
+      \strng{authorbibnamehash}{7c1d1b55f2b782f914e8e343fb8781ff}
+      \strng{authornamehash}{7c1d1b55f2b782f914e8e343fb8781ff}
+      \strng{authorfullhash}{7c1d1b55f2b782f914e8e343fb8781ff}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On the Efficiency of Financial System}
+      \field{year}{1984}
     \endentry
   \enddatalist
 \endrefsection

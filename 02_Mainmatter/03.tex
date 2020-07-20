@@ -47,7 +47,28 @@ For this reason, the saving motives are extended to account more accurately for 
 %\subsection{Wealth inequality measurement}
 Empirical analysis of wealth inequality has received much less attention compared with income. Even though this may seem surprising given the quantitative importance of wealth, it is largely because the measurement of wealth is more complicated than the measurement of income \parencite{zucman2019}.
 
-Private wealth is of utmost importance for individual  decisions regarding investment, especially in an environment with asymmetric information and binding credit constraints. The consequences of the distribution of wealth are important in theories explaining the different speeds of development across countries \parencite{roine2015long}. Researchers sometimes substitute wealth patterns with income distributions, but such replacements are far from perfect given that wealth and income distributions are typically very different \parencite{bagchi2015does}. One of the stylized facts is that the wealth distribution is much more concentrated than the income distribution. Figure \ref{ch3fig:wealthincome_comp_oecd} in the Appendix illustrates this difference for the OECD countries with the most unequally distributed income. We can also observe countries with relatively high income inequality and low wealth inequality, and \textit{vice versa}.
+Private wealth is of utmost importance for individual  decisions regarding investment, especially in an environment with asymmetric information and binding credit constraints. The consequences of the distribution of wealth are important in theories explaining the different speeds of development across countries \parencite{roine2015long}. Researchers sometimes substitute wealth patterns with income distributions, but such replacements are far from perfect given that wealth and income distributions are typically very different \parencite{bagchi2015does}. One of the stylized facts is that the wealth distribution is much more concentrated than the income distribution. Figure \ref{ch3fig:wealthincome_comp} illustrates this difference for some of the \ac{OECD} countries with the most unequally distributed income. The individual subfigures display the difference between Gini indices based on either income or wealth and the concentration of income and wealth among the top 10\% of their holders. We observe countries with relatively high income inequality and low wealth inequality, and \textit{vice versa}.
+
+\begin{figure}[h]
+  \caption{Comparison of wealth and income gini indices and concentration}
+  \label{ch3fig:wealthincome_comp}
+  \centering
+  \begin{subfigure}{0.49\textwidth}
+    \includegraphics[width=0.9\linewidth]{Figures/ch3/wealthincome_comp}
+    \caption{Gini indices}
+    \label{ch3fig:wealthincome_comp_a}
+  \end{subfigure}
+  %
+  \begin{subfigure}{0.49\textwidth}
+    \includegraphics[width=0.9\linewidth]{Figures/ch3/wealthincome_comp_oecd}
+    \caption{Top 10\% shares}
+    \label{ch3fig:wealthincome_comp_b}
+  \end{subfigure}
+  \begin{minipage}{0.9\textwidth}
+    \footnotesize
+    \emph{Note: Gini indices correspond to data in our sample - \ac{CSWD} or \ac{SWIID}. The data for top shares come from \ac{OECD} income and wealth distribution database. Both consider after-tax income and net private wealth.}
+    \end{minipage}
+\end{figure}
 
 The lack of empirical literature regarding wealth inequality is primarily caused by data limitations, although some recent attempts to map both historical and current wealth patterns have emerged. The main sources of wealth data include household surveys, wealth tax returns, estate tax returns, the investment income method (jointly examining capital income and the net rate of return), and the \textit{rich lists} assembled by various journals \parencite{davies2000distribution}. 
 
@@ -1173,7 +1194,7 @@ In addition, our results show that more education and greater income redistribut
     
       Loan2Deposits & Loan-to-deposit ratio. & \href{http://data.worldbank.org/data-catalog/global-financial-development}{GFDD} \\
       
-      Redist & Difference between market (pre-tax) and net (after-tax0 Gini index based on distribution of income  (The Standardized World Income Inequality Database). & \href{http://fsolt.org/swiid/}{Solt (2016)} \\	
+      Redist & Difference between market (pre-tax) and net (after-tax) Gini index based on distribution of income  (The Standardized World Income Inequality Database). & \href{http://fsolt.org/swiid/}{Solt (2016)} \\	
     
       FST & Genetic distance data (distance from the US) & \href{https://sites.tufts.edu/enricospolaore/research/}{\textcite{spolaore2009diffusion}} \\
     

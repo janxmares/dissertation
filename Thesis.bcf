@@ -2972,36 +2972,52 @@
     <bcf:citekey order="99">LevineZervos1998</bcf:citekey>
     <bcf:citekey order="100">Levine2005</bcf:citekey>
     <bcf:citekey order="101">Brunnermeier2004</bcf:citekey>
-    <bcf:citekey order="102">Durlaufetal2008</bcf:citekey>
-    <bcf:citekey order="103">CecchettiKharroubi2012</bcf:citekey>
-    <bcf:citekey order="103">LawSingh2014</bcf:citekey>
-    <bcf:citekey order="104">Rafteryetal1997</bcf:citekey>
-    <bcf:citekey order="105">SalaiMartinetal2004</bcf:citekey>
+    <bcf:citekey order="102">Ang2008</bcf:citekey>
+    <bcf:citekey order="103">cerra2008growth</bcf:citekey>
+    <bcf:citekey order="103">DellAricciaetal2008</bcf:citekey>
+    <bcf:citekey order="104">Ranciereetal2006</bcf:citekey>
     <bcf:citekey order="105">Durlaufetal2008</bcf:citekey>
-    <bcf:citekey order="106">CecchettiKharroubi2012</bcf:citekey>
-    <bcf:citekey order="107">Fernandezetal2001</bcf:citekey>
-    <bcf:citekey order="108">Pagano1993</bcf:citekey>
-    <bcf:citekey order="109">Fernandezetal2001</bcf:citekey>
-    <bcf:citekey order="110">BarroandMartin1992</bcf:citekey>
-    <bcf:citekey order="111">DeLongandSummers1991</bcf:citekey>
-    <bcf:citekey order="112">Barro1996</bcf:citekey>
-    <bcf:citekey order="113">HallJones1996</bcf:citekey>
-    <bcf:citekey order="114">Gallupandsachs1999</bcf:citekey>
-    <bcf:citekey order="115">Acemogluetal2001</bcf:citekey>
-    <bcf:citekey order="116">HaggardTiede2011</bcf:citekey>
-    <bcf:citekey order="117">Barro1996</bcf:citekey>
-    <bcf:citekey order="118">HallJones1996</bcf:citekey>
-    <bcf:citekey order="119">Fernandezetal2001</bcf:citekey>
-    <bcf:citekey order="120">leysteel2007</bcf:citekey>
-    <bcf:citekey order="121">leysteel2007</bcf:citekey>
-    <bcf:citekey order="122">doppelhoferweeks2009</bcf:citekey>
-    <bcf:citekey order="123">leysteel2009b</bcf:citekey>
-    <bcf:citekey order="124">leysteel2007</bcf:citekey>
-    <bcf:citekey order="125">leysteel2007</bcf:citekey>
-    <bcf:citekey order="126">leysteel2007</bcf:citekey>
-    <bcf:citekey order="127">leysteel2007</bcf:citekey>
-    <bcf:citekey order="128">doppelhoferweeks2009</bcf:citekey>
-    <bcf:citekey order="129">doppelhoferweeks2009</bcf:citekey>
+    <bcf:citekey order="106">Durlaufetal2008</bcf:citekey>
+    <bcf:citekey order="107">ReinhartRogoff2008</bcf:citekey>
+    <bcf:citekey order="108">Abiadetal2008</bcf:citekey>
+    <bcf:citekey order="109">ReinhartRogoff2008</bcf:citekey>
+    <bcf:citekey order="110">Guiso2008</bcf:citekey>
+    <bcf:citekey order="111">Ranciereetal2006</bcf:citekey>
+    <bcf:citekey order="112">RajanZingales2003</bcf:citekey>
+    <bcf:citekey order="113">Baltagietal2009</bcf:citekey>
+    <bcf:citekey order="114">Becketal2002</bcf:citekey>
+    <bcf:citekey order="114">Becketal2003</bcf:citekey>
+    <bcf:citekey order="115">deaton2010instruments</bcf:citekey>
+    <bcf:citekey order="116">bazzi2013blunt</bcf:citekey>
+    <bcf:citekey order="117">CecchettiKharroubi2012</bcf:citekey>
+    <bcf:citekey order="117">LawSingh2014</bcf:citekey>
+    <bcf:citekey order="118">Rafteryetal1997</bcf:citekey>
+    <bcf:citekey order="119">SalaiMartinetal2004</bcf:citekey>
+    <bcf:citekey order="119">Durlaufetal2008</bcf:citekey>
+    <bcf:citekey order="120">CecchettiKharroubi2012</bcf:citekey>
+    <bcf:citekey order="121">Fernandezetal2001</bcf:citekey>
+    <bcf:citekey order="122">Pagano1993</bcf:citekey>
+    <bcf:citekey order="123">Fernandezetal2001</bcf:citekey>
+    <bcf:citekey order="124">BarroandMartin1992</bcf:citekey>
+    <bcf:citekey order="125">DeLongandSummers1991</bcf:citekey>
+    <bcf:citekey order="126">Barro1996</bcf:citekey>
+    <bcf:citekey order="127">HallJones1996</bcf:citekey>
+    <bcf:citekey order="128">Gallupandsachs1999</bcf:citekey>
+    <bcf:citekey order="129">Acemogluetal2001</bcf:citekey>
+    <bcf:citekey order="130">HaggardTiede2011</bcf:citekey>
+    <bcf:citekey order="131">Barro1996</bcf:citekey>
+    <bcf:citekey order="132">HallJones1996</bcf:citekey>
+    <bcf:citekey order="133">Fernandezetal2001</bcf:citekey>
+    <bcf:citekey order="134">leysteel2007</bcf:citekey>
+    <bcf:citekey order="135">leysteel2007</bcf:citekey>
+    <bcf:citekey order="136">doppelhoferweeks2009</bcf:citekey>
+    <bcf:citekey order="137">leysteel2009b</bcf:citekey>
+    <bcf:citekey order="138">leysteel2007</bcf:citekey>
+    <bcf:citekey order="139">leysteel2007</bcf:citekey>
+    <bcf:citekey order="140">leysteel2007</bcf:citekey>
+    <bcf:citekey order="141">leysteel2007</bcf:citekey>
+    <bcf:citekey order="142">doppelhoferweeks2009</bcf:citekey>
+    <bcf:citekey order="143">doppelhoferweeks2009</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3254,7 +3270,14 @@
     <bcf:datasource type="file" datatype="bibtex">Styles/literature.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="5">
-    <bcf:citekey order="1">de2017finance</bcf:citekey>
+    <bcf:citekey order="1">svirydzenka2016introducing</bcf:citekey>
+    <bcf:citekey order="2">furceri2019robust</bcf:citekey>
+    <bcf:citekey order="3">Fernandezetal2001</bcf:citekey>
+    <bcf:citekey order="4">SalaiMartin1997</bcf:citekey>
+    <bcf:citekey order="5">deaton2010instruments</bcf:citekey>
+    <bcf:citekey order="6">de2017finance</bcf:citekey>
+    <bcf:citekey order="7">sylwester2003changes</bcf:citekey>
+    <bcf:citekey order="8">furceri2019robust</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -3321,6 +3344,15 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="4"
+                name="apa/global//global/global"
+                type="entry"
+                sortingtemplatename="apa"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+  <bcf:datalist section="5"
                 name="apa/global//global/global"
                 type="entry"
                 sortingtemplatename="apa"

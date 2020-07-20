@@ -1,14 +1,14 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of Tables}{v}{section*.8}%
+\contentsline {chapter}{List of Tables}{vii}{section*.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{List of Figures}{vii}{section*.13}%
+\contentsline {chapter}{List of Figures}{ix}{section*.17}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Acronyms}{viii}{section*.16}%
+\contentsline {chapter}{Acronyms}{x}{section*.20}%
 \defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {1}Summary of the dissertation}{1}{chapter.1}%
 \defcounter {refsection}{1}\relax 
-\contentsline {section}{References}{9}{section*.19}%
+\contentsline {section}{References}{9}{section*.23}%
 \defcounter {refsection}{2}\relax 
 \contentsline {chapter}{\numberline {2}What Type of Finance Matters for Growth? BMA Evidence}{10}{chapter.2}%
 \defcounter {refsection}{2}\relax 
@@ -36,9 +36,9 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {subsection}{\numberline {2.4.6}Priors}{24}{subsection.2.4.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Parameter Priors}{24}{section*.24}%
+\contentsline {subsubsection}{Parameter Priors}{24}{section*.28}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsubsection}{Model Priors}{25}{section*.26}%
+\contentsline {subsubsection}{Model Priors}{25}{section*.30}%
 \defcounter {refsection}{2}\relax 
 \contentsline {subsection}{\numberline {2.4.7}\ac {MCMC} Sampler}{27}{subsection.2.4.7}%
 \defcounter {refsection}{2}\relax 
@@ -48,72 +48,76 @@
 \defcounter {refsection}{2}\relax 
 \contentsline {subsection}{\numberline {2.5.2}New Financial Development Indicators}{32}{subsection.2.5.2}%
 \defcounter {refsection}{2}\relax 
-\contentsline {subsection}{\numberline {2.5.3}Non--linearities in Finance and Growth Nexus}{38}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.3}Addressing endogeneity}{36}{subsection.2.5.3}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {2.6}Conclusions}{40}{section.2.6}%
+\contentsline {subsection}{\numberline {2.5.4}Non--linearities in Finance and Growth Nexus}{42}{subsection.2.5.4}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{References}{46}{section*.38}%
+\contentsline {section}{\numberline {2.6}Conclusions}{44}{section.2.6}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {2.A}Description of the Dataset}{47}{section.1.2.A}%
+\contentsline {section}{References}{51}{section*.43}%
 \defcounter {refsection}{2}\relax 
-\contentsline {section}{\numberline {2.B}Jointness of financial indicators}{49}{section.1.2.B}%
+\contentsline {section}{\numberline {2.A}Description of the Dataset}{52}{section.1.2.A}%
+\defcounter {refsection}{2}\relax 
+\contentsline {section}{\numberline {2.B}Jointness of financial indicators}{54}{section.1.2.B}%
 \defcounter {refsection}{3}\relax 
-\contentsline {chapter}{\numberline {3}Finance and Wealth Inequality}{52}{appendix.3}%
+\contentsline {chapter}{\numberline {3}Finance and Wealth Inequality}{58}{appendix.3}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.1}Introduction}{53}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Introduction}{59}{section.3.1}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.2}Related literature}{55}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Related literature}{61}{section.3.2}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.3}Data}{57}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Data}{64}{section.3.3}%
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{\numberline {3.3.1}\ac {CSWD}}{60}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.1}\ac {CSWD}}{67}{subsection.3.3.1}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.4}Bayesian Model Averaging}{62}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Bayesian Model Averaging}{68}{section.3.4}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.5}Results}{66}{section.3.5}%
+\contentsline {section}{\numberline {3.5}Results}{72}{section.3.5}%
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{\numberline {3.5.1}Baseline estimation}{66}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.1}Baseline estimation}{72}{subsection.3.5.1}%
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{\numberline {3.5.2}High vs. low-income countries}{72}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.2}High vs. low-income countries}{79}{subsection.3.5.2}%
 \defcounter {refsection}{3}\relax 
-\contentsline {subsection}{\numberline {3.5.3}Endogeneity issues}{74}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.3}Endogeneity issues}{81}{subsection.3.5.3}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.6}Concluding Remarks}{76}{section.3.6}%
+\contentsline {section}{\numberline {3.6}Concluding Remarks}{83}{section.3.6}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{References}{84}{section*.71}%
+\contentsline {section}{References}{91}{section*.79}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.A}Additional results and robustness checks}{85}{section.2.3.A}%
+\contentsline {section}{\numberline {3.A}Additional results and robustness checks}{92}{section.2.3.A}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.B}Data description}{91}{section.2.3.B}%
+\contentsline {section}{\numberline {3.B}Data description}{98}{section.2.3.B}%
 \defcounter {refsection}{3}\relax 
-\contentsline {section}{\numberline {3.C}Full detail on the BMA}{97}{section.2.3.C}%
+\contentsline {section}{\numberline {3.C}Full detail on the BMA}{104}{section.2.3.C}%
 \defcounter {refsection}{4}\relax 
-\contentsline {chapter}{\numberline {4}Finance and Inequality - panel BMA approach}{102}{appendix.4}%
+\contentsline {chapter}{\numberline {4}Finance and Inequality - panel BMA approach}{109}{appendix.4}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.1}Introduction}{103}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Introduction}{110}{section.4.1}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.2}Data and methodology}{106}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Data and methodology}{113}{section.4.2}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.3}Results}{109}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Results}{116}{section.4.3}%
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Gini index of income distribution}{109}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.1}Gini index of income distribution}{116}{subsection.4.3.1}%
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Top income shares}{114}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}Top income shares}{121}{subsection.4.3.2}%
 \defcounter {refsection}{4}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Robustness checks}{117}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.3}Robustness checks}{124}{subsection.4.3.3}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.4}Conclusions}{120}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Conclusions}{127}{section.4.4}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{References}{125}{section*.109}%
+\contentsline {section}{References}{132}{section*.116}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.A}The composition of financial indicators}{126}{section.3.4.A}%
+\contentsline {section}{\numberline {4.A}The composition of financial indicators}{133}{section.3.4.A}%
 \defcounter {refsection}{4}\relax 
-\contentsline {section}{\numberline {4.B}Dataset description}{127}{section.3.4.B}%
+\contentsline {section}{\numberline {4.B}Dataset description}{134}{section.3.4.B}%
 \defcounter {refsection}{5}\relax 
 \contentsline {chapter}{\numberline {A}Response to the referees}{I}{appendix.A}%
 \defcounter {refsection}{5}\relax 
 \contentsline {section}{\numberline {A.1}Doc. PhDr. Adam Ger\v {s}l Ph.D.}{I}{section.A.1}%
 \defcounter {refsection}{5}\relax 
-\contentsline {section}{\numberline {A.2}Prof. Dr. Ansgar H. Belke}{V}{section.A.2}%
+\contentsline {section}{\numberline {A.2}Prof. Dr. Ansgar H. Belke}{IX}{section.A.2}%
 \defcounter {refsection}{5}\relax 
-\contentsline {section}{\numberline {A.3}Martin \v {C}ih\'{a}k Ph.D.}{VI}{section.A.3}%
+\contentsline {section}{\numberline {A.3}Martin \v {C}ih\'{a}k Ph.D.}{XII}{section.A.3}%
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{References}{XVIII}{section*.126}%
