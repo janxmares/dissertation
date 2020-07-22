@@ -3190,4 +3190,99 @@ abstract = "This paper examines the role of financial development on U.S. state-
   publisher = {Taylor \& Francis},
 }
 
+@Article{kumhof2015inequality,
+  author  = {Kumhof, Michael and Ranci{\`e}re, Romain and Winant, Pablo},
+  journal = {American Economic Review},
+  title   = {Inequality, leverage, and crises},
+  year    = {2015},
+  number  = {3},
+  pages   = {1217--45},
+  volume  = {105},
+}
+
+@Article{bazillier2017circular,
+  author    = {Bazillier, R{\'e}mi and Hericourt, J{\'e}r{\^o}me},
+  journal   = {Journal of Economic Surveys},
+  title     = {The circular relationship between inequality, leverage, and financial crises},
+  year      = {2017},
+  number    = {2},
+  pages     = {463--496},
+  volume    = {31},
+  publisher = {Wiley Online Library},
+}
+
+@Article{mookerjee2010availability,
+  author    = {Mookerjee, Rajen and Kalipioni, Paul},
+  journal   = {Emerging Markets Review},
+  title     = {Availability of financial services and income inequality: The evidence from many countries},
+  year      = {2010},
+  number    = {4},
+  pages     = {404--408},
+  volume    = {11},
+  publisher = {Elsevier},
+}
+
+@Article{goda2017income,
+  author    = {Goda, Thomas and Onaran, {\"O}zlem and Stockhammer, Engelbert},
+  journal   = {Development and Change},
+  title     = {Income inequality and wealth concentration in the recent crisis},
+  year      = {2017},
+  number    = {1},
+  pages     = {3--27},
+  volume    = {48},
+  publisher = {Wiley Online Library},
+}
+
+@Article{braun2005finance,
+  author    = {Braun, Matias and Larrain, Borja},
+  journal   = {The Journal of Finance},
+  title     = {Finance and the business cycle: international, inter-industry evidence},
+  year      = {2005},
+  number    = {3},
+  pages     = {1097--1128},
+  volume    = {60},
+  publisher = {Wiley Online Library},
+}
+
+@Article{cici2018trading,
+  author    = {Cici, Gjergji and Dahm, Laura K and Kempf, Alexander},
+  journal   = {Journal of Banking \& Finance},
+  title     = {Trading efficiency of fund families: Impact on fund performance and investment behavior},
+  year      = {2018},
+  pages     = {1--14},
+  volume    = {88},
+  publisher = {Elsevier},
+}
+
+@Article{bonin2005privatization,
+  author    = {Bonin, John P and Hasan, Iftekhar and Wachtel, Paul},
+  journal   = {Journal of Banking \& Finance},
+  title     = {Privatization matters: Bank efficiency in transition countries},
+  year      = {2005},
+  number    = {8-9},
+  pages     = {2155--2178},
+  volume    = {29},
+  publisher = {Elsevier},
+}
+
+@InProceedings{auten2019top,
+  author    = {Auten, Gerald and Splinter, David},
+  booktitle = {AEA Papers and Proceedings},
+  title     = {Top 1 Percent Income Shares: Comparing Estimates Using Tax Data},
+  year      = {2019},
+  pages     = {307--11},
+  volume    = {109},
+}
+
+@Article{piketty2003income,
+  author    = {Piketty, Thomas and Saez, Emmanuel},
+  journal   = {The Quarterly journal of economics},
+  title     = {Income inequality in the United States, 1913--1998},
+  year      = {2003},
+  number    = {1},
+  pages     = {1--41},
+  volume    = {118},
+  publisher = {MIT Press},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

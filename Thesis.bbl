@@ -19,6 +19,48 @@
 
 \refsection{1}
   \datalist[entry]{apa/global//global/global}
+    \entry{alstadsaeter2019tax}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f6e6a9f070461f3d61fd33f3602e111b}{%
+           family={Alstads{\ae{}}ter},
+           familyi={A\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f54fef7e0eff1aaacf622d7ad3d397cb}{%
+           family={Johannesen},
+           familyi={J\bibinitperiod},
+           given={Niels},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b966b131eabccf3c6ecbdb6fe527f0c}{%
+           family={Zucman},
+           familyi={Z\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a7b184250850b36a71da4480207d449e}
+      \strng{fullhash}{2c8517e8b18a79d7a27211aea25bebff}
+      \strng{bibnamehash}{2c8517e8b18a79d7a27211aea25bebff}
+      \strng{authorbibnamehash}{2c8517e8b18a79d7a27211aea25bebff}
+      \strng{authornamehash}{a7b184250850b36a71da4480207d449e}
+      \strng{authorfullhash}{2c8517e8b18a79d7a27211aea25bebff}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{6}
+      \field{title}{Tax evasion and inequality}
+      \field{volume}{109}
+      \field{year}{2019}
+      \field{pages}{2073\bibrangedash 2103}
+      \range{pages}{31}
+    \endentry
     \entry{Arcandetal2012}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1db40a40ab5b0673f8ddc07ff8afe9a3}{%
@@ -95,6 +137,41 @@
       \field{year}{1993}
       \field{pages}{632\bibrangedash 640}
       \range{pages}{9}
+    \endentry
+    \entry{auten2019top}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=be23e5482716b4afaeddacd3830eae68}{%
+           family={Auten},
+           familyi={A\bibinitperiod},
+           given={Gerald},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fd86c70de0cae060dd22ccc84ba3408}{%
+           family={Splinter},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67a547891ac9159180b2bcfea8de7b53}
+      \strng{fullhash}{67a547891ac9159180b2bcfea8de7b53}
+      \strng{bibnamehash}{67a547891ac9159180b2bcfea8de7b53}
+      \strng{authorbibnamehash}{67a547891ac9159180b2bcfea8de7b53}
+      \strng{authornamehash}{67a547891ac9159180b2bcfea8de7b53}
+      \strng{authorfullhash}{67a547891ac9159180b2bcfea8de7b53}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AEA Papers and Proceedings}
+      \field{title}{Top 1 Percent Income Shares: Comparing Estimates Using Tax Data}
+      \field{volume}{109}
+      \field{year}{2019}
+      \field{pages}{307\bibrangedash 11}
+      \range{pages}{5}
     \endentry
     \entry{axelson2015wall}{article}{}
       \name{author}{2}{}{%
@@ -295,6 +372,51 @@
       \field{pages}{709\bibrangedash 736}
       \range{pages}{28}
     \endentry
+    \entry{bonin2005privatization}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4304468b744d6f11d2fb05bfb6b5c5b7}{%
+           family={Bonin},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de767a71dfc159d3b7a059b0b540b05f}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Iftekhar},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74dbcb70676d5887a78a21f40375a852}{%
+           family={Wachtel},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1d0ba8c92df8ecc6ffbb0faacd187494}
+      \strng{fullhash}{3a0d29b7854662361ac29dc4a599cb63}
+      \strng{bibnamehash}{3a0d29b7854662361ac29dc4a599cb63}
+      \strng{authorbibnamehash}{3a0d29b7854662361ac29dc4a599cb63}
+      \strng{authornamehash}{1d0ba8c92df8ecc6ffbb0faacd187494}
+      \strng{authorfullhash}{3a0d29b7854662361ac29dc4a599cb63}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Banking \& Finance}
+      \field{number}{8-9}
+      \field{title}{Privatization matters: Bank efficiency in transition countries}
+      \field{volume}{29}
+      \field{year}{2005}
+      \field{pages}{2155\bibrangedash 2178}
+      \range{pages}{24}
+    \endentry
     \entry{braunetal2019}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e3ea78cb50f250a6818faa86db26027a}{%
@@ -336,6 +458,98 @@
       \field{year}{2019}
       \field{pages}{410\bibrangedash 428}
       \range{pages}{19}
+    \endentry
+    \entry{cici2018trading}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1c0ba7b7e8df1102d39bffb3d60b0e8e}{%
+           family={Cici},
+           familyi={C\bibinitperiod},
+           given={Gjergji},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=173bf9bfa8adb9cc44b8220b9cd6cd62}{%
+           family={Dahm},
+           familyi={D\bibinitperiod},
+           given={Laura\bibnamedelima K},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d384b9abd9be778cac1e35ac1b0a4da2}{%
+           family={Kempf},
+           familyi={K\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{873d679211f8c138de6c65899109e27b}
+      \strng{fullhash}{a04b44a427bd3d359061ee35757a201a}
+      \strng{bibnamehash}{a04b44a427bd3d359061ee35757a201a}
+      \strng{authorbibnamehash}{a04b44a427bd3d359061ee35757a201a}
+      \strng{authornamehash}{873d679211f8c138de6c65899109e27b}
+      \strng{authorfullhash}{a04b44a427bd3d359061ee35757a201a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Banking \& Finance}
+      \field{title}{Trading efficiency of fund families: Impact on fund performance and investment behavior}
+      \field{volume}{88}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+    \endentry
+    \entry{Cihaketal2013}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c80081a9aa784cb52994f76d7828f7c5}{%
+           family={Èih{á}k},
+           familyi={È\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
+           family={Demirg{ü}{ç}-Kunt},
+           familyi={D\bibinithyphendelim K\bibinitperiod},
+           given={Asli},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5821711474f5eab11db93f9859f80226}{%
+           family={Feyen},
+           familyi={F\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c1cd77b28a968c78efc1362f3c7dd21}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{dc7bc92a3b07926af9793105b94cca24}
+      \strng{fullhash}{d08629e33946e02eea3bdb306fbdb314}
+      \strng{bibnamehash}{d08629e33946e02eea3bdb306fbdb314}
+      \strng{authorbibnamehash}{d08629e33946e02eea3bdb306fbdb314}
+      \strng{authornamehash}{dc7bc92a3b07926af9793105b94cca24}
+      \strng{authorfullhash}{d08629e33946e02eea3bdb306fbdb314}
+      \field{sortinit}{È}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{18946}
+      \field{title}{Financial Development in 205 Economies, 1960 to 2010}
+      \field{type}{Working Paper}
+      \field{year}{2013}
     \endentry
     \entry{dabla2015causes}{report}{}
       \name{author}{5}{}{%
@@ -433,45 +647,6 @@
       \field{pages}{731\bibrangedash 759}
       \range{pages}{29}
       \keyw{I31,O16,wealth,assets,debt,inequality,distribution,global,world}
-    \endentry
-    \entry{demirgucc2009finance}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
-           familyi={D\bibinithyphendelim K\bibinitperiod},
-           given={Asli},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4c1cd77b28a968c78efc1362f3c7dd21}{%
-           family={Levine},
-           familyi={L\bibinitperiod},
-           given={Ross},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Annual Reviews}%
-      }
-      \strng{namehash}{3eb4c833ed072ee5878c7620921e3c00}
-      \strng{fullhash}{3eb4c833ed072ee5878c7620921e3c00}
-      \strng{bibnamehash}{3eb4c833ed072ee5878c7620921e3c00}
-      \strng{authorbibnamehash}{3eb4c833ed072ee5878c7620921e3c00}
-      \strng{authornamehash}{3eb4c833ed072ee5878c7620921e3c00}
-      \strng{authorfullhash}{3eb4c833ed072ee5878c7620921e3c00}
-      \field{sortinit}{D}
-      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Annual Review of Financial Economics}
-      \field{number}{1}
-      \field{title}{Finance and inequality: Theory and evidence}
-      \field{volume}{1}
-      \field{year}{2009}
-      \field{pages}{287\bibrangedash 318}
-      \range{pages}{32}
     \endentry
     \entry{evans1989estimated}{article}{}
       \name{author}{2}{}{%
@@ -702,6 +877,45 @@
       \field{year}{2013}
       \field{pages}{271\bibrangedash 309}
       \range{pages}{39}
+    \endentry
+    \entry{johns2010distribution}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5eaca5d2356f7a035d99de2a50c98925}{%
+           family={Johns},
+           familyi={J\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58ceb1e79ab6ce8aa41d6cfc2aef11f5}{%
+           family={Slemrod},
+           familyi={S\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Tax Association}%
+      }
+      \strng{namehash}{b16f1a5812d2eb332b3b02d08f433823}
+      \strng{fullhash}{b16f1a5812d2eb332b3b02d08f433823}
+      \strng{bibnamehash}{b16f1a5812d2eb332b3b02d08f433823}
+      \strng{authorbibnamehash}{b16f1a5812d2eb332b3b02d08f433823}
+      \strng{authornamehash}{b16f1a5812d2eb332b3b02d08f433823}
+      \strng{authorfullhash}{b16f1a5812d2eb332b3b02d08f433823}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{National Tax Journal}
+      \field{number}{3}
+      \field{title}{The distribution of income tax noncompliance}
+      \field{volume}{63}
+      \field{year}{2010}
+      \field{pages}{397}
+      \range{pages}{1}
     \endentry
     \entry{king2017literature}{article}{}
       \name{author}{1}{}{%
@@ -1172,11 +1386,48 @@
       \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Capital in the twenty-first century}
       \field{year}{2014}
+    \endentry
+    \entry{piketty2003income}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=125a3a980ec7ff459f2e77e8e82118b6}{%
+           family={Piketty},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f040f5aac2c176810fed8b44b9c401a4}{%
+           family={Saez},
+           familyi={S\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{6206db697a44ca8d7ed22ecd633660bd}
+      \strng{fullhash}{6206db697a44ca8d7ed22ecd633660bd}
+      \strng{bibnamehash}{6206db697a44ca8d7ed22ecd633660bd}
+      \strng{authorbibnamehash}{6206db697a44ca8d7ed22ecd633660bd}
+      \strng{authornamehash}{6206db697a44ca8d7ed22ecd633660bd}
+      \strng{authorfullhash}{6206db697a44ca8d7ed22ecd633660bd}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly journal of economics}
+      \field{number}{1}
+      \field{title}{Income inequality in the United States, 1913--1998}
+      \field{volume}{118}
+      \field{year}{2003}
+      \field{pages}{1\bibrangedash 41}
+      \range{pages}{41}
     \endentry
     \entry{Rafteryetal1997}{article}{}
       \name{author}{3}{}{%
@@ -1358,6 +1609,36 @@
       \field{year}{2000}
       \field{pages}{1075\bibrangedash 1086}
       \range{pages}{12}
+    \endentry
+    \entry{svirydzenka2016introducing}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd9fef68841b577b313995b992f78f84}{%
+           family={Svirydzenka},
+           familyi={S\bibinitperiod},
+           given={Katsiaryna},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Monetary Fund}%
+      }
+      \strng{namehash}{bd9fef68841b577b313995b992f78f84}
+      \strng{fullhash}{bd9fef68841b577b313995b992f78f84}
+      \strng{bibnamehash}{bd9fef68841b577b313995b992f78f84}
+      \strng{authorbibnamehash}{bd9fef68841b577b313995b992f78f84}
+      \strng{authornamehash}{bd9fef68841b577b313995b992f78f84}
+      \strng{authorfullhash}{bd9fef68841b577b313995b992f78f84}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{16/5}
+      \field{title}{Introducing a new broad-based index of financial development}
+      \field{type}{Working Paper}
+      \field{year}{2016}
     \endentry
     \entry{Tobin1984}{book}{}
       \name{author}{1}{}{%
@@ -4638,6 +4919,45 @@
       \field{pages}{505\bibrangedash 530}
       \range{pages}{26}
     \endentry
+    \entry{bazillier2017circular}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c69cec09c81141f50b5090b81b140cf8}{%
+           family={Bazillier},
+           familyi={B\bibinitperiod},
+           given={R{é}mi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abe67be924e9d633ccb1e32b00b52e68}{%
+           family={Hericourt},
+           familyi={H\bibinitperiod},
+           given={J{é}r{ô}me},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{fullhash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{bibnamehash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{authorbibnamehash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{authornamehash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{authorfullhash}{aa1b68e518775e7393bb34ab569cce18}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{number}{2}
+      \field{title}{The circular relationship between inequality, leverage, and financial crises}
+      \field{volume}{31}
+      \field{year}{2017}
+      \field{pages}{463\bibrangedash 496}
+      \range{pages}{34}
+    \endentry
     \entry{beck2007finance}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=62f5c3ee30c3de954fc7b28fd19696ca}{%
@@ -6489,6 +6809,48 @@
       \field{type}{Discussion Paper}
       \field{year}{2017}
     \endentry
+    \entry{kumhof2015inequality}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=769438d33d81f66dd1945d2d64508a7f}{%
+           family={Kumhof},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfe250c33a77c5be89f2819d0be0d11b}{%
+           family={Ranci{\`{e}}re},
+           familyi={R\bibinitperiod},
+           given={Romain},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfec7cab53c92cced9b2f0133a5c2866}{%
+           family={Winant},
+           familyi={W\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ec3cbf37b1aa689b5ecdf9855bba73b6}
+      \strng{fullhash}{0890e3451f75a0fb99388f8c6c43be08}
+      \strng{bibnamehash}{0890e3451f75a0fb99388f8c6c43be08}
+      \strng{authorbibnamehash}{0890e3451f75a0fb99388f8c6c43be08}
+      \strng{authornamehash}{ec3cbf37b1aa689b5ecdf9855bba73b6}
+      \strng{authorfullhash}{0890e3451f75a0fb99388f8c6c43be08}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{3}
+      \field{title}{Inequality, leverage, and crises}
+      \field{volume}{105}
+      \field{year}{2015}
+      \field{pages}{1217\bibrangedash 45}
+      \range{pages}{29}
+    \endentry
     \entry{LawSingh2014}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ce409d4ca0d09443693d70899c82c214}{%
@@ -6832,6 +7194,42 @@
       \field{year}{2016}
       \field{pages}{1\bibrangedash 20}
       \range{pages}{20}
+    \endentry
+    \entry{perotti2007investor}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18e6389d41b9730a003dc48b650718af}{%
+           family={Perotti},
+           familyi={P\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efabcf19387b53eae2db873b85ca061c}{%
+           family={Volpin},
+           familyi={V\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Tinbergen Institute}%
+      }
+      \strng{namehash}{146d5f764ca07770eb5f9c83e219c0f8}
+      \strng{fullhash}{146d5f764ca07770eb5f9c83e219c0f8}
+      \strng{bibnamehash}{146d5f764ca07770eb5f9c83e219c0f8}
+      \strng{authorbibnamehash}{146d5f764ca07770eb5f9c83e219c0f8}
+      \strng{authornamehash}{146d5f764ca07770eb5f9c83e219c0f8}
+      \strng{authorfullhash}{146d5f764ca07770eb5f9c83e219c0f8}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{07--006/2}
+      \field{title}{Investor protection and entry}
+      \field{type}{Discussion Paper}
+      \field{year}{2007}
     \endentry
     \entry{piketty2014}{book}{}
       \name{author}{1}{}{%
@@ -7191,6 +7589,45 @@
       \field{title}{Introducing a new broad-based index of financial development}
       \field{type}{Working Paper}
       \field{year}{2016}
+    \endentry
+    \entry{milanovicvan2018inequality}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7bde172e89f9f02efbeec8fff278ce8d}{%
+           family={Van\bibnamedelimb der\bibnamedelima Weide},
+           familyi={V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Roy},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7b0b8fe9eb7824e4c743ba7c743db00}{%
+           family={Milanovic},
+           familyi={M\bibinitperiod},
+           given={Branko},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{74f9af0f6b8f0707ca72fab6a4f409bf}
+      \strng{fullhash}{74f9af0f6b8f0707ca72fab6a4f409bf}
+      \strng{bibnamehash}{74f9af0f6b8f0707ca72fab6a4f409bf}
+      \strng{authorbibnamehash}{74f9af0f6b8f0707ca72fab6a4f409bf}
+      \strng{authornamehash}{74f9af0f6b8f0707ca72fab6a4f409bf}
+      \strng{authorfullhash}{74f9af0f6b8f0707ca72fab6a4f409bf}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The World Bank Economic Review}
+      \field{number}{3}
+      \field{title}{Inequality is bad for growth of the poor (but not for that of the rich)}
+      \field{volume}{32}
+      \field{year}{2018}
+      \field{pages}{507\bibrangedash 530}
+      \range{pages}{24}
     \endentry
     \entry{wright}{article}{}
       \name{author}{1}{}{%
@@ -9169,6 +9606,120 @@
 
 \refsection{5}
   \datalist[entry]{apa/global//global/global}
+    \entry{bazillier2017circular}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c69cec09c81141f50b5090b81b140cf8}{%
+           family={Bazillier},
+           familyi={B\bibinitperiod},
+           given={R{é}mi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abe67be924e9d633ccb1e32b00b52e68}{%
+           family={Hericourt},
+           familyi={H\bibinitperiod},
+           given={J{é}r{ô}me},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{fullhash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{bibnamehash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{authorbibnamehash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{authornamehash}{aa1b68e518775e7393bb34ab569cce18}
+      \strng{authorfullhash}{aa1b68e518775e7393bb34ab569cce18}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Surveys}
+      \field{number}{2}
+      \field{title}{The circular relationship between inequality, leverage, and financial crises}
+      \field{volume}{31}
+      \field{year}{2017}
+      \field{pages}{463\bibrangedash 496}
+      \range{pages}{34}
+    \endentry
+    \entry{braun2005finance}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=79702decc33bd1b744f98626730ab584}{%
+           family={Braun},
+           familyi={B\bibinitperiod},
+           given={Matias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb7a08c91d05014f30a39c5d33e75bb5}{%
+           family={Larrain},
+           familyi={L\bibinitperiod},
+           given={Borja},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{ea520348bf5291afc8638d07df2806b9}
+      \strng{fullhash}{ea520348bf5291afc8638d07df2806b9}
+      \strng{bibnamehash}{ea520348bf5291afc8638d07df2806b9}
+      \strng{authorbibnamehash}{ea520348bf5291afc8638d07df2806b9}
+      \strng{authornamehash}{ea520348bf5291afc8638d07df2806b9}
+      \strng{authorfullhash}{ea520348bf5291afc8638d07df2806b9}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Finance}
+      \field{number}{3}
+      \field{title}{Finance and the business cycle: international, inter-industry evidence}
+      \field{volume}{60}
+      \field{year}{2005}
+      \field{pages}{1097\bibrangedash 1128}
+      \range{pages}{32}
+    \endentry
+    \entry{cihaksahay2020}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c80081a9aa784cb52994f76d7828f7c5}{%
+           family={Èih{á}k},
+           familyi={È\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=188c1fb35d5feb4ea5114b2a6494af4d}{%
+           family={Sahay},
+           familyi={S\bibinitperiod},
+           given={Ratna},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Monetary Fund}%
+      }
+      \strng{namehash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{fullhash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{bibnamehash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{authorbibnamehash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{authornamehash}{154c8a3675faf813ae79306e60ee6ae0}
+      \strng{authorfullhash}{154c8a3675faf813ae79306e60ee6ae0}
+      \field{sortinit}{È}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{20/01}
+      \field{title}{Finance and Inequality}
+      \field{type}{Staff Discussion Note}
+      \field{year}{2020}
+    \endentry
     \entry{deaton2010instruments}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=49e860b4f71d798fa4f5cf1c90103fc4}{%
@@ -9235,6 +9786,50 @@
       \field{year}{2017}
       \field{pages}{171\bibrangedash 195}
       \range{pages}{25}
+    \endentry
+    \entry{DellAricciaetal2008}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8007347a40bb51a7f747e70014939f47}{%
+           family={Dell'Ariccia},
+           familyi={D\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f648e146ad5b5b8540112b66a4c7ee58}{%
+           family={Detragiache},
+           familyi={D\bibinitperiod},
+           given={Enrica},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c82f0a55d854288c1191278603d8887}{%
+           family={Rajan},
+           familyi={R\bibinitperiod},
+           given={Raghuram},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aab2a51dd2b50e7584a6eeedfe0c4ec4}
+      \strng{fullhash}{bd7fbf045d28660fbfc0778a0736d004}
+      \strng{bibnamehash}{bd7fbf045d28660fbfc0778a0736d004}
+      \strng{authorbibnamehash}{bd7fbf045d28660fbfc0778a0736d004}
+      \strng{authornamehash}{aab2a51dd2b50e7584a6eeedfe0c4ec4}
+      \strng{authorfullhash}{bd7fbf045d28660fbfc0778a0736d004}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Financial Intermediation}
+      \field{note}{Financial Contracting and Financial System Architecture}
+      \field{number}{1}
+      \field{title}{The real effect of banking crises}
+      \field{volume}{17}
+      \field{year}{2008}
+      \field{pages}{89\bibrangedash 112}
+      \range{pages}{24}
+      \keyw{Banking crises}
     \endentry
     \entry{Fernandezetal2001}{article}{}
       \name{author}{3}{}{%
@@ -9316,6 +9911,132 @@
       \field{year}{2019}
       \field{pages}{490\bibrangedash 517}
       \range{pages}{28}
+    \endentry
+    \entry{goda2017income}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6ef72e97f5d1e380e452e27e9c56651e}{%
+           family={Goda},
+           familyi={G\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dea929fe39d85383022397669087307}{%
+           family={Onaran},
+           familyi={O\bibinitperiod},
+           given={{Ö}zlem},
+           giveni={Ö\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a9dcd2d346549adb569eca71d4f9403}{%
+           family={Stockhammer},
+           familyi={S\bibinitperiod},
+           given={Engelbert},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{b498aa5a1ff2ac3fc6d1d56cff4a1de7}
+      \strng{fullhash}{9f1cbe79cd761e5abb5d3a1c1d77dc59}
+      \strng{bibnamehash}{9f1cbe79cd761e5abb5d3a1c1d77dc59}
+      \strng{authorbibnamehash}{9f1cbe79cd761e5abb5d3a1c1d77dc59}
+      \strng{authornamehash}{b498aa5a1ff2ac3fc6d1d56cff4a1de7}
+      \strng{authorfullhash}{9f1cbe79cd761e5abb5d3a1c1d77dc59}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Development and Change}
+      \field{number}{1}
+      \field{title}{Income inequality and wealth concentration in the recent crisis}
+      \field{volume}{48}
+      \field{year}{2017}
+      \field{pages}{3\bibrangedash 27}
+      \range{pages}{25}
+    \endentry
+    \entry{kumhof2015inequality}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=769438d33d81f66dd1945d2d64508a7f}{%
+           family={Kumhof},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfe250c33a77c5be89f2819d0be0d11b}{%
+           family={Ranci{\`{e}}re},
+           familyi={R\bibinitperiod},
+           given={Romain},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfec7cab53c92cced9b2f0133a5c2866}{%
+           family={Winant},
+           familyi={W\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ec3cbf37b1aa689b5ecdf9855bba73b6}
+      \strng{fullhash}{0890e3451f75a0fb99388f8c6c43be08}
+      \strng{bibnamehash}{0890e3451f75a0fb99388f8c6c43be08}
+      \strng{authorbibnamehash}{0890e3451f75a0fb99388f8c6c43be08}
+      \strng{authornamehash}{ec3cbf37b1aa689b5ecdf9855bba73b6}
+      \strng{authorfullhash}{0890e3451f75a0fb99388f8c6c43be08}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{3}
+      \field{title}{Inequality, leverage, and crises}
+      \field{volume}{105}
+      \field{year}{2015}
+      \field{pages}{1217\bibrangedash 45}
+      \range{pages}{29}
+    \endentry
+    \entry{mookerjee2010availability}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2f5dd3c870bad064be96885f9b26dfd8}{%
+           family={Mookerjee},
+           familyi={M\bibinitperiod},
+           given={Rajen},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96cbfb541a722c632a0068eb8e2786ab}{%
+           family={Kalipioni},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a565fa1281e9911b2119f2bf507d1aa0}
+      \strng{fullhash}{a565fa1281e9911b2119f2bf507d1aa0}
+      \strng{bibnamehash}{a565fa1281e9911b2119f2bf507d1aa0}
+      \strng{authorbibnamehash}{a565fa1281e9911b2119f2bf507d1aa0}
+      \strng{authornamehash}{a565fa1281e9911b2119f2bf507d1aa0}
+      \strng{authorfullhash}{a565fa1281e9911b2119f2bf507d1aa0}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Emerging Markets Review}
+      \field{number}{4}
+      \field{title}{Availability of financial services and income inequality: The evidence from many countries}
+      \field{volume}{11}
+      \field{year}{2010}
+      \field{pages}{404\bibrangedash 408}
+      \range{pages}{5}
     \endentry
     \entry{SalaiMartin1997}{article}{}
       \name{author}{1}{}{%
