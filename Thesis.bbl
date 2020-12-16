@@ -506,13 +506,13 @@
     \entry{Cihaketal2013}{report}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c80081a9aa784cb52994f76d7828f7c5}{%
-           family={Èih{á}k},
+           family={Èihák},
            familyi={È\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
+           family={Demirgüç-Kunt},
            familyi={D\bibinithyphendelim K\bibinitperiod},
            given={Asli},
            giveni={A\bibinitperiod},
@@ -951,11 +951,11 @@
     \endentry
     \entry{KingLevine1993a}{article}{}
       \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=e068047c81ba350319902fe3f06656cf}{%
+        {{un=1,uniquepart=given,hash=102836d79c5163d4c0ff79518bd33d34}{%
            family={King},
            familyi={K\bibinitperiod},
-           given={Robert\bibnamedelima G.},
-           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
            givenun=1}}%
         {{un=0,uniquepart=base,hash=4c1cd77b28a968c78efc1362f3c7dd21}{%
            family={Levine},
@@ -964,12 +964,12 @@
            giveni={R\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{fullhash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{bibnamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{authorbibnamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{authornamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{authorfullhash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{namehash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{fullhash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{bibnamehash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{authorbibnamehash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{authornamehash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{authorfullhash}{3191ecf756708aecd3a6cfecfb80df0f}
       \field{sortinit}{K}
       \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{extradatescope}{labelyear}
@@ -1290,9 +1290,9 @@
     \entry{pastor2016income}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=0ad5520ea34291d4f0b14d4297932384}{%
-           family={P{á}stor},
+           family={Pástor},
            familyi={P\bibinitperiod},
-           given={Lubo{š}},
+           given={Luboš},
            giveni={L\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=fe1ab971d5c8e3b83f7b36b6511a6186}{%
@@ -1386,6 +1386,7 @@
       \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Capital in the twenty-first century}
@@ -1419,6 +1420,7 @@
       \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Quarterly journal of economics}
@@ -1852,6 +1854,7 @@
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Economic Surveys}
@@ -1881,6 +1884,7 @@
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Banking \& Finance}
@@ -1917,6 +1921,7 @@
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Banking \& Finance}
@@ -2068,6 +2073,7 @@
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Determinants of Economic Growth: A Cross-Country Empirical Study}
@@ -2099,6 +2105,7 @@
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Political Economy}
@@ -2154,7 +2161,7 @@
            giveni={T\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
+           family={Demirgüç-Kunt},
            familyi={D\bibinithyphendelim K\bibinitperiod},
            given={Asli},
            giveni={A\bibinitperiod},
@@ -2178,6 +2185,7 @@
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Comparative Economics}
@@ -2197,7 +2205,7 @@
            giveni={T\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
+           family={Demirgüç-Kunt},
            familyi={D\bibinithyphendelim K\bibinitperiod},
            given={Asli},
            giveni={A\bibinitperiod},
@@ -2221,6 +2229,7 @@
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Financial Economics}
@@ -2240,7 +2249,7 @@
            giveni={T\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
+           family={Demirgüç-Kunt},
            familyi={D\bibinithyphendelim K\bibinitperiod},
            given={Asli},
            giveni={A\bibinitperiod},
@@ -2263,6 +2272,7 @@
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Journal of Finance}
@@ -2310,6 +2320,7 @@
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The B.E. Journal of Macroeconomics}
@@ -2470,6 +2481,7 @@
       \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{381}
@@ -2506,6 +2518,7 @@
       \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Why Does Financial Sector Growth Crowd out Real Economic Growth?}
@@ -2689,13 +2702,13 @@
     \entry{Cihaketal2013}{report}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c80081a9aa784cb52994f76d7828f7c5}{%
-           family={Èih{á}k},
+           family={Èihák},
            familyi={È\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
+           family={Demirgüç-Kunt},
            familyi={D\bibinithyphendelim K\bibinitperiod},
            given={Asli},
            giveni={A\bibinitperiod},
@@ -3463,11 +3476,11 @@
     \endentry
     \entry{KingLevine1993a}{article}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=e068047c81ba350319902fe3f06656cf}{%
+        {{un=0,uniquepart=base,hash=102836d79c5163d4c0ff79518bd33d34}{%
            family={King},
            familyi={K\bibinitperiod},
-           given={Robert\bibnamedelima G.},
-           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=4c1cd77b28a968c78efc1362f3c7dd21}{%
            family={Levine},
@@ -3476,12 +3489,12 @@
            giveni={R\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{fullhash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{bibnamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{authorbibnamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{authornamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
-      \strng{authorfullhash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{namehash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{fullhash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{bibnamehash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{authorbibnamehash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{authornamehash}{3191ecf756708aecd3a6cfecfb80df0f}
+      \strng{authorfullhash}{3191ecf756708aecd3a6cfecfb80df0f}
       \field{sortinit}{K}
       \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{extradatescope}{labelyear}
@@ -3666,6 +3679,7 @@
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Handbook of Economic Growth}
@@ -3700,6 +3714,7 @@
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Economic Review}
@@ -3737,6 +3752,7 @@
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Macroeconomics}
@@ -3773,6 +3789,7 @@
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Applied Econometrics}
@@ -3812,6 +3829,7 @@
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Applied Econometrics}
@@ -4162,6 +4180,7 @@
       \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Economic Review}
@@ -4198,6 +4217,7 @@
       \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Financial Economics}
@@ -4305,6 +4325,7 @@
       \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Monetary Economics}
@@ -4341,6 +4362,7 @@
       \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Economic Inquiry}
@@ -4924,13 +4946,13 @@
         {{un=0,uniquepart=base,hash=c69cec09c81141f50b5090b81b140cf8}{%
            family={Bazillier},
            familyi={B\bibinitperiod},
-           given={R{é}mi},
+           given={Rémi},
            giveni={R\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=abe67be924e9d633ccb1e32b00b52e68}{%
            family={Hericourt},
            familyi={H\bibinitperiod},
-           given={J{é}r{ô}me},
+           given={Jérôme},
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
@@ -4967,7 +4989,7 @@
            giveni={T\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
+           family={Demirgüç-Kunt},
            familyi={D\bibinithyphendelim K\bibinitperiod},
            given={Asli},
            giveni={A\bibinitperiod},
@@ -5087,7 +5109,7 @@
            giveni={C\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=bda1e2d84367b7789877ca0b96f967fd}{%
-           family={Br{ü}ck},
+           family={Brück},
            familyi={B\bibinitperiod},
            given={Tilman},
            giveni={T\bibinitperiod},
@@ -5250,21 +5272,21 @@
     \entry{castaneda2003}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=eeb7f79dc6e8a1362fc534d698c4eb11}{%
-           family={Casta{\~{n}}eda},
+           family={Casta\~{n}eda},
            familyi={C\bibinitperiod},
            given={Ana},
            giveni={A\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8092e2b2c8dbfc3fb39f8a8e7bef0256}{%
-           family={D{\'{\i}}az-Gim{\'{e}}nez},
-           familyi={D\bibinitperiod},
+           family={D\'{\i}az-Gim\'{e}nez},
+           familyi={D\bibinithyphendelim G\bibinitperiod},
            given={Javier},
            giveni={J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=f3b09d08b89748d667e8d2fa1a539d37}{%
-           family={R{\'{\i}}os-Rull},
-           familyi={R\bibinitperiod},
-           given={Jos{\'{e}}-V{\'{\i}}ctor},
+           family={R\'{\i}os-Rull},
+           familyi={R\bibinithyphendelim R\bibinitperiod},
+           given={Jos\'{e}-V\'{\i}ctor},
            giveni={J\bibinithyphendelim V\bibinitperiod},
            givenun=0}}%
       }
@@ -5408,13 +5430,13 @@
     \entry{Cihaketal2013}{report}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c80081a9aa784cb52994f76d7828f7c5}{%
-           family={Èih{á}k},
+           family={Èihák},
            familyi={È\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
+           family={Demirgüç-Kunt},
            familyi={D\bibinithyphendelim K\bibinitperiod},
            given={Asli},
            giveni={A\bibinitperiod},
@@ -5644,6 +5666,7 @@
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Review of Income and Wealth}
@@ -5664,7 +5687,7 @@
            giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=c5102b449c3d4a57be644f13880b2f9c}{%
-           family={Sandstr{ö}m},
+           family={Sandström},
            familyi={S\bibinitperiod},
            given={Susanna},
            giveni={S\bibinitperiod},
@@ -5696,6 +5719,7 @@
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Economic Journal}
@@ -5734,6 +5758,7 @@
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Handbook of Income Distribution}
@@ -5766,6 +5791,7 @@
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Review of Economic Studies}
@@ -5804,6 +5830,7 @@
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{European Economic Review}
@@ -6066,6 +6093,7 @@
       \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of International Money and Finance}
@@ -6103,6 +6131,7 @@
       \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{09/202}
@@ -6592,6 +6621,7 @@
       \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Bayesian Econometrics}
@@ -6632,6 +6662,7 @@
       \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Econometrics}
@@ -6687,6 +6718,7 @@
       \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Bayesian Econometric Methods}
@@ -6818,7 +6850,7 @@
            giveni={M\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=bfe250c33a77c5be89f2819d0be0d11b}{%
-           family={Ranci{\`{e}}re},
+           family={Ranci\`{e}re},
            familyi={R\bibinitperiod},
            given={Romain},
            giveni={R\bibinitperiod},
@@ -7160,9 +7192,9 @@
     \entry{pastor2016income}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=0ad5520ea34291d4f0b14d4297932384}{%
-           family={P{á}stor},
+           family={Pástor},
            familyi={P\bibinitperiod},
-           given={Lubo{š}},
+           given={Luboš},
            giveni={L\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=fe1ab971d5c8e3b83f7b36b6511a6186}{%
@@ -7256,6 +7288,7 @@
       \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Capital in the twenty-first century}
@@ -7289,6 +7322,7 @@
       \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Quarterly Journal of Economics}
@@ -7353,7 +7387,7 @@
            giveni={J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8379be9e35c882e5eebdeef5dc7c4cb8}{%
-           family={Waldenstr{ö}m},
+           family={Waldenström},
            familyi={W\bibinitperiod},
            given={Daniel},
            giveni={D\bibinitperiod},
@@ -7373,6 +7407,7 @@
       \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Scandinavian Journal of Economics}
@@ -7392,7 +7427,7 @@
            giveni={J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8379be9e35c882e5eebdeef5dc7c4cb8}{%
-           family={Waldenstr{ö}m},
+           family={Waldenström},
            familyi={W\bibinitperiod},
            given={Daniel},
            giveni={D\bibinitperiod},
@@ -7412,6 +7447,7 @@
       \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Handbook of Income Distribution}
@@ -7741,6 +7777,7 @@
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Economic Journal}
@@ -7776,6 +7813,7 @@
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Economic Perspectives}
@@ -7841,6 +7879,7 @@
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{2}
@@ -7889,6 +7928,7 @@
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Journal of Economic Perspectives}
@@ -7996,7 +8036,7 @@
            giveni={T\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
+           family={Demirgüç-Kunt},
            familyi={D\bibinithyphendelim K\bibinitperiod},
            given={Asli},
            giveni={A\bibinitperiod},
@@ -8022,6 +8062,7 @@
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Economic Growth}
@@ -8067,6 +8108,7 @@
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Journal of Finance}
@@ -8323,7 +8365,7 @@
     \entry{demirgucc2009finance}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8c6d66370c675b15171dea8018a82e23}{%
-           family={Demirg{ü}{ç}-Kunt},
+           family={Demirgüç-Kunt},
            familyi={D\bibinithyphendelim K\bibinitperiod},
            given={Asli},
            giveni={A\bibinitperiod},
@@ -8448,7 +8490,7 @@
         {{un=0,uniquepart=base,hash=24651ddee2f2be7d357254113ad43aaa}{%
            family={Stralen},
            familyi={S\bibinitperiod},
-           given={Ren{é}},
+           given={René},
            giveni={R\bibinitperiod},
            givenun=0,
            prefix={van},
@@ -8583,6 +8625,7 @@
       \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Review of Economic Studies}
@@ -8622,6 +8665,7 @@
       \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Review of Economic Studies}
@@ -8676,7 +8720,7 @@
         {{un=0,uniquepart=base,hash=b7dcdf1c2ac663e9031067dea54fdd75}{%
            family={Gimet},
            familyi={G\bibinitperiod},
-           given={C{é}line},
+           given={Céline},
            giveni={C\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=81ba38c117878fd09dbb42923e5adb3b}{%
@@ -9399,7 +9443,7 @@
            giveni={J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8379be9e35c882e5eebdeef5dc7c4cb8}{%
-           family={Waldenstr{ö}m},
+           family={Waldenström},
            familyi={W\bibinitperiod},
            given={Daniel},
            giveni={D\bibinitperiod},
@@ -9611,13 +9655,13 @@
         {{un=0,uniquepart=base,hash=c69cec09c81141f50b5090b81b140cf8}{%
            family={Bazillier},
            familyi={B\bibinitperiod},
-           given={R{é}mi},
+           given={Rémi},
            giveni={R\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=abe67be924e9d633ccb1e32b00b52e68}{%
            family={Hericourt},
            familyi={H\bibinitperiod},
-           given={J{é}r{ô}me},
+           given={Jérôme},
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
@@ -9687,7 +9731,7 @@
     \entry{cihaksahay2020}{report}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c80081a9aa784cb52994f76d7828f7c5}{%
-           family={Èih{á}k},
+           family={Èihák},
            familyi={È\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod},
@@ -9923,7 +9967,7 @@
         {{un=0,uniquepart=base,hash=5dea929fe39d85383022397669087307}{%
            family={Onaran},
            familyi={O\bibinitperiod},
-           given={{Ö}zlem},
+           given={Özlem},
            giveni={Ö\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=4a9dcd2d346549adb569eca71d4f9403}{%
@@ -9966,7 +10010,7 @@
            giveni={M\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=bfe250c33a77c5be89f2819d0be0d11b}{%
-           family={Ranci{\`{e}}re},
+           family={Ranci\`{e}re},
            familyi={R\bibinitperiod},
            given={Romain},
            giveni={R\bibinitperiod},

@@ -1009,27 +1009,25 @@
 }
 
 @Article{KingLevine1993a,
-  Title                    = {Finance, Entrepreneurship and Growth: Schumpeter might be right},
-  Author                   = {Robert G. King and Ross Levine},
-  Journal                  = {Quarterly Journal of Economics},
-  Year                     = {1993},
-  Pages                    = {717-737},
-  Volume                   = {108},
-
-  Owner                    = {jxm},
-  Timestamp                = {2013.12.31}
+  author    = {Robert King and Ross Levine},
+  journal   = {Quarterly Journal of Economics},
+  title     = {Finance, Entrepreneurship and Growth: Schumpeter might be right},
+  year      = {1993},
+  pages     = {717-737},
+  volume    = {108},
+  owner     = {jxm},
+  timestamp = {2013.12.31},
 }
 
 @Article{KingLevine1993b,
-  Title                    = {Finance, Entrepreneurship and Growth: Theory and Evidence},
-  Author                   = {Robert G. King and Ross Levine},
-  Journal                  = {Journal of Monetary Economics},
-  Year                     = {1993},
-  Pages                    = {513-542},
-  Volume                   = {32},
-
-  Owner                    = {jxm},
-  Timestamp                = {2013.12.31}
+  author    = {Robert King and Ross Levine},
+  journal   = {Journal of Monetary Economics},
+  title     = {Finance, Entrepreneurship and Growth: Theory and Evidence},
+  year      = {1993},
+  pages     = {513-542},
+  volume    = {32},
+  owner     = {jxm},
+  timestamp = {2013.12.31},
 }
 
 @TechReport{Kneer2013,
@@ -3283,6 +3281,27 @@ abstract = "This paper examines the role of financial development on U.S. state-
   pages     = {1--41},
   volume    = {118},
   publisher = {MIT Press},
+}
+
+@Article{johns2010distribution,
+  author    = {Johns, Andrew and Slemrod, Joel},
+  journal   = {National Tax Journal},
+  title     = {The distribution of income tax noncompliance},
+  year      = {2010},
+  number    = {3},
+  pages     = {397},
+  volume    = {63},
+  publisher = {National Tax Association},
+}
+
+@Article{alstadsaeter2019tax,
+  author  = {Alstads{\ae}ter, Annette and Johannesen, Niels and Zucman, Gabriel},
+  journal = {American Economic Review},
+  title   = {Tax evasion and inequality},
+  year    = {2019},
+  number  = {6},
+  pages   = {2073--2103},
+  volume  = {109},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
